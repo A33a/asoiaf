@@ -1,0 +1,27 @@
+Diameter: 8
+Average path: 3.52896
+Average farthest path: 5.84116
+Farthest paths:
+1: Mother Mole. Thistle. Varamyr. Jon Snow. Tyrion Lannister. Jorah Mormont. Dany Targaryen. An Old Crone. Crones General. 
+2: Mother Mole. Thistle. Varamyr. Jon Snow. Ned Stark. Barristan Selmy. Quentyn Martell. The Tattered Prince. Orson Stone. 
+3: Mother Mole. Thistle. Varamyr. Jon Snow. Ned Stark. Barristan Selmy. Quentyn Martell. Caggo. Lucifer Long. 
+4: Mother Mole. Thistle. Varamyr. Jon Snow. Theon Greyjoy. Aeron Damphair. Quellon Humble. Fralegg the Strong. Alvyn Sharp. 
+5: Crones General. An Old Crone. Dany Targaryen. People. Melisandre. Mance Rayder. Varamyr. Thistle. Mother Mole. 
+6: Orson Stone. The Tattered Prince. Gerris Drinkwater. A Captain. Theon Greyjoy. Mance Rayder. Varamyr. Thistle. Mother Mole. 
+7: Lucifer Long. The Tattered Prince. Gerris Drinkwater. A Captain. Theon Greyjoy. Mance Rayder. Varamyr. Thistle. Mother Mole. 
+8: Alvyn Sharp. Red Ralf Stonehouse. Euron Greyjoy. Asha Greyjoy. Theon Greyjoy. Mance Rayder. Varamyr. Thistle. Mother Mole. 
+9: Lewis Lanster. The Tattered Prince. Gerris Drinkwater. A Captain. Theon Greyjoy. Mance Rayder. Varamyr. Thistle. Mother Mole. 
+10: Mother Mole. Thistle. Varamyr. Jon Snow. Ned Stark. Barristan Selmy. Quentyn Martell. The Tattered Prince. Lewis Lanster. 
+Farthest paths distribution:
+0: 0
+1: 0
+2: 0
+3: 0
+4: 2
+5: 311
+6: 662
+7: 127
+8: 6
+Characters with minimum farthest path:
+Theon Greyjoy
+Catelyn Stark

@@ -1,0 +1,1108 @@
+Tyrion Lannister: 170
+Jon Snow: 129
+Arya Stark: 107
+Jaime Lannister: 105
+Cersei Lannister: 88
+Catelyn Stark: 87
+Theon Greyjoy: 79
+Dany Targaryen: 75
+Brienne: 74
+Sansa Stark: 71
+Ned Stark: 60
+Robb: 59
+Sam: 58
+Littlefinger: 56
+Joffrey Lannister: 49
+Barristan Selmy: 47
+A Man: 46
+Davos Seaworth: 45
+Sandor Clegane: 45
+Asha Greyjoy: 45
+Bran Stark: 43
+Stannis Baratheon: 35
+Gendry: 35
+Rodrik Cassel: 35
+Tywin Lannister: 35
+A Guard: 34
+Jorah Mormont: 32
+Varys: 32
+Mormont's Raven: 31
+Grand Maester Pycelle: 31
+Roose Bolton: 31
+Lem Lemoncloak: 31
+Jeor Mormont: 30
+Renly Baratheon: 30
+A Captain: 29
+Yoren: 29
+Edmure Tully: 27
+Grenn: 26
+Melisandre: 26
+Kevan Lannister: 25
+Alliser Thorne: 24
+Tom Sevenstrings: 24
+Victarion Greyjoy: 24
+Aeron Damphair: 23
+Dolorous Edd: 23
+Podrick Payne: 23
+Maester Luwin: 23
+Aemon Targaryen: 22
+Brynden Tully: 22
+Mance Rayder: 22
+Tormund Giantsbane: 22
+Justin Massey: 21
+A Woman: 21
+Jon Connington: 20
+An Old Man: 20
+Robert Baratheon: 20
+Arianne Martell: 20
+Quentyn Martell: 20
+Randyll Tarly: 20
+Selyse Baratheon: 19
+Mace Tyrell: 19
+Qyburn: 19
+Loras Tyrell: 19
+Ramsay Bolton: 19
+Gilly: 19
+Reznak mo Reznak: 19
+Tommen: 18
+Bowen Marsh: 18
+Penny: 18
+Euron Greyjoy: 18
+Walder Frey: 18
+Beric Dondarrion: 18
+Thoros: 18
+Hizdahr zo Loraq: 18
+Hot Pie: 18
+Anguy: 18
+Doran Martell: 17
+Gerris Drinkwater: 17
+Craster: 17
+Ygritte: 17
+Jack-Be-Lucky: 17
+Rorge: 17
+Harwin: 17
+Wyman Manderly: 17
+Janos Slynt: 17
+Hyle Hunt: 17
+Margaery Tyrell: 17
+A Serjeant: 16
+Greatjon: 16
+Jojen Reed: 16
+Hodor: 16
+Bronn: 16
+A Voice: 16
+Pyp: 16
+Voices: 15
+Osha: 15
+Lysa Arryn: 15
+Robert Arryn: 15
+Rattleshirt: 15
+A Herald: 15
+Osmund Kettleblack: 15
+Val: 15
+A Raven: 14
+Marillion: 14
+Irri: 14
+Edwyn Frey: 14
+Thoren Smallwood: 14
+Meera Reed: 14
+Vargo Hoat: 14
+An Old Woman: 14
+Dareon: 13
+Boros Blount: 13
+Donal Noye: 13
+A Sallow Man: 13
+Myrcella Lannister: 13
+Godry Farring: 13
+Shagwell: 13
+Haldon Halfmaester: 13
+Qhorin Halfhand: 13
+A Black Brother: 13
+Oberyn Martell: 13
+Marq Piper: 13
+Axell Florent: 13
+Mully: 13
+Brown Ben Plumm: 13
+Greenbeard: 12
+Hosteen Frey: 12
+Aegon Targaryen: 12
+Olenna Tyrell: 12
+Grey Worm: 12
+Shireen Baratheon: 12
+Archibald Yronwood: 12
+An Innkeep: 12
+Paxter Redwyne: 12
+Balon Swann: 12
+Clayton Suggs: 12
+A Sailor: 12
+Jeyne Poole: 12
+A Knight: 12
+Harys Swyft: 12
+Skahaz mo Kandaq: 12
+Meryn Trant: 12
+Aeron Greyjoy: 12
+Missandei: 12
+A Squire: 12
+Chett: 12
+Patchface: 12
+Satin: 11
+Lyn Corbray: 11
+Shae: 11
+Little Walder: 11
+Illyrio: 11
+The Tattered Prince: 11
+Nestor Royce: 11
+Harry Strickland: 11
+Big Walder: 11
+Karyl Vance: 11
+Cleos Frey: 11
+Strongboar: 11
+Devan Seaworth: 11
+Addam Marbrand: 11
+Aggo: 11
+A Gold Cloak: 11
+Dywen: 11
+Wendel Manderly: 11
+Daario Naharis: 11
+Clydas: 11
+Mathis Rowan: 11
+A Fat Man: 11
+Jhogo: 11
+Someone: 11
+Cotter Pyke: 10
+Viserys: 10
+Zahrina: 10
+Steelshanks Walton: 10
+Othell Yarwyck: 10
+Rickon: 10
+A Girl: 10
+Jory: 10
+Rowan: 10
+Areo Hotah: 10
+A Septon: 10
+Septon Meribald: 10
+Shagga: 10
+Creighton Longbough: 9
+Septon Cellador: 9
+Aenys Frey: 9
+Gregor Clegane: 9
+Symon Stripeback: 9
+Lothar Frey: 9
+A Maester: 9
+Garin: 9
+Men: 9
+Chella: 9
+Richard Horpe: 9
+Halder: 9
+Styr: 9
+Xaro Xhoan Daxos: 9
+Ryman Frey: 9
+Willow Heddle: 9
+High Septon: 9
+Robett Glover: 9
+Bedwyck: 9
+Rhaegar Targaryen: 9
+Dontos: 9
+Belwas: 9
+Maester Cressen: 9
+Leo Tyrell: 9
+Arys Oakheart: 9
+Varamyr: 9
+Salladhor Saan: 8
+Daven Lannister: 8
+An Oarsman: 8
+A Whore: 8
+Raymun Darry: 8
+Hallis Mollen: 8
+Corliss Penny: 8
+Septa Scolera: 8
+Robin Peasebury: 8
+Ralf the Limper: 8
+Tyene Sand: 8
+Maester Vyman: 8
+A Crossbowman: 8
+Galazza Galare: 8
+Walder Rivers: 8
+Alleras: 8
+Mya Stone: 8
+Drey: 8
+Galbart Glover: 8
+Jaqen H'ghar: 8
+A Boy: 8
+Khal Drogo: 8
+Old Nan: 8
+Taena Merryweather: 8
+Franklyn Flowers: 8
+Coldhands: 8
+Dick Crabb: 8
+Benjen Stark: 8
+An Archer: 7
+Queen's Men: 7
+Alys Karstark: 7
+Sharna: 7
+Obara Sand: 7
+Anya Waynwood: 7
+Mirri Maz Duur: 7
+Dirk: 7
+A Kindly Man: 7
+Edric Storm: 7
+Big Bucket Wull: 7
+Black Brothers: 7
+An Inkeeper: 7
+Hoster Tully: 7
+A Rider: 7
+Yandry: 7
+Arthur Dayne: 7
+Rickard Karstark: 7
+Maester Theomore: 7
+Wylla Manderly: 7
+Lommy: 7
+Leona Woolfield: 7
+Alester Florent: 7
+Hugh Hungerford: 7
+Horse: 7
+Desmond Grell: 7
+Tanda Stokeworth: 7
+Nymeria Sand: 7
+Jaremy Rykker: 7
+Tycho Nestoris: 7
+Pate: 7
+Gerold Dayne: 7
+Lancel Lannister: 7
+Rodrik Harlaw: 7
+Bryce Caron: 7
+Maege Mormont: 7
+Rakharo: 7
+Toad: 7
+Hullen: 7
+Maester Pylos: 7
+Nurse: 7
+Jhiqui: 7
+Doreah: 7
+Holly: 7
+Jeyne Westerling: 6
+Bronze Yohn Royce: 6
+Stevron Frey: 6
+Jarl: 6
+High Sparrow: 6
+Robar Royce: 6
+Brother Narbert: 6
+Barbrey Dustin: 6
+Pia: 6
+Septa Lemore: 6
+Cortnay Penrose: 6
+Mariya Darry: 6
+Garlan Tyrell: 6
+Owen the Oaf: 6
+Mollander: 6
+Denzo D'han: 6
+Three-Finger Hobb: 6
+Aurane Waters: 6
+Orton Merryweather: 6
+A Townsman: 6
+Clubfoot Karl: 6
+Eon Hunter: 6
+Osfryd Kettleblack: 6
+A Frey: 6
+Pyat Pree: 6
+An Auctioneer: 6
+Ravella Swann: 6
+Emmon Frey: 6
+Hibald: 6
+Armen: 6
+Kraznys: 6
+Osney Kettleblack: 6
+Quaithe: 6
+Small Paul: 6
+Conn: 6
+Jared Frey: 6
+Ellaria Sand: 6
+Denys Mallister: 6
+Farlen: 6
+Shadrich: 6
+A Proprietor: 5
+Joss: 5
+A Cobbler: 5
+Sybell Spicer: 5
+Lysono Maar: 5
+Iron Emmett: 5
+Cletus Yronwood: 5
+Robert's Steward: 5
+Marwyn Belmore: 5
+Captain Groleo: 5
+Gilwood Hunter: 5
+Josmyn Peckledon: 5
+Robin Ryger: 5
+A Brazen Beast: 5
+Wynafryd Manderly: 5
+Nute: 5
+Hairy Hal: 5
+Longspear Ryk: 5
+Vogarro's Whore: 5
+Elder Brother: 5
+Urswyck: 5
+Amerei Frey: 5
+Myranda Royce: 5
+Mallador Locke: 5
+Septa Moelle: 5
+A Craster Wife: 5
+Moqorro: 5
+Maester Ballabar: 5
+A Wildling: 5
+Kedge: 5
+Symon Silvertongue: 5
+Koss: 5
+Lothor Brune: 5
+Danwell Frey: 5
+Amory Lorch: 5
+Walda Bolton: 5
+Albar Royce: 5
+Leaf: 5
+Septa Mordane: 5
+Stonesnake: 5
+Ser Illifer: 5
+Ser Kennos: 5
+Narbert: 5
+Beans: 5
+A Sentry: 5
+Red Oarsman: 5
+Gerold Hightower: 5
+Jarman Buckwell: 5
+Maester Colemon: 5
+Marlon Manderly: 5
+Timett: 5
+Twyin Lannister: 5
+Tobho Mott: 5
+Tansy: 5
+Reysen: 5
+Qotho: 5
+Septa Unella: 5
+Rolly Duckfield: 5
+Emmon Cuy: 5
+Caggo: 5
+Aerys Targaryen: 5
+Sweets: 5
+Merrett Frey: 5
+Sweet Donnel: 5
+Ulmer: 5
+A Tyroshi: 5
+Red Ralf Stonehouse: 5
+Lark: 5
+Quellon Humble: 4
+Bloodraven: 4
+Lollys Stokeworth: 4
+An Alchemist: 4
+Spotted Sylva: 4
+Ghost of High Heart: 4
+Leathers: 4
+Thistle: 4
+Willis Wode: 4
+A Mob: 4
+Baelor Blacktyde: 4
+An Old Fellow: 4
+A Grazdan: 4
+Bidder: 4
+Garth of Greenaway: 4
+Notch: 4
+Tristifer Botley: 4
+Gorold Goodbrother: 4
+Brandon Stark: 4
+Brusco: 4
+Colen: 4
+Lord Estermont: 4
+Adrack Humble: 4
+Raven: 4
+Galyeon: 4
+Lucas Codd: 4
+Genna Lannister: 4
+Timeon: 4
+The Lady of the Leaves: 4
+Sour Alyn: 4
+Mikken: 4
+Jonos Bracken: 4
+Goodwife Amabel: 4
+A Bricklayer: 4
+A Scout: 4
+Harwood Fell: 4
+A Farmer: 4
+The Mad Huntsman: 4
+Damon Dance-for-Me: 4
+Cohollo: 4
+A Wine Merchant: 4
+Roone: 4
+Lewyn Martell: 4
+Brella: 4
+The Sailor's Wife: 4
+Gunthor: 4
+Haggo: 4
+A Spearman: 4
+Vardis Egen: 4
+Roger Ryswell: 4
+Jacelyn Bywater: 4
+Septas: 4
+Norrey: 4
+Tytos Blackwood: 4
+Gyles Rosby: 4
+Horton Redfort: 4
+Patrek Mallister: 4
+Falyse Stokeworth: 4
+Grigg: 4
+Alayaya: 4
+A Big Man: 4
+Joss the Gloom: 4
+The Chief Cook: 4
+Hake: 4
+Rhaegar Frey: 4
+Arwood Frey: 4
+Chataya: 4
+Wulfe One-Ear: 4
+Ottyn Wythers: 4
+Weeper: 4
+Ser Patrek: 4
+Hallyne: 4
+A Smith: 4
+Artos Flint: 4
+Hali: 4
+Mandon Moore: 4
+Guyard Morrigen: 4
+Sylva Santagar: 4
+Martyn Rivers: 4
+Ollo Lophand: 4
+Jon Fossoway: 4
+A Red Cloak: 4
+People: 4
+A Freerider: 4
+Rory: 4
+Wallen: 4
+Dick Straw: 4
+A Person: 4
+Balon Greyjoy: 4
+Mord: 4
+Harma Dogshead: 4
+Stiv: 4
+Qarl the Maid: 4
+Polliver: 4
+Tristan Rivers: 4
+Shitmouth: 4
+A Soldier: 4
+Xhondo: 4
+A Spearwife: 4
+Masha Heddle: 4
+Tomard: 4
+Black Lorren: 4
+Jeyne Heddle: 4
+Revelers: 4
+A Serving Girl: 4
+Quent: 4
+Syrio Forel: 4
+Ebben: 4
+Forley Prester: 4
+Mors Umber: 4
+Laswell Peake: 4
+Squire Dalbridge: 4
+Marselen: 4
+Ysilla: 4
+Utherydes Wayn: 4
+The Brotherhood: 4
+Alerie Tyrell: 4
+A Dwarf: 4
+A Merchant: 4
+Septon Chayle: 4
+Pretty Meris: 3
+Drumm: 3
+Bloodbeard: 3
+Cromm: 3
+Alyx Frey: 3
+Ragwyle: 3
+Alysane Mormont: 3
+Maester Murenmure: 3
+Cley Cerwyn: 3
+Hayhead: 3
+A Yunkish Lord: 3
+A Riverman: 3
+Edric Dayne: 3
+Ulf: 3
+A White Raven: 3
+A Yunkishman: 3
+Lorren Longaxe: 3
+Black Walder: 3
+Black Jack Bulwer: 3
+Halleck: 3
+The Waif: 3
+Ser Malegorn: 3
+A Greybeard: 3
+A Sellsword: 3
+Hotho Harlaw: 3
+A Slave Trader: 3
+A Villager: 3
+Jon Darry: 3
+Inkpots: 3
+Butterbumps: 3
+Maester Caleotte: 3
+A Peddler: 3
+Utt: 3
+Lymond Pease: 3
+Old Flint: 3
+Lharys: 3
+Waymar Royce: 3
+Jon's Friends: 3
+Symond Templeton: 3
+Ser Bartimus: 3
+Grimtongue: 3
+The Widower: 3
+Squirrel: 3
+A Braavosi: 3
+Perwyn Frey: 3
+Arnolf Karstark: 3
+Wylis Manderly: 3
+A Pitmaster: 3
+A Thenn: 3
+Denyo: 3
+Maester Ottomore: 3
+Tyrion's Man: 3
+Maggy: 3
+Dancy: 3
+Merlyn: 3
+A Sergeant: 3
+Borroq: 3
+Rommo: 3
+Liddle: 3
+Hoster Blackwood: 3
+Ser Dermot: 3
+Bella: 3
+Tysha: 3
+Khrazz: 3
+Benedar Belmore: 3
+A Raper: 3
+A Weaver: 3
+Ricasso: 3
+Kyra: 3
+Jason Mallister: 3
+A Young Man: 3
+Raynald Westerling: 3
+Prendahl Na Ghezn: 3
+Ronnel Harclay: 3
+A Crewman: 3
+Astapori: 3
+Gormond Goodbrother: 3
+Longwater Pyke: 3
+Helman Tallhart: 3
+Megga Tyrell: 3
+A Wizard King: 3
+Rollam Westerling: 3
+Kem: 3
+Steffarion Sparr: 3
+Hothor Umber: 3
+Kurleket: 3
+Dorcas: 3
+A Serving Man: 3
+A Flint: 3
+Leobald Tallhart: 3
+Andrew Estermont: 3
+Ezzara: 3
+Matthos Seaworth: 3
+Morgan Liddle: 3
+Skinner: 3
+Raff: 3
+Matthar: 3
+A Captain's Daughter: 3
+A Miller: 3
+Oswell Kettleblack: 3
+A Gaoler: 3
+Skyte: 3
+Ser Goodwin: 3
+Dacey Mormont: 3
+Archmaester Marwyn: 3
+Shortear: 3
+Kasporio: 3
+Mero: 3
+Lyanna: 3
+Dobber: 3
+Donella Hornwood: 3
+Sigorn: 3
+Yezzan: 3
+Donnel Waynwood: 3
+Godric Borrell: 3
+A One-Armed Woman: 3
+Gwynesse Harlaw: 3
+Desmond: 3
+The Blue Bard: 2
+Fulk the Flea: 2
+Rymund the Rhymer: 2
+Clement Frey: 2
+Olyvar: 2
+Dalla: 2
+Yoren's Charge: 2
+A Lord: 2
+An Older Man: 2
+Ghael: 2
+Black Balaq: 2
+Bannen: 2
+Petyr Pimple: 2
+A Royal Steward: 2
+Craster Wives: 2
+Septa Roelle: 2
+Alf of Runnymudd: 2
+Drogo's Khalasar: 2
+Gorys Edoryen: 2
+Bidders: 2
+Tom Barleycorn: 2
+Books: 2
+Frenya: 2
+A Scarred Man: 2
+Gyles Grafton: 2
+Ben Bones: 2
+Del: 2
+Errok: 2
+A Prisoner: 2
+Other Men: 2
+Tickler: 2
+A Counselor: 2
+Erik Ironmaker: 2
+Dagon Codd: 2
+A Groom: 2
+Gage: 2
+Big Liddle: 2
+Quhuru Mo: 2
+Scar: 2
+A Stocky Man: 2
+Oswell Whent: 2
+Pinkeye: 2
+Gran: 2
+Victarion's Champions: 2
+Euron's Bastard: 2
+A Tall Woman: 2
+Soren Shieldbreaker: 2
+Watty: 2
+Gerrick Kingsblood: 2
+A Matron: 2
+A Goat Boy: 2
+Lady Frey: 2
+Lewys Piper: 2
+Gerion Lannister: 2
+Barra's Mother: 2
+Azzak: 2
+Orbelo: 2
+Ronnet Connington: 2
+Woth: 2
+An Apple Seller: 2
+Tygett Lannister: 2
+A Blue Grace: 2
+Freys: 2
+A Weeping Man: 2
+A Ryswell: 2
+A Hornwood: 2
+Dany's Outriders: 2
+Prince Duncan: 2
+Elmar Frey: 2
+Harwood Stout: 2
+Wick Whittlestick: 2
+Captain Khorane: 2
+A Drinker: 2
+Tarber: 2
+The Spotted Cat: 2
+Ser Morgarth: 2
+Maslyn: 2
+Sand Snakes: 2
+Rennifer Longwaters: 2
+Street Vendors: 2
+An Elder: 2
+Old Tattersalt: 2
+Goodwife Harra: 2
+Lord Fell: 2
+Arwyn Oakheart: 2
+Puckens: 2
+Alebelly: 2
+Norbert Vance: 2
+Germund Botley: 2
+Dany's Courtiers: 2
+Shadd: 2
+Goghor: 2
+Rolfe the Dwarf: 2
+Ormund Wylde: 2
+A Thief: 2
+An Unsullied: 2
+Qavo Nogarys: 2
+A Blonde Man: 2
+Garth of Oldtown: 2
+A Blond Girl: 2
+A Slattern: 2
+An Old Crone: 2
+Hother: 2
+A Monk: 2
+Ser Manfrey: 2
+Ben Big Mouth: 2
+Roslin: 2
+Asha's Crew: 2
+Roose Ryswell: 2
+A Fool: 2
+A Man-at-Arms: 2
+Quenton Greyjoy: 2
+An Animal Trainer: 2
+Selwyn Tarth: 2
+Knights: 2
+Other Voices: 2
+Lamprey: 2
+A Begging Brother: 2
+A Stableman: 2
+An Old Slave: 2
+Clement Piper: 2
+Ned Woods: 2
+Serjeants: 2
+Girls: 2
+Urzen: 2
+Hildy: 2
+A Mother: 2
+A Guard Captain: 2
+The Herald: 2
+City Watchman: 2
+A Ranger: 2
+Blane: 2
+The Corpsekiller: 2
+Rolley of Sisterton: 2
+Spare Boot: 2
+Rus: 2
+A Father: 2
+A One-Legged Man: 2
+Believers: 2
+Clarence Crabb: 2
+The Waves: 2
+Torwold Browntooth: 2
+Spotted Cat: 2
+Lysa Tully: 2
+Melara: 2
+Miklaz: 2
+Lyman Darry: 2
+Bluetooth: 2
+Wedding Guests: 2
+Ravens: 2
+Kromm: 2
+A Mate: 2
+A Weeping Boy: 2
+Willem Darry: 2
+Quort: 2
+Myrmello: 2
+Others: 2
+A Dornishman: 2
+Helya: 2
+Gylbert Farwynd: 2
+Plague Face: 2
+Wex: 2
+Brogg: 2
+Harghaz: 2
+Meralyn: 2
+A False Guard: 2
+A Few Voices: 2
+Myles Toyne: 2
+A Stripling: 2
+Hamish the Harper: 2
+A Florent: 2
+Zei: 2
+Leo Lefford: 2
+Wyl: 2
+Maester Frenken: 2
+Humfrey Wagstaff: 2
+Porridge: 2
+An Old Fat Septa: 2
+Septon Barth: 2
+A Cole: 2
+The High Septon: 2
+A Slow Boy: 2
+A Queen's Man: 2
+Steffon Baratheon: 2
+Chiggen: 2
+Renly's Steward: 2
+Rufus Leek: 2
+A Sparrow: 2
+Alvyn Sharp: 2
+Archmaester Ryam: 2
+Trystane: 2
+Sybelle Glover: 2
+River Lords: 2
+A Goodwife: 2
+Sumner Crakehall: 2
+Kurz: 2
+Grisel: 2
+Bonifer Hasty: 2
+Some Drunken Slattern: 2
+Old Bill Bone: 2
+Rolland Storm: 2
+Theodan Wells: 2
+Steelskin: 2
+Lucifer Long: 2
+Mollono Yos Dob: 2
+Lady Tarbeck: 2
+Young Cerwyn: 2
+Lorimer the Belly: 2
+A Eunuch: 2
+Harbert: 2
+Glover's Steward: 2
+Balman Byrch: 2
+Kedge Whiteye: 2
+Nail: 2
+Three-Tooth: 2
+Ralf Kenning: 2
+Musicians: 2
+Ironbelly: 2
+A Seamstress: 2
+Alyn: 2
+The Smiling Knight: 2
+A Ghiscari: 2
+A Baker's Boy: 2
+A Crowd: 2
+Lum: 2
+Leonette Fossoway: 2
+Lucas Blackwood: 2
+Master of Revels: 2
+Humfrey Clifton: 2
+A Village Woman: 2
+Alyn Orkwood: 2
+A Fieldhand: 2
+Viserys's Ghost: 2
+Bran's Assassin: 2
+Someone Else: 2
+A Ferryman: 2
+Rickard Ryswell: 2
+Ser Glendon: 2
+An Acolyte: 2
+Elinor: 2
+Cutjack: 2
+Marq Mandrake: 2
+Alan of Rosby: 2
+Daeron Targaryen: 2
+A Drunken Archer: 2
+A Dreadfort Man: 2
+A Pink-Cheeked Youth: 2
+Oarsman: 2
+A Septa: 2
+Rhaella: 2
+Symon Silver Tongue: 2
+Allard Seaworth: 2
+Moreo Turnitis: 2
+A Bidder: 2
+Haggon: 2
+Ternesio Terys: 2
+A Bloody Mummer: 2
+A Drunkard: 2
+Myrtle: 2
+Roggon Rustbeard: 2
+Sellswords: 2
+Craster's Wife: 2
+Toasters: 2
+A Windblown: 2
+Lucan: 2
+Byron the Beautiful: 2
+Will: 2
+Yna: 2
+Dagon Greyjoy: 2
+Ser Oswell: 2
+Gretchel: 2
+Mycah: 2
+A Young Squire: 2
+Casso Mogat: 2
+Preston Greenfield: 2
+Joseth: 2
+Luton: 2
+Ser Narbert: 2
+A Frey Captain: 2
+Vargo: 2
+Vayon Poole: 2
+Oswald Kettleblack: 2
+Tagganaro: 2
+Gared: 2
+Ondrew Locke: 2
+Grazhar: 2
+A Novice: 2
+Septon Utt: 2
+Bystanders: 2
+A Hundred Voices: 2
+Jon Lynderly: 2
+An Ibbenese Man: 2
+Drowned Men: 2
+Dale: 2
+Maester Brenett: 2
+A Healer: 2
+Alannys Harlaw: 2
+Northmen: 2
+The Alchemist: 2
+Bertram Beesbury: 2
+Lord Sweet: 2
+Stout's Cook: 2
+Dick Follard: 2
+The Black Gate: 2
+Aggo and Rakharo: 2
+Kojja: 2
+A Prophet: 2
+Wun Wun: 2
+A Stableboy: 2
+Fralegg the Strong: 2
+Slave Girls: 2
+A Potboy: 2
+Burton Humble: 2
+Rast: 2
+Courtier: 2
+Soldiers: 2
+Tyrion's Men: 2
+Jeren: 2
+Hagen: 2
+A Highborn Voice: 2
+A Bedmaid: 2
+A Runner: 2
+Robert's Ghost: 2
+Horas Redwyne: 2
+Benfred Tallheart: 2
+A Guardsman: 2
+A Third Voice: 2
+A Warrior: 2
+A Woods Witch: 2
+Renfred Rykker: 2
+Snatch: 2
+Ralf Stonehouse: 2
+Beth Cassel: 2
+White Ravens: 2
+Quaro: 2
+An Eagle: 1
+Cregan Karstark: 1
+Slave Girl: 1
+Jocelyn Swyft: 1
+Garse: 1
+Riders: 1
+A Qartheen: 1
+Maddy: 1
+Lewis Lanster: 1
+Talea: 1
+Roro: 1
+Cedra: 1
+Imry Florent: 1
+Varamyr's Father: 1
+Borrell: 1
+Mellario: 1
+A Bowman: 1
+A Cerwyn Knight: 1
+Vegetation: 1
+Pynto: 1
+A Wounded Man: 1
+A Senile Knight: 1
+Mother Mole: 1
+Harmund: 1
+A Captive: 1
+Salloreon: 1
+Black-haired Woman: 1
+Bryen: 1
+Will Foxglove: 1
+A Local: 1
+A Madwoman: 1
+Flement Brax: 1
+A Captain's Sister: 1
+A Connington: 1
+The Vole: 1
+Two Someones: 1
+Elia Martell: 1
+Hoster's Steward: 1
+Grazdan zo Galare: 1
+Emmond: 1
+Arthor Karstark: 1
+Draqaz: 1
+A Servant: 1
+Merry Frey: 1
+A Frey Son: 1
+An Aged Knight: 1
+The Faithful: 1
+A Brown-Skinned Man: 1
+A Brother: 1
+Harys Haigh: 1
+Toregg: 1
+A Dying Man: 1
+Greydon Goodbrother: 1
+Worshipers: 1
+Dancers: 1
+Barsena: 1
+A Freedwoman: 1
+Aemon Rivers's Daughter: 1
+A Youth: 1
+Donnel Haigh: 1
+A Lannister Bowman: 1
+Red Ronnet Connington: 1
+Tuffleberry: 1
+Triston of Tally Hill: 1
+Three-Eyed Crow: 1
+Vylarr: 1
+A Sausage Seller: 1
+Sallor: 1
+Tyrion's Steward: 1
+A Pushcart Man: 1
+Jon Myre: 1
+Captains: 1
+Tregar: 1
+Eroeh: 1
+Gariss: 1
+Caswell: 1
+A Dead-Eyed Woman: 1
+A Karstark: 1
+Orson Stone: 1
+A Barrowtown Man: 1
+Jacks: 1
+Tal Taraq: 1
+A Wife: 1
+William Wells: 1
+Unsullied: 1
+Talbert Serry: 1
+Jon's Men: 1
+Guards: 1
+The Mother: 1
+Grazdan: 1
+Qezza: 1
+Malo: 1
+An Ibbenese: 1
+An Armorer: 1
+Brendel Byrne: 1
+A Costermonger: 1
+Ironmen: 1
+A Garth: 1
+Garth: 1
+Larra Blackmont: 1
+A Longshoreman: 1
+Morton Waynwood: 1
+Yorko Terys: 1
+Jace: 1
+Roger Hogg: 1
+Arron: 1
+The Moon: 1
+A Stone Crow: 1
+A Slave: 1
+Septon Raynard: 1
+A Pander: 1
+A Castellan: 1
+A Wildling Girl: 1
+Kella: 1
+A Blonde Woman: 1
+A Codd: 1
+Lannister Ghosts: 1
+Stygg: 1
+Byan Votyris: 1
+Northern Lords: 1
+A Naked Serving Girl: 1
+Eddard Karstark: 1
+Grell: 1
+Ghosts: 1
+Maester Kerwin: 1
+A Cook: 1
+A Smiley Old Man: 1
+A Maid: 1
+Dagmer Cleftjaw: 1
+Smallfolk: 1
+A Whent Man: 1
+Crones General: 1
+Roland Crakehall: 1
+A Rector: 1
+A Freedman: 1
+Morgo: 1
+Noho: 1
+Slaves: 1
+Ronel Rivers: 1
+An Old Woman's Friend: 1
+Kingsguards: 1
+A Fisherman: 1
+Cossomo the Conjurer: 1
+Albett: 1
+Ternesio: 1

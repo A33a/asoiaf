@@ -1,0 +1,1817 @@
+Distribution:
+2: 415
+3: 649
+4: 413
+5: 218
+6: 83
+7: 19
+8: 3
+9: 7
+Cliques:
+1(9): Anguy. Lem Lemoncloak. Sandor Clegane. Tom Sevenstrings. Harwin. Beric Dondarrion. Arya Stark. Gendry. Jack-Be-Lucky. 
+2(9): Renly Baratheon. Joffrey Lannister. Sansa Stark. Varys. Ned Stark. Barristan Selmy. Grand Maester Pycelle. Littlefinger. Robert Baratheon. 
+3(9): Tyrion Lannister. Jaime Lannister. Cersei Lannister. Varys. Tywin Lannister. Kevan Lannister. Grand Maester Pycelle. Littlefinger. Mace Tyrell. 
+4(9): Tyrion Lannister. Cersei Lannister. Joffrey Lannister. Varys. Tywin Lannister. Kevan Lannister. Grand Maester Pycelle. Littlefinger. Mace Tyrell. 
+5(9): Tyrion Lannister. Cersei Lannister. Joffrey Lannister. Varys. Tywin Lannister. Kevan Lannister. Littlefinger. Paxter Redwyne. Mace Tyrell. 
+6(9): Lem Lemoncloak. Sandor Clegane. Tom Sevenstrings. Harwin. Thoros. Beric Dondarrion. Arya Stark. Gendry. Jack-Be-Lucky. 
+7(9): Cersei Lannister. Joffrey Lannister. Sansa Stark. Varys. Ned Stark. Barristan Selmy. Grand Maester Pycelle. Littlefinger. Robert Baratheon. 
+8(8): Anguy. Lem Lemoncloak. Tom Sevenstrings. Harwin. Arya Stark. Gendry. Jack-Be-Lucky. Greenbeard. 
+9(8): Tyrion Lannister. Cersei Lannister. Joffrey Lannister. Sansa Stark. Varys. Tywin Lannister. Grand Maester Pycelle. Littlefinger. 
+10(8): Lem Lemoncloak. Tom Sevenstrings. Harwin. Thoros. Arya Stark. Gendry. Jack-Be-Lucky. Greenbeard. 
+11(7): Osmund Kettleblack. Tyrion Lannister. Cersei Lannister. Joffrey Lannister. Sansa Stark. Loras Tyrell. Tommen. 
+12(7): Anguy. Lem Lemoncloak. Hot Pie. Tom Sevenstrings. Harwin. Arya Stark. Gendry. 
+13(7): Anguy. Lem Lemoncloak. Hot Pie. Tom Sevenstrings. Arya Stark. Gendry. Sharna. 
+14(7): Anguy. Lem Lemoncloak. Hot Pie. Tom Sevenstrings. Arya Stark. A Sallow Man. Sharna. 
+15(7): Anguy. Lem Lemoncloak. Tom Sevenstrings. Harwin. Ravella Swann. Arya Stark. Jack-Be-Lucky. 
+16(7): Renly Baratheon. Jaime Lannister. Varys. Ned Stark. Grand Maester Pycelle. Littlefinger. Robert Baratheon. 
+17(7): Renly Baratheon. Janos Slynt. Joffrey Lannister. Varys. Ned Stark. Barristan Selmy. Grand Maester Pycelle. 
+18(7): Tormund Giantsbane. Mance Rayder. Rattleshirt. Styr. Jon Snow. Ygritte. Jarl. 
+19(7): Tyrion Lannister. Cersei Lannister. Joffrey Lannister. Sandor Clegane. Sansa Stark. Littlefinger. Loras Tyrell. 
+20(7): Tyrion Lannister. Cersei Lannister. Joffrey Lannister. Sandor Clegane. Sansa Stark. Loras Tyrell. Tommen. 
+21(7): Tyrion Lannister. Cersei Lannister. Joffrey Lannister. Sandor Clegane. Sansa Stark. Myrcella Lannister. Tommen. 
+22(7): Tyrion Lannister. Joffrey Lannister. Tywin Lannister. High Septon. Kevan Lannister. Paxter Redwyne. Mace Tyrell. 
+23(7): Jaime Lannister. Cersei Lannister. Varys. Ned Stark. Grand Maester Pycelle. Littlefinger. Robert Baratheon. 
+24(7): Cersei Lannister. Janos Slynt. Joffrey Lannister. Varys. Ned Stark. Barristan Selmy. Grand Maester Pycelle. 
+25(7): Cersei Lannister. Joffrey Lannister. Sandor Clegane. Sansa Stark. Ned Stark. Littlefinger. Loras Tyrell. 
+26(7): Cersei Lannister. Joffrey Lannister. Sandor Clegane. Sansa Stark. Ned Stark. Littlefinger. Robert Baratheon. 
+27(7): Chett. Dywen. Sam. Thoren Smallwood. Jeor Mormont. Jon Snow. Dolorous Edd. 
+28(7): Bedwyck. Sam. Thoren Smallwood. Jeor Mormont. Mormont's Raven. Jon Snow. Craster. 
+29(7): Sam. Thoren Smallwood. Jeor Mormont. Mormont's Raven. Jon Snow. Dolorous Edd. Craster. 
+30(6): Osmund Kettleblack. Tyrion Lannister. Jaime Lannister. Cersei Lannister. Loras Tyrell. Boros Blount. 
+31(6): Osmund Kettleblack. Tyrion Lannister. Jaime Lannister. Cersei Lannister. Loras Tyrell. Tommen. 
+32(6): Osmund Kettleblack. Tyrion Lannister. Cersei Lannister. Joffrey Lannister. Sansa Stark. Grand Maester Pycelle. 
+33(6): Osmund Kettleblack. Tyrion Lannister. Cersei Lannister. Sansa Stark. Loras Tyrell. Boros Blount. 
+34(6): Theon Greyjoy. Robb. Tyrion Lannister. Joffrey Lannister. Rodrik Cassel. Jon Snow. 
+35(6): Theon Greyjoy. Robb. Tyrion Lannister. Bran Stark. Maester Luwin. Rodrik Cassel. 
+36(6): Theon Greyjoy. Robb. Tyrion Lannister. Bran Stark. Rodrik Cassel. Jon Snow. 
+37(6): Theon Greyjoy. Robb. Tyrion Lannister. Maester Luwin. Rodrik Cassel. Catelyn Stark. 
+38(6): Theon Greyjoy. Robb. Tyrion Lannister. Rodrik Cassel. Brynden Tully. Catelyn Stark. 
+39(6): Theon Greyjoy. Robb. Tyrion Lannister. Rodrik Cassel. Catelyn Stark. Jon Snow. 
+40(6): Theon Greyjoy. Robb. Joffrey Lannister. Ned Stark. Rodrik Cassel. Jon Snow. 
+41(6): Theon Greyjoy. Robb. Bran Stark. Maester Luwin. Ned Stark. Rodrik Cassel. 
+42(6): Theon Greyjoy. Robb. Bran Stark. Maester Luwin. Ned Stark. Hodor. 
+43(6): Theon Greyjoy. Robb. Bran Stark. Maester Luwin. Hodor. Osha. 
+44(6): Theon Greyjoy. Robb. Bran Stark. Ned Stark. Rodrik Cassel. Jon Snow. 
+45(6): Theon Greyjoy. Robb. Maester Luwin. Ned Stark. Rodrik Cassel. Catelyn Stark. 
+46(6): Theon Greyjoy. Robb. Ned Stark. Rodrik Cassel. Catelyn Stark. Jon Snow. 
+47(6): Anguy. Sandor Clegane. Tom Sevenstrings. A Man. Beric Dondarrion. Arya Stark. 
+48(6): Coldhands. Gilly. Sam. Meera Reed. Bran Stark. Jojen Reed. 
+49(6): Coldhands. Sam. Meera Reed. Bran Stark. Hodor. Jojen Reed. 
+50(6): Arys Oakheart. Gerold Dayne. Drey. Arianne Martell. Myrcella Lannister. Garin. 
+51(6): Melisandre. Maester Cressen. Patchface. Davos Seaworth. Selyse Baratheon. Stannis Baratheon. 
+52(6): Melisandre. Sam. Aemon Targaryen. Jon Snow. Bowen Marsh. Stannis Baratheon. 
+53(6): Margaery Tyrell. Cersei Lannister. Joffrey Lannister. Sansa Stark. Loras Tyrell. Tommen. 
+54(6): Renly Baratheon. Jaime Lannister. Varys. Ned Stark. Littlefinger. Catelyn Stark. 
+55(6): Renly Baratheon. Jaime Lannister. Ned Stark. Littlefinger. Catelyn Stark. Loras Tyrell. 
+56(6): Renly Baratheon. Joffrey Lannister. Sansa Stark. Ned Stark. Littlefinger. Loras Tyrell. 
+57(6): Robb. Tyrion Lannister. Rodrik Cassel. Brynden Tully. Catelyn Stark. Lysa Arryn. 
+58(6): Robb. Bran Stark. Maester Luwin. Hodor. Rickon. Osha. 
+59(6): Robb. Brynden Tully. Catelyn Stark. Rickard Karstark. Edmure Tully. Greatjon. 
+60(6): Tyrion Lannister. Jaime Lannister. Cersei Lannister. Meryn Trant. Tywin Lannister. Boros Blount. 
+61(6): Tyrion Lannister. Cersei Lannister. A Herald. Joffrey Lannister. Sandor Clegane. Sansa Stark. 
+62(6): Tyrion Lannister. Cersei Lannister. A Herald. Joffrey Lannister. Sansa Stark. Varys. 
+63(6): Tyrion Lannister. Cersei Lannister. A Herald. Joffrey Lannister. Varys. Kevan Lannister. 
+64(6): Tyrion Lannister. Cersei Lannister. Janos Slynt. Joffrey Lannister. Varys. Grand Maester Pycelle. 
+65(6): Tyrion Lannister. Cersei Lannister. Joffrey Lannister. Sansa Stark. Tywin Lannister. Olenna Tyrell. 
+66(6): Tyrion Lannister. Cersei Lannister. Joffrey Lannister. Tywin Lannister. Mace Tyrell. Olenna Tyrell. 
+67(6): Tyrion Lannister. Cersei Lannister. Sandor Clegane. Sansa Stark. Tanda Stokeworth. Boros Blount. 
+68(6): Tyrion Lannister. Cersei Lannister. Sandor Clegane. Sansa Stark. Loras Tyrell. Boros Blount. 
+69(6): Tyrion Lannister. Cersei Lannister. Sansa Stark. Varys. Tywin Lannister. Shae. 
+70(6): Tyrion Lannister. Cersei Lannister. Sansa Stark. Varys. Podrick Payne. Littlefinger. 
+71(6): Tyrion Lannister. Cersei Lannister. Sansa Stark. Meryn Trant. Tywin Lannister. Boros Blount. 
+72(6): Tyrion Lannister. Cersei Lannister. Sansa Stark. Tywin Lannister. Oberyn Martell. Shae. 
+73(6): Tyrion Lannister. Cersei Lannister. Varys. Kevan Lannister. Podrick Payne. Littlefinger. 
+74(6): Tyrion Lannister. Cersei Lannister. Harys Swyft. Kevan Lannister. Grand Maester Pycelle. Mace Tyrell. 
+75(6): Tyrion Lannister. Mathis Rowan. Tywin Lannister. High Septon. Paxter Redwyne. Mace Tyrell. 
+76(6): Tyrion Lannister. Mathis Rowan. Tywin Lannister. Littlefinger. Paxter Redwyne. Mace Tyrell. 
+77(6): Tyrion Lannister. Jeor Mormont. Mormont's Raven. Jon Snow. Bowen Marsh. Alliser Thorne. 
+78(6): Tyrion Lannister. Rodrik Cassel. Brynden Tully. Catelyn Stark. Marillion. Lysa Arryn. 
+79(6): Tyrion Lannister. Haldon Halfmaester. Yandry. Septa Lemore. Aegon Targaryen. Jon Connington. 
+80(6): Lem Lemoncloak. Harwin. Thoros. Gendry. Brienne. Jack-Be-Lucky. 
+81(6): Hyle Hunt. Septon Meribald. Narbert. Podrick Payne. Brienne. Brother Narbert. 
+82(6): Hyle Hunt. Septon Meribald. Podrick Payne. Brienne. Elder Brother. Brother Narbert. 
+83(6): Cersei Lannister. Joffrey Lannister. Sandor Clegane. Sansa Stark. Ned Stark. Arya Stark. 
+84(6): Cersei Lannister. Joffrey Lannister. Sandor Clegane. Sansa Stark. Arya Stark. Tommen. 
+85(6): Cersei Lannister. Joffrey Lannister. Sansa Stark. Varys. Ned Stark. Arya Stark. 
+86(6): Cersei Lannister. Harys Swyft. Grand Maester Pycelle. Orton Merryweather. Aurane Waters. Qyburn. 
+87(6): Sandor Clegane. Harwin. Beric Dondarrion. Ned Stark. Arya Stark. Gendry. 
+88(6): Chett. Sam. Jeor Mormont. Aemon Targaryen. Jon Snow. Dolorous Edd. 
+89(6): Areo Hotah. Nymeria Sand. Tyene Sand. Arianne Martell. Doran Martell. Obara Sand. 
+90(6): Marq Piper. Ned Stark. Karyl Vance. Grand Maester Pycelle. Littlefinger. Raymun Darry. 
+91(6): Pyp. Sam. Grenn. Aemon Targaryen. Jon Snow. Dolorous Edd. 
+92(6): Pyp. Sam. Grenn. Mormont's Raven. Jon Snow. Dolorous Edd. 
+93(6): Pyp. Sam. Grenn. Mormont's Raven. Jon Snow. Alliser Thorne. 
+94(6): Pyp. Sam. Grenn. Jon Snow. Halder. Alliser Thorne. 
+95(6): Pyp. Sam. Aemon Targaryen. Jon Snow. Dolorous Edd. Bowen Marsh. 
+96(6): Pyp. Sam. Mormont's Raven. Jon Snow. Dolorous Edd. Bowen Marsh. 
+97(6): Pyp. Sam. Mormont's Raven. Jon Snow. Bowen Marsh. Alliser Thorne. 
+98(6): Dywen. Sam. Jeor Mormont. Grenn. Jon Snow. Dolorous Edd. 
+99(6): Dywen. Sam. Jeor Mormont. Grenn. Jon Snow. Alliser Thorne. 
+100(6): Dywen. Sam. Jeor Mormont. Jon Snow. Dolorous Edd. Bowen Marsh. 
+101(6): Dywen. Sam. Jeor Mormont. Jon Snow. Bowen Marsh. Alliser Thorne. 
+102(6): Gilly. Sam. Grenn. Mormont's Raven. Jon Snow. Dolorous Edd. 
+103(6): Sam. Jeor Mormont. Grenn. A Black Brother. Mormont's Raven. Jon Snow. 
+104(6): Sam. Jeor Mormont. Grenn. Aemon Targaryen. Jon Snow. Dolorous Edd. 
+105(6): Sam. Jeor Mormont. Grenn. Mormont's Raven. Jon Snow. Dolorous Edd. 
+106(6): Sam. Jeor Mormont. Grenn. Mormont's Raven. Jon Snow. Alliser Thorne. 
+107(6): Sam. Jeor Mormont. Aemon Targaryen. Jon Snow. Dolorous Edd. Bowen Marsh. 
+108(6): Sam. Jeor Mormont. Mormont's Raven. Jon Snow. Dolorous Edd. Bowen Marsh. 
+109(6): Sam. Jeor Mormont. Mormont's Raven. Jon Snow. Bowen Marsh. Alliser Thorne. 
+110(6): Sam. Aemon Targaryen. Jon Snow. Dolorous Edd. Bowen Marsh. Stannis Baratheon. 
+111(6): Meera Reed. Bran Stark. Hodor. Rickon. Jojen Reed. Little Walder. 
+112(6): Meera Reed. Bran Stark. Hodor. Rickon. Jojen Reed. Osha. 
+113(5): Val. Varamyr. Tormund Giantsbane. Mance Rayder. Jon Snow. 
+114(5): Val. Gilly. Sam. Jon Snow. Dolorous Edd. 
+115(5): Val. Sam. Jon Snow. Dolorous Edd. Stannis Baratheon. 
+116(5): Denys Mallister. Sam. Jon Snow. Dolorous Edd. Stannis Baratheon. 
+117(5): Denys Mallister. Sam. Dolorous Edd. Stannis Baratheon. Cotter Pyke. 
+118(5): Doreah. Jhiqui. Irri. Dany Targaryen. Viserys. 
+119(5): Osmund Kettleblack. Taena Merryweather. Jaime Lannister. Cersei Lannister. Grand Maester Pycelle. 
+120(5): Osmund Kettleblack. Taena Merryweather. Jaime Lannister. Cersei Lannister. Tommen. 
+121(5): Osmund Kettleblack. Tyrion Lannister. Jaime Lannister. Cersei Lannister. Grand Maester Pycelle. 
+122(5): Osmund Kettleblack. Tyrion Lannister. Jaime Lannister. Balon Swann. Loras Tyrell. 
+123(5): Osmund Kettleblack. Jaime Lannister. Cersei Lannister. Grand Maester Pycelle. Qyburn. 
+124(5): Shagga. Tyrion Lannister. Conn. Timett. Chella. 
+125(5): Shagga. Tyrion Lannister. Timett. Tywin Lannister. Chella. 
+126(5): Shagga. Tyrion Lannister. Tywin Lannister. Kevan Lannister. Grand Maester Pycelle. 
+127(5): Asha Greyjoy. Clayton Suggs. Corliss Penny. Godry Farring. Justin Massey. 
+128(5): Asha Greyjoy. Clayton Suggs. Godry Farring. Justin Massey. Stannis Baratheon. 
+129(5): Theon Greyjoy. Robb. Tyrion Lannister. Catelyn Stark. A Captain. 
+130(5): Theon Greyjoy. Robb. Quent. Maester Luwin. Osha. 
+131(5): Theon Greyjoy. Robb. Jory. Ned Stark. Jon Snow. 
+132(5): Theon Greyjoy. Robb. Brynden Tully. Catelyn Stark. Hallis Mollen. 
+133(5): Theon Greyjoy. Hullen. Jory. Ned Stark. Jon Snow. 
+134(5): Theon Greyjoy. Wyman Manderly. Roose Bolton. Barbrey Dustin. Aenys Frey. 
+135(5): Theon Greyjoy. Ramsay Bolton. Maester Luwin. Big Walder. Little Walder. 
+136(5): Theon Greyjoy. Ramsay Bolton. Roose Bolton. Big Walder. Hosteen Frey. 
+137(5): Theon Greyjoy. Bran Stark. Maester Luwin. Hodor. Little Walder. 
+138(5): Theon Greyjoy. Maester Luwin. Big Walder. Hodor. Little Walder. 
+139(5): Anguy. Hot Pie. Tom Sevenstrings. A Man. Arya Stark. 
+140(5): Dick Crabb. Podrick Payne. Brienne. Shagwell. Timeon. 
+141(5): Coldhands. Gilly. Sam. Bran Stark. Jon Snow. 
+142(5): Coldhands. Sam. Meera Reed. Bran Stark. A Raven. 
+143(5): Coldhands. Sam. Bran Stark. Jon Snow. A Raven. 
+144(5): Varamyr. Tormund Giantsbane. Harma Dogshead. Mance Rayder. Jon Snow. 
+145(5): The Brotherhood. Sandor Clegane. Thoros. Arya Stark. Gendry. 
+146(5): Franklyn Flowers. Haldon Halfmaester. Harry Strickland. Aegon Targaryen. Jon Connington. 
+147(5): Arys Oakheart. Joffrey Lannister. Sandor Clegane. Sansa Stark. Myrcella Lannister. 
+148(5): Arys Oakheart. Gerold Dayne. Arianne Martell. Doran Martell. Garin. 
+149(5): Melisandre. Renly Baratheon. Maester Cressen. Davos Seaworth. Stannis Baratheon. 
+150(5): Melisandre. Patchface. Jon Snow. Selyse Baratheon. Stannis Baratheon. 
+151(5): Melisandre. Axell Florent. Devan Seaworth. Davos Seaworth. Stannis Baratheon. 
+152(5): Melisandre. Axell Florent. Devan Seaworth. Jon Snow. Stannis Baratheon. 
+153(5): Melisandre. Axell Florent. Davos Seaworth. Selyse Baratheon. Stannis Baratheon. 
+154(5): Melisandre. Axell Florent. Jon Snow. Selyse Baratheon. Stannis Baratheon. 
+155(5): Melisandre. Mance Rayder. Devan Seaworth. Jon Snow. Stannis Baratheon. 
+156(5): Melisandre. Mance Rayder. Jon Snow. Bowen Marsh. Stannis Baratheon. 
+157(5): Margaery Tyrell. Taena Merryweather. Jaime Lannister. Cersei Lannister. Grand Maester Pycelle. 
+158(5): Margaery Tyrell. Taena Merryweather. Jaime Lannister. Cersei Lannister. Tommen. 
+159(5): Margaery Tyrell. Renly Baratheon. Jaime Lannister. Catelyn Stark. Loras Tyrell. 
+160(5): Margaery Tyrell. Renly Baratheon. Joffrey Lannister. Sansa Stark. Grand Maester Pycelle. 
+161(5): Margaery Tyrell. Renly Baratheon. Joffrey Lannister. Sansa Stark. Loras Tyrell. 
+162(5): Margaery Tyrell. Jaime Lannister. Cersei Lannister. Loras Tyrell. Tommen. 
+163(5): Margaery Tyrell. Cersei Lannister. Joffrey Lannister. Sansa Stark. Grand Maester Pycelle. 
+164(5): Margaery Tyrell. Cersei Lannister. Joffrey Lannister. Sansa Stark. Olenna Tyrell. 
+165(5): Renly Baratheon. Jaime Lannister. A Man. Catelyn Stark. Brienne. 
+166(5): Renly Baratheon. Jaime Lannister. Catelyn Stark. Loras Tyrell. Brienne. 
+167(5): Ysilla. Tyrion Lannister. Haldon Halfmaester. Yandry. Aegon Targaryen. 
+168(5): Reznak mo Reznak. Hizdahr zo Loraq. Missandei. Barristan Selmy. Dany Targaryen. 
+169(5): Reznak mo Reznak. Hizdahr zo Loraq. Barristan Selmy. Quentyn Martell. Dany Targaryen. 
+170(5): Reznak mo Reznak. Skahaz mo Kandaq. Galazza Galare. Barristan Selmy. Dany Targaryen. 
+171(5): Reznak mo Reznak. Skahaz mo Kandaq. Barristan Selmy. Quentyn Martell. Dany Targaryen. 
+172(5): Tormund Giantsbane. Rattleshirt. Qhorin Halfhand. Jon Snow. Ygritte. 
+173(5): Tormund Giantsbane. Rattleshirt. Jon Snow. Ygritte. Longspear Ryk. 
+174(5): Khal Drogo. Jorah Mormont. Illyrio. Dany Targaryen. Viserys. 
+175(5): Squire Dalbridge. Ebben. Stonesnake. Qhorin Halfhand. Jon Snow. 
+176(5): Robb. Tyrion Lannister. Jaime Lannister. Cleos Frey. Catelyn Stark. 
+177(5): Robb. Tyrion Lannister. Jaime Lannister. Brynden Tully. Catelyn Stark. 
+178(5): Robb. Tyrion Lannister. Jaime Lannister. Catelyn Stark. A Captain. 
+179(5): Robb. Tyrion Lannister. Joffrey Lannister. Sandor Clegane. Rodrik Cassel. 
+180(5): Robb. Tyrion Lannister. Yoren. Bran Stark. Maester Luwin. 
+181(5): Robb. Jaime Lannister. Walder Rivers. Edwyn Frey. Edmure Tully. 
+182(5): Robb. Jaime Lannister. Ryman Frey. Edwyn Frey. Edmure Tully. 
+183(5): Robb. Jaime Lannister. Ryman Frey. Catelyn Stark. Edmure Tully. 
+184(5): Robb. Jaime Lannister. Maester Vyman. Catelyn Stark. Jeyne Westerling. 
+185(5): Robb. Jaime Lannister. Cleos Frey. Catelyn Stark. Edmure Tully. 
+186(5): Robb. Jaime Lannister. Cleos Frey. Edmure Tully. Robin Ryger. 
+187(5): Robb. Jaime Lannister. Brynden Tully. Catelyn Stark. Edmure Tully. 
+188(5): Robb. Jaime Lannister. Brynden Tully. Catelyn Stark. Hallis Mollen. 
+189(5): Robb. Joffrey Lannister. Sandor Clegane. Ned Stark. Rodrik Cassel. 
+190(5): Robb. Joffrey Lannister. Sandor Clegane. Ned Stark. Arya Stark. 
+191(5): Robb. Joffrey Lannister. Yoren. Ned Stark. Arya Stark. 
+192(5): Robb. Joffrey Lannister. Ned Stark. Arya Stark. Jon Snow. 
+193(5): Robb. Sandor Clegane. Harwin. Ned Stark. Arya Stark. 
+194(5): Robb. Maege Mormont. Catelyn Stark. Rickard Karstark. Greatjon. 
+195(5): Robb. Galbart Glover. Roose Bolton. Catelyn Stark. Greatjon. 
+196(5): Robb. Galbart Glover. Brynden Tully. Catelyn Stark. Greatjon. 
+197(5): Robb. Galbart Glover. Catelyn Stark. A Captain. Greatjon. 
+198(5): Robb. Galbart Glover. Catelyn Stark. Greatjon. Stevron Frey. 
+199(5): Robb. Yoren. Bran Stark. Maester Luwin. Ned Stark. 
+200(5): Robb. Yoren. Bran Stark. Ned Stark. Arya Stark. 
+201(5): Robb. Bran Stark. Ned Stark. Arya Stark. Jon Snow. 
+202(5): Robb. Walder Frey. Roose Bolton. Catelyn Stark. Greatjon. 
+203(5): Robb. Walder Frey. Ryman Frey. Catelyn Stark. Edmure Tully. 
+204(5): Robb. Walder Frey. Catelyn Stark. Edmure Tully. Greatjon. 
+205(5): Robb. Walder Frey. Catelyn Stark. Edmure Tully. Lothar Frey. 
+206(5): Robb. Walder Frey. Catelyn Stark. Greatjon. Stevron Frey. 
+207(5): Robb. Cleos Frey. Catelyn Stark. Edmure Tully. Greatjon. 
+208(5): Robb. Brynden Tully. Catelyn Stark. Edmure Tully. Hoster Tully. 
+209(5): Robb. Brynden Tully. Catelyn Stark. Edmure Tully. Lothar Frey. 
+210(5): Tyrion Lannister. Jaime Lannister. Cersei Lannister. A Guard. Littlefinger. 
+211(5): Tyrion Lannister. Jaime Lannister. Cersei Lannister. Kevan Lannister. Tommen. 
+212(5): Tyrion Lannister. Jaime Lannister. Cersei Lannister. Littlefinger. Loras Tyrell. 
+213(5): Tyrion Lannister. Jaime Lannister. Varys. Littlefinger. Catelyn Stark. 
+214(5): Tyrion Lannister. Jaime Lannister. Meryn Trant. Tywin Lannister. Balon Swann. 
+215(5): Tyrion Lannister. Jaime Lannister. A Knight. Tywin Lannister. Kevan Lannister. 
+216(5): Tyrion Lannister. Jaime Lannister. A Knight. Tywin Lannister. Balon Swann. 
+217(5): Tyrion Lannister. Jaime Lannister. Littlefinger. Catelyn Stark. Loras Tyrell. 
+218(5): Tyrion Lannister. Cersei Lannister. Joffrey Lannister. Sansa Stark. Lancel Lannister. 
+219(5): Tyrion Lannister. Cersei Lannister. Joffrey Lannister. Kevan Lannister. Tommen. 
+220(5): Tyrion Lannister. Cersei Lannister. Sansa Stark. A Guard. Littlefinger. 
+221(5): Tyrion Lannister. Cersei Lannister. Sansa Stark. Robert Arryn. Littlefinger. 
+222(5): Tyrion Lannister. Cersei Lannister. Tywin Lannister. Oberyn Martell. Mace Tyrell. 
+223(5): Tyrion Lannister. Rolly Duckfield. Haldon Halfmaester. Aegon Targaryen. Jon Connington. 
+224(5): Tyrion Lannister. Janos Slynt. Varys. Grand Maester Pycelle. Alliser Thorne. 
+225(5): Tyrion Lannister. Janos Slynt. Aemon Targaryen. Jon Snow. Stannis Baratheon. 
+226(5): Tyrion Lannister. Joffrey Lannister. Sansa Stark. Tywin Lannister. High Septon. 
+227(5): Tyrion Lannister. Joffrey Lannister. Sansa Stark. Garlan Tyrell. Tommen. 
+228(5): Tyrion Lannister. Joffrey Lannister. A Knight. Tywin Lannister. Kevan Lannister. 
+229(5): Tyrion Lannister. Sansa Stark. Tywin Lannister. Chella. Shae. 
+230(5): Tyrion Lannister. Sansa Stark. A Guard. Littlefinger. Marillion. 
+231(5): Tyrion Lannister. Sansa Stark. Robert Arryn. Littlefinger. Lysa Arryn. 
+232(5): Tyrion Lannister. Sansa Stark. Littlefinger. Marillion. Lysa Arryn. 
+233(5): Tyrion Lannister. Twyin Lannister. Harys Swyft. Kevan Lannister. Mace Tyrell. 
+234(5): Tyrion Lannister. Twyin Lannister. Tywin Lannister. Kevan Lannister. Mace Tyrell. 
+235(5): Tyrion Lannister. Varys. Grand Maester Pycelle. Littlefinger. Alliser Thorne. 
+236(5): Tyrion Lannister. Jorah Mormont. A Sailor. Penny. Vogarro's Whore. 
+237(5): Tyrion Lannister. Jeor Mormont. A Black Brother. Mormont's Raven. Jon Snow. 
+238(5): Tyrion Lannister. Jeor Mormont. Aemon Targaryen. Jon Snow. Bowen Marsh. 
+239(5): Tyrion Lannister. Jeor Mormont. Aemon Targaryen. Jon Snow. Donal Noye. 
+240(5): Tyrion Lannister. Robert Arryn. Littlefinger. Catelyn Stark. Lysa Arryn. 
+241(5): Tyrion Lannister. Brynden Tully. Catelyn Stark. Marillion. Nestor Royce. 
+242(5): Tyrion Lannister. Littlefinger. Catelyn Stark. Marillion. Nestor Royce. 
+243(5): Tyrion Lannister. Littlefinger. Catelyn Stark. Marillion. Lysa Arryn. 
+244(5): Tyrion Lannister. Aemon Targaryen. Jon Snow. Bowen Marsh. Stannis Baratheon. 
+245(5): Ellaria Sand. Nymeria Sand. Tyene Sand. Doran Martell. Obara Sand. 
+246(5): Jhogo. Quaithe. Jorah Mormont. Xaro Xhoan Daxos. Dany Targaryen. 
+247(5): Jhogo. Jorah Mormont. Aggo. Barristan Selmy. Dany Targaryen. 
+248(5): Jhogo. Jorah Mormont. Aggo. Xaro Xhoan Daxos. Dany Targaryen. 
+249(5): Jhogo. Aggo. Barristan Selmy. Irri. Dany Targaryen. 
+250(5): Jhogo. Aggo. Irri. Xaro Xhoan Daxos. Dany Targaryen. 
+251(5): Lem Lemoncloak. Sandor Clegane. Thoros. Arya Stark. The Mad Huntsman. 
+252(5): Lem Lemoncloak. Tom Sevenstrings. Thoros. Beric Dondarrion. Ghost of High Heart. 
+253(5): Lem Lemoncloak. Thoros. Beric Dondarrion. Gendry. Notch. 
+254(5): Maester Pylos. Maester Cressen. Patchface. Davos Seaworth. Stannis Baratheon. 
+255(5): Jaime Lannister. Cersei Lannister. Ned Stark. Littlefinger. Loras Tyrell. 
+256(5): Jaime Lannister. Cersei Lannister. A Guard. Qyburn. Brienne. 
+257(5): Jaime Lannister. Cersei Lannister. Kevan Lannister. Grand Maester Pycelle. Qyburn. 
+258(5): Jaime Lannister. Vargo Hoat. Rorge. Brienne. Shagwell. 
+259(5): Jaime Lannister. Vargo Hoat. Rorge. Brienne. Urswyck. 
+260(5): Jaime Lannister. A Man. Roose Bolton. Catelyn Stark. Brienne. 
+261(5): Jaime Lannister. Ned Stark. Karyl Vance. Grand Maester Pycelle. Littlefinger. 
+262(5): Jaime Lannister. Roose Bolton. A Guard. Qyburn. Brienne. 
+263(5): Jaime Lannister. Strongboar. Arwood Frey. Amerei Frey. Mariya Darry. 
+264(5): Jaime Lannister. Cleos Frey. Catelyn Stark. Brienne. Edmure Tully. 
+265(5): Hot Pie. Yoren. A Gold Cloak. Arya Stark. Gendry. 
+266(5): Hot Pie. Yoren. Arya Stark. Gendry. Lommy. 
+267(5): Hyle Hunt. Septon Meribald. Willow Heddle. Gendry. Brienne. 
+268(5): Hyle Hunt. Septon Meribald. Willow Heddle. Podrick Payne. Brienne. 
+269(5): Cersei Lannister. Sandor Clegane. Sansa Stark. A Squire. Arya Stark. 
+270(5): Cersei Lannister. Sandor Clegane. Sansa Stark. A Man. Arya Stark. 
+271(5): Cersei Lannister. Sansa Stark. A Man. Arya Stark. A Woman. 
+272(5): Cersei Lannister. Sansa Stark. A Guard. Arya Stark. A Woman. 
+273(5): Cersei Lannister. Harys Swyft. Kevan Lannister. Grand Maester Pycelle. Qyburn. 
+274(5): Cersei Lannister. Harys Swyft. Grand Maester Pycelle. Gyles Rosby. Qyburn. 
+275(5): Leo Tyrell. Armen. Pate. Alleras. Mollander. 
+276(5): Leo Tyrell. Armen. Alleras. Mollander. Roone. 
+277(5): A Herald. Joffrey Lannister. Sandor Clegane. Dontos. Sansa Stark. 
+278(5): Belwas. Hizdahr zo Loraq. Barristan Selmy. Irri. Dany Targaryen. 
+279(5): Belwas. Aggo. Barristan Selmy. Irri. Dany Targaryen. 
+280(5): Janos Slynt. Aemon Targaryen. Jon Snow. Dolorous Edd. Stannis Baratheon. 
+281(5): Janos Slynt. Aemon Targaryen. Dolorous Edd. Stannis Baratheon. Cotter Pyke. 
+282(5): Joffrey Lannister. Sandor Clegane. Dontos. Sansa Stark. Littlefinger. 
+283(5): Joffrey Lannister. Varys. Ned Stark. Robert Baratheon. Robert's Steward. 
+284(5): Toad. Pyp. Grenn. Jon Snow. Halder. 
+285(5): Toad. Pyp. Grenn. Jon Snow. Donal Noye. 
+286(5): Chett. Gilly. Sam. Jon Snow. Dolorous Edd. 
+287(5): Chett. Sam. Jeor Mormont. A Black Brother. Jon Snow. 
+288(5): Clydas. Sam. Aemon Targaryen. Jon Snow. A Raven. 
+289(5): Sansa Stark. Septa Mordane. Ned Stark. Littlefinger. Loras Tyrell. 
+290(5): Daario Naharis. Hizdahr zo Loraq. Missandei. Barristan Selmy. Dany Targaryen. 
+291(5): Daario Naharis. Hizdahr zo Loraq. Barristan Selmy. Quentyn Martell. Dany Targaryen. 
+292(5): Daario Naharis. Skahaz mo Kandaq. Barristan Selmy. Quentyn Martell. Dany Targaryen. 
+293(5): Daario Naharis. Skahaz mo Kandaq. Barristan Selmy. Grey Worm. Dany Targaryen. 
+294(5): Daario Naharis. Barristan Selmy. Quentyn Martell. Gerris Drinkwater. Dany Targaryen. 
+295(5): Daario Naharis. Barristan Selmy. Gerris Drinkwater. Grey Worm. Dany Targaryen. 
+296(5): Axell Florent. Devan Seaworth. Davos Seaworth. Stannis Baratheon. Salladhor Saan. 
+297(5): Hizdahr zo Loraq. Missandei. Barristan Selmy. Irri. Dany Targaryen. 
+298(5): Pyp. Grenn. Aemon Targaryen. Jon Snow. Donal Noye. 
+299(5): Pyp. Horse. Jon Snow. Donal Noye. Satin. 
+300(5): Marlon Manderly. Wyman Manderly. Davos Seaworth. Leona Woolfield. Maester Theomore. 
+301(5): Wyman Manderly. Davos Seaworth. Leona Woolfield. Wylla Manderly. Maester Theomore. 
+302(5): Dywen. Sam. Jaremy Rykker. Jeor Mormont. Jon Snow. 
+303(5): Dywen. Grenn. Hake. Jon Snow. Dolorous Edd. 
+304(5): Gerold Dayne. Drey. Arianne Martell. Garin. Spotted Sylva. 
+305(5): Jarman Buckwell. Thoren Smallwood. Mormont's Raven. Jon Snow. Craster. 
+306(5): Drey. Sylva Santagar. Arianne Martell. Myrcella Lannister. Garin. 
+307(5): Bedwyck. Sam. Jeor Mormont. Craster. Dirk. 
+308(5): Varys. Ned Stark. Grand Maester Pycelle. Littlefinger. Raymun Darry. 
+309(5): Gilly. Sam. Mormont's Raven. Dolorous Edd. Cotter Pyke. 
+310(5): Sam. Aemon Targaryen. Jon Snow. Dolorous Edd. A Raven. 
+311(5): Sam. Aemon Targaryen. Dolorous Edd. Stannis Baratheon. Cotter Pyke. 
+312(5): Harys Swyft. Kevan Lannister. Randyll Tarly. Grand Maester Pycelle. Mace Tyrell. 
+313(5): Thoren Smallwood. Jeor Mormont. Ottyn Wythers. Mormont's Raven. Jon Snow. 
+314(5): Bran Stark. Maester Luwin. Hodor. Rickon. Little Walder. 
+315(5): A Man. A Girl. A Woman. Brienne. An Old Man. 
+316(5): Nymeria Sand. Tyene Sand. Balon Swann. Arianne Martell. Doran Martell. 
+317(5): Maester Luwin. Big Walder. Hodor. Rickon. Little Walder. 
+318(5): Jeor Mormont. Grenn. Aemon Targaryen. Jon Snow. Donal Noye. 
+319(5): Jeor Mormont. Mormont's Raven. Qhorin Halfhand. Jon Snow. Alliser Thorne. 
+320(5): Barristan Selmy. Quentyn Martell. Gerris Drinkwater. Archibald Yronwood. Dany Targaryen. 
+321(5): Rattleshirt. A Wildling. Qhorin Halfhand. Jon Snow. Ygritte. 
+322(5): Clayton Suggs. Jon Snow. Godry Farring. Justin Massey. Stannis Baratheon. 
+323(5): Robert Arryn. Littlefinger. Catelyn Stark. Lysa Arryn. Lyn Corbray. 
+324(5): Hugh Hungerford. Quentyn Martell. Denzo D'han. The Tattered Prince. Gerris Drinkwater. 
+325(5): Davos Seaworth. Leona Woolfield. Wylla Manderly. Maester Theomore. Wynafryd Manderly. 
+326(5): Quentyn Martell. Denzo D'han. The Tattered Prince. Gerris Drinkwater. Archibald Yronwood. 
+327(5): Littlefinger. Horton Redfort. Gilwood Hunter. Lyn Corbray. Anya Waynwood. 
+328(5): Mormont's Raven. Jon Snow. Bowen Marsh. Alliser Thorne. Septon Cellador. 
+329(5): Jon Snow. Godry Farring. Richard Horpe. Justin Massey. Stannis Baratheon. 
+330(5): Jon Snow. Bowen Marsh. Othell Yarwyck. Alliser Thorne. Septon Cellador. 
+331(4): Benjen Stark. Tyrion Lannister. Yoren. Bran Stark. 
+332(4): Benjen Stark. Tyrion Lannister. Bran Stark. Jon Snow. 
+333(4): Benjen Stark. Tyrion Lannister. Jon Snow. Alliser Thorne. 
+334(4): Benjen Stark. Tyrion Lannister. Jon Snow. Donal Noye. 
+335(4): Shadrich. Jaime Lannister. Brienne. Creighton Longbough. 
+336(4): Shadrich. Hibald. Brienne. Creighton Longbough. 
+337(4): Val. Ulmer. Mully. Jon Snow. 
+338(4): Val. Ulmer. Jon Snow. Selyse Baratheon. 
+339(4): Val. Tormund Giantsbane. Mully. Jon Snow. 
+340(4): Val. Tormund Giantsbane. Jon Snow. Selyse Baratheon. 
+341(4): Val. Mully. Jon Snow. Dolorous Edd. 
+342(4): Val. Gilly. Jon Snow. Hairy Hal. 
+343(4): Val. Mance Rayder. Jon Snow. Stannis Baratheon. 
+344(4): Val. Ser Patrek. Jon Snow. Selyse Baratheon. 
+345(4): Val. Jon Snow. Selyse Baratheon. Shireen Baratheon. 
+346(4): Val. Jon Snow. Selyse Baratheon. Stannis Baratheon. 
+347(4): Farlen. Theon Greyjoy. Black Lorren. Ramsay Bolton. 
+348(4): Farlen. Theon Greyjoy. Ramsay Bolton. Big Walder. 
+349(4): Denys Mallister. Sam. Jon Snow. Alliser Thorne. 
+350(4): Doreah. Jorah Mormont. Aggo. Dany Targaryen. 
+351(4): Doreah. Jorah Mormont. A Wine Merchant. Dany Targaryen. 
+352(4): Doreah. Jorah Mormont. Dany Targaryen. Viserys. 
+353(4): Doreah. Aggo. Irri. Dany Targaryen. 
+354(4): Doreah. Irri. A Wine Merchant. Dany Targaryen. 
+355(4): Lark. Chett. Small Paul. Kedge. 
+356(4): Lark. Chett. Kedge. Jon Snow. 
+357(4): Desmond. Yoren. Ned Stark. Arya Stark. 
+358(4): Osmund Kettleblack. Cersei Lannister. Sansa Stark. Osfryd Kettleblack. 
+359(4): Osmund Kettleblack. Cersei Lannister. Osfryd Kettleblack. Qyburn. 
+360(4): Jhiqui. Missandei. Irri. Dany Targaryen. 
+361(4): Jhiqui. Irri. Grey Worm. Dany Targaryen. 
+362(4): Shagga. Tyrion Lannister. Conn. Kevan Lannister. 
+363(4): Shagga. Tyrion Lannister. Conn. Gunthor. 
+364(4): Shagga. Tyrion Lannister. Tywin Lannister. Ulf. 
+365(4): Shagga. Tyrion Lannister. Bronn. Gunthor. 
+366(4): Shagga. Tyrion Lannister. Bronn. Chella. 
+367(4): Someone. Sandor Clegane. Ned Stark. Arya Stark. 
+368(4): Someone. Roose Bolton. A Guard. Arya Stark. 
+369(4): Asha Greyjoy. Theon Greyjoy. Balon Greyjoy. Aeron Damphair. 
+370(4): Asha Greyjoy. Victarion Greyjoy. Rodrik Harlaw. Euron Greyjoy. 
+371(4): Asha Greyjoy. Victarion Greyjoy. Rodrik Harlaw. Ralf the Limper. 
+372(4): Asha Greyjoy. Victarion Greyjoy. Euron Greyjoy. Aeron Damphair. 
+373(4): Asha Greyjoy. Red Oarsman. Euron Greyjoy. Lucas Codd. 
+374(4): Asha Greyjoy. Clayton Suggs. Justin Massey. Alysane Mormont. 
+375(4): Theon Greyjoy. Robb. Bran Stark. Hallis Mollen. 
+376(4): Theon Greyjoy. Robb. Roose Bolton. Catelyn Stark. 
+377(4): Theon Greyjoy. Tyrion Lannister. A Guard. Jon Snow. 
+378(4): Theon Greyjoy. Tyrion Lannister. A Guard. A Serjeant. 
+379(4): Theon Greyjoy. Hullen. Jory. A Man. 
+380(4): Theon Greyjoy. Rowan. Mance Rayder. Squirrel. 
+381(4): Theon Greyjoy. Rowan. Mance Rayder. Hosteen Frey. 
+382(4): Theon Greyjoy. Wyman Manderly. Bran Stark. Rodrik Cassel. 
+383(4): Theon Greyjoy. Wyman Manderly. Roose Bolton. Hosteen Frey. 
+384(4): Theon Greyjoy. Ramsay Bolton. Jeyne Poole. Roose Bolton. 
+385(4): Theon Greyjoy. Ramsay Bolton. Roose Bolton. A Guard. 
+386(4): Theon Greyjoy. Ramsay Bolton. Damon Dance-for-Me. Little Walder. 
+387(4): Theon Greyjoy. A Man. Roose Bolton. Catelyn Stark. 
+388(4): Theon Greyjoy. A Man. Catelyn Stark. Hallis Mollen. 
+389(4): Theon Greyjoy. Mance Rayder. Roose Bolton. Hosteen Frey. 
+390(4): Theon Greyjoy. Jeyne Poole. Roose Bolton. Steelshanks Walton. 
+391(4): Theon Greyjoy. Ned Stark. Jon Snow. Satin. 
+392(4): Theon Greyjoy. Roose Bolton. Catelyn Stark. Hosteen Frey. 
+393(4): A One-Armed Woman. Hot Pie. Yoren. Gendry. 
+394(4): Anguy. Tansy. Tom Sevenstrings. Arya Stark. 
+395(4): Anguy. Tansy. Arya Stark. An Old Man. 
+396(4): Anguy. A Man. Arya Stark. An Old Man. 
+397(4): Anguy. Arya Stark. Gendry. An Old Man. 
+398(4): A Tyroshi. Tyrion Lannister. Brown Ben Plumm. Jorah Mormont. 
+399(4): Alerie Tyrell. Cersei Lannister. Sansa Stark. Olenna Tyrell. 
+400(4): Franklyn Flowers. Harry Strickland. Lymond Pease. Jon Connington. 
+401(4): Donnel Waynwood. Brynden Tully. Catelyn Stark. Marillion. 
+402(4): Melisandre. Axell Florent. Davos Seaworth. Alester Florent. 
+403(4): Melisandre. Axell Florent. Jon Snow. Queen's Men. 
+404(4): Melisandre. Sam. Stannis Baratheon. A Serjeant. 
+405(4): Melisandre. Mance Rayder. Rattleshirt. Jon Snow. 
+406(4): Melisandre. Clayton Suggs. Jon Snow. Stannis Baratheon. 
+407(4): Melisandre. Jon Snow. Selyse Baratheon. Alys Karstark. 
+408(4): Melisandre. Jon Snow. Alys Karstark. Queen's Men. 
+409(4): Margaery Tyrell. Renly Baratheon. Jaime Lannister. Grand Maester Pycelle. 
+410(4): Margaery Tyrell. Cersei Lannister. Joffrey Lannister. Paxter Redwyne. 
+411(4): Margaery Tyrell. Cersei Lannister. Hallyne. Olenna Tyrell. 
+412(4): Margaery Tyrell. Joffrey Lannister. Dontos. Sansa Stark. 
+413(4): Margaery Tyrell. Sansa Stark. Butterbumps. Olenna Tyrell. 
+414(4): Renly Baratheon. Mathis Rowan. Randyll Tarly. Catelyn Stark. 
+415(4): Renly Baratheon. Mathis Rowan. Littlefinger. Catelyn Stark. 
+416(4): Renly Baratheon. Randyll Tarly. Catelyn Stark. Brienne. 
+417(4): Renly Baratheon. Catelyn Stark. Brienne. Stannis Baratheon. 
+418(4): Renly Baratheon. Catelyn Stark. Brienne. Colen. 
+419(4): Utherydes Wayn. Desmond Grell. Catelyn Stark. Edmure Tully. 
+420(4): Old Nan. Bran Stark. Maester Luwin. Rodrik Cassel. 
+421(4): Old Nan. Bran Stark. Maester Luwin. Hodor. 
+422(4): Old Nan. Bran Stark. Rodrik Cassel. Jojen Reed. 
+423(4): Old Nan. Bran Stark. Hodor. Jojen Reed. 
+424(4): Marselen. Aggo. Barristan Selmy. Dany Targaryen. 
+425(4): Marselen. Barristan Selmy. Symon Stripeback. Dany Targaryen. 
+426(4): Reznak mo Reznak. Brown Ben Plumm. Hizdahr zo Loraq. Dany Targaryen. 
+427(4): Reznak mo Reznak. Brown Ben Plumm. Galazza Galare. Dany Targaryen. 
+428(4): Reznak mo Reznak. Hizdahr zo Loraq. Barristan Selmy. A Yunkish Lord. 
+429(4): Reznak mo Reznak. Hizdahr zo Loraq. Barristan Selmy. Bloodbeard. 
+430(4): Reznak mo Reznak. Galazza Galare. Xaro Xhoan Daxos. Dany Targaryen. 
+431(4): Reznak mo Reznak. Barristan Selmy. Captain Groleo. Dany Targaryen. 
+432(4): Tormund Giantsbane. Mully. Mormont's Raven. Jon Snow. 
+433(4): Tormund Giantsbane. Axell Florent. Jon Snow. Selyse Baratheon. 
+434(4): Tormund Giantsbane. Mormont's Raven. Qhorin Halfhand. Jon Snow. 
+435(4): Tormund Giantsbane. Qhorin Halfhand. Jon Snow. A Raven. 
+436(4): Khal Drogo. Jorah Mormont. Mirri Maz Duur. Dany Targaryen. 
+437(4): Khal Drogo. Haggo. Mirri Maz Duur. Dany Targaryen. 
+438(4): Khal Drogo. Cohollo. Mirri Maz Duur. Dany Targaryen. 
+439(4): Sweet Donnel. Sam. Thoren Smallwood. Craster. 
+440(4): Nurse. Tyrion Lannister. Sweets. Penny. 
+441(4): Nurse. Tyrion Lannister. An Auctioneer. Penny. 
+442(4): Nurse. Tyrion Lannister. An Auctioneer. Zahrina. 
+443(4): Robb. Tyrion Lannister. Jaime Lannister. Bran Stark. 
+444(4): Robb. Tyrion Lannister. Joffrey Lannister. Yoren. 
+445(4): Robb. Jaime Lannister. Bran Stark. Ned Stark. 
+446(4): Robb. Jaime Lannister. Bran Stark. Hallis Mollen. 
+447(4): Robb. Jaime Lannister. Ned Stark. Catelyn Stark. 
+448(4): Robb. Jaime Lannister. Roose Bolton. Catelyn Stark. 
+449(4): Robb. Jaime Lannister. Edmure Tully. Sybell Spicer. 
+450(4): Robb. Jaime Lannister. Sybell Spicer. Jeyne Westerling. 
+451(4): Robb. Wendel Manderly. Roose Bolton. Catelyn Stark. 
+452(4): Robb. Wendel Manderly. Catelyn Stark. Hoster Tully. 
+453(4): Robb. Wendel Manderly. Catelyn Stark. Hallis Mollen. 
+454(4): Robb. Galbart Glover. Jason Mallister. Catelyn Stark. 
+455(4): Robb. Walder Rivers. Edmure Tully. Lothar Frey. 
+456(4): Robb. Stiv. Bran Stark. Osha. 
+457(4): Robb. Bran Stark. Wallen. Osha. 
+458(4): Robb. Desmond Grell. Maester Vyman. Catelyn Stark. 
+459(4): Robb. Desmond Grell. Catelyn Stark. Edmure Tully. 
+460(4): Robb. Maester Vyman. Catelyn Stark. Lysa Arryn. 
+461(4): Robb. Maester Vyman. Catelyn Stark. Hoster Tully. 
+462(4): Robb. Edwyn Frey. Edmure Tully. Greatjon. 
+463(4): Robb. Catelyn Stark. Lothar Frey. Jeyne Westerling. 
+464(4): Tyrion Lannister. Jaime Lannister. Cersei Lannister. A Boy. 
+465(4): Tyrion Lannister. Jaime Lannister. Cersei Lannister. Lancel Lannister. 
+466(4): Tyrion Lannister. Jaime Lannister. Cersei Lannister. Bran Stark. 
+467(4): Tyrion Lannister. Jaime Lannister. Cersei Lannister. Cleos Frey. 
+468(4): Tyrion Lannister. Jaime Lannister. Tywin Lannister. Addam Marbrand. 
+469(4): Tyrion Lannister. Brown Ben Plumm. Jorah Mormont. Penny. 
+470(4): Tyrion Lannister. Cersei Lannister. Sandor Clegane. Mandon Moore. 
+471(4): Tyrion Lannister. Cersei Lannister. Osney Kettleblack. Lancel Lannister. 
+472(4): Tyrion Lannister. Cersei Lannister. Osney Kettleblack. Tommen. 
+473(4): Tyrion Lannister. Cersei Lannister. Hallyne. Olenna Tyrell. 
+474(4): Tyrion Lannister. A Herald. Varys. Alliser Thorne. 
+475(4): Tyrion Lannister. Rolly Duckfield. Haldon Halfmaester. Illyrio. 
+476(4): Tyrion Lannister. Mathis Rowan. Littlefinger. Catelyn Stark. 
+477(4): Tyrion Lannister. Janos Slynt. Joffrey Lannister. Jon Snow. 
+478(4): Tyrion Lannister. Janos Slynt. Varys. Jacelyn Bywater. 
+479(4): Tyrion Lannister. Janos Slynt. Jon Snow. Alliser Thorne. 
+480(4): Tyrion Lannister. Joffrey Lannister. Sandor Clegane. A Knight. 
+481(4): Tyrion Lannister. Joffrey Lannister. Yoren. A Knight. 
+482(4): Tyrion Lannister. Joffrey Lannister. Tywin Lannister. Addam Marbrand. 
+483(4): Tyrion Lannister. Sansa Stark. Oberyn Martell. Gregor Clegane. 
+484(4): Tyrion Lannister. Masha Heddle. Rodrik Cassel. Catelyn Stark. 
+485(4): Tyrion Lannister. A Voice. A Sailor. Vogarro's Whore. 
+486(4): Tyrion Lannister. A Voice. Yandry. Jon Connington. 
+487(4): Tyrion Lannister. Varys. Tywin Lannister. Illyrio. 
+488(4): Tyrion Lannister. Varys. Podrick Payne. Bronn. 
+489(4): Tyrion Lannister. Varys. Catelyn Stark. Bronn. 
+490(4): Tyrion Lannister. Varys. Bronn. Jacelyn Bywater. 
+491(4): Tyrion Lannister. Varys. Bronn. Shae. 
+492(4): Tyrion Lannister. Kurleket. Catelyn Stark. Marillion. 
+493(4): Tyrion Lannister. Mord. Robert Arryn. Littlefinger. 
+494(4): Tyrion Lannister. Jaremy Rykker. Jeor Mormont. Jon Snow. 
+495(4): Tyrion Lannister. Tywin Lannister. Oberyn Martell. Balon Swann. 
+496(4): Tyrion Lannister. Tywin Lannister. Haldon Halfmaester. Illyrio. 
+497(4): Tyrion Lannister. Tywin Lannister. Haldon Halfmaester. Septa Lemore. 
+498(4): Tyrion Lannister. Jeor Mormont. A Guard. Jon Snow. 
+499(4): Tyrion Lannister. Rodrik Cassel. Catelyn Stark. Bronn. 
+500(4): Tyrion Lannister. Rodrik Cassel. Catelyn Stark. Willis Wode. 
+501(4): Tyrion Lannister. Rodrik Cassel. Marillion. Tyrion's Man. 
+502(4): Tyrion Lannister. A Girl. Jon Snow. An Old Man. 
+503(4): Tyrion Lannister. Kevan Lannister. Podrick Payne. Maester Ballabar. 
+504(4): Tyrion Lannister. Kevan Lannister. Grand Maester Pycelle. Maester Ballabar. 
+505(4): Tyrion Lannister. Symon Silvertongue. Bronn. Shae. 
+506(4): Tyrion Lannister. Podrick Payne. Littlefinger. An Old Man. 
+507(4): Tyrion Lannister. Podrick Payne. A Captain. An Old Man. 
+508(4): Tyrion Lannister. Catelyn Stark. A Captain. Stannis Baratheon. 
+509(4): Tyrion Lannister. Catelyn Stark. Jon Snow. Stannis Baratheon. 
+510(4): Tyrion Lannister. Catelyn Stark. Vardis Egen. Lysa Arryn. 
+511(4): Tyrion Lannister. Bronn. Chella. Shae. 
+512(4): Donella Hornwood. Bran Stark. Maester Luwin. Rodrik Cassel. 
+513(4): Merrett Frey. Lem Lemoncloak. Tom Sevenstrings. Jack-Be-Lucky. 
+514(4): Jhogo. Rakharo. Quaithe. Dany Targaryen. 
+515(4): Jhogo. Rakharo. Aggo. Dany Targaryen. 
+516(4): Jhogo. Jorah Mormont. A Captain. Dany Targaryen. 
+517(4): Jhogo. Jorah Mormont. Mirri Maz Duur. Dany Targaryen. 
+518(4): Lem Lemoncloak. Jeyne Heddle. Gendry. Brienne. 
+519(4): Lem Lemoncloak. Tom Sevenstrings. Arya Stark. A Captain. 
+520(4): Lem Lemoncloak. Tom Sevenstrings. Arya Stark. A Villager. 
+521(4): Lem Lemoncloak. Tom Sevenstrings. Jack-Be-Lucky. The Lady of the Leaves. 
+522(4): Lem Lemoncloak. Harwin. Arya Stark. A Townsman. 
+523(4): Lem Lemoncloak. Thoros. Beric Dondarrion. Utt. 
+524(4): Lem Lemoncloak. Podrick Payne. A Captain. Brienne. 
+525(4): Lem Lemoncloak. Catelyn Stark. A Captain. Brienne. 
+526(4): Maester Pylos. Maester Cressen. Patchface. Shireen Baratheon. 
+527(4): Maester Pylos. Patchface. Davos Seaworth. Edric Storm. 
+528(4): Maester Pylos. Patchface. Shireen Baratheon. Edric Storm. 
+529(4): Maester Pylos. Davos Seaworth. Stannis Baratheon. Salladhor Saan. 
+530(4): Caggo. Hugh Hungerford. Quentyn Martell. The Tattered Prince. 
+531(4): A Fat Man. Kraznys. A Grazdan. Dany Targaryen. 
+532(4): A Fat Man. Arya Stark. A Townsman. An Old Man. 
+533(4): Laswell Peake. Tristan Rivers. Harry Strickland. Aegon Targaryen. 
+534(4): Jaime Lannister. Emmon Cuy. Catelyn Stark. Brienne. 
+535(4): Jaime Lannister. Cersei Lannister. A Boy. Brienne. 
+536(4): Jaime Lannister. Cersei Lannister. Bran Stark. Ned Stark. 
+537(4): Jaime Lannister. Cersei Lannister. A Man. Brienne. 
+538(4): Jaime Lannister. Cersei Lannister. Tywin Lannister. Brienne. 
+539(4): Jaime Lannister. Cersei Lannister. Cleos Frey. Brienne. 
+540(4): Jaime Lannister. Cersei Lannister. Loras Tyrell. Brienne. 
+541(4): Jaime Lannister. A Boy. Brienne. A Sallow Man. 
+542(4): Jaime Lannister. Raff. Shitmouth. A Man. 
+543(4): Jaime Lannister. Vargo Hoat. Roose Bolton. Brienne. 
+544(4): Jaime Lannister. Vargo Hoat. Roose Bolton. Steelshanks Walton. 
+545(4): Jaime Lannister. Gerold Hightower. Ned Stark. Arthur Dayne. 
+546(4): Jaime Lannister. Walder Rivers. Addam Marbrand. Edwyn Frey. 
+547(4): Jaime Lannister. Rorge. A Guard. Brienne. 
+548(4): Jaime Lannister. A Man. Catelyn Stark. Hallis Mollen. 
+549(4): Jaime Lannister. A Man. Brienne. Creighton Longbough. 
+550(4): Jaime Lannister. Ser Kennos. Danwell Frey. Mariya Darry. 
+551(4): Jaime Lannister. Jeyne Poole. Roose Bolton. Steelshanks Walton. 
+552(4): Jaime Lannister. Roose Bolton. Qyburn. Steelshanks Walton. 
+553(4): Jaime Lannister. Emmon Frey. Strongboar. Karyl Vance. 
+554(4): Jaime Lannister. Emmon Frey. Edwyn Frey. Karyl Vance. 
+555(4): Jaime Lannister. Emmon Frey. Edwyn Frey. Edmure Tully. 
+556(4): Jaime Lannister. Addam Marbrand. Strongboar. Amerei Frey. 
+557(4): Jaime Lannister. A Guard. Brienne. An Innkeep. 
+558(4): Jaime Lannister. Strongboar. Karyl Vance. Daven Lannister. 
+559(4): Jaime Lannister. Cleos Frey. Brienne. A Sallow Man. 
+560(4): Jaime Lannister. Edwyn Frey. Karyl Vance. Daven Lannister. 
+561(4): Jaime Lannister. Catelyn Stark. A Captain. Brienne. 
+562(4): Jaime Lannister. A Captain. Brienne. An Innkeep. 
+563(4): Jaime Lannister. Brienne. An Innkeep. Creighton Longbough. 
+564(4): Jaime Lannister. Pia. Josmyn Peckledon. Daven Lannister. 
+565(4): Hot Pie. Yoren. Arya Stark. A Sallow Man. 
+566(4): Hot Pie. A Man. Arya Stark. Lommy. 
+567(4): Jared Frey. Wyman Manderly. Davos Seaworth. Leona Woolfield. 
+568(4): Emmon Cuy. Catelyn Stark. Brienne. Robar Royce. 
+569(4): Brown Ben Plumm. Daario Naharis. Hizdahr zo Loraq. Dany Targaryen. 
+570(4): Brown Ben Plumm. Daario Naharis. Jorah Mormont. Dany Targaryen. 
+571(4): Brown Ben Plumm. Daario Naharis. Grey Worm. Dany Targaryen. 
+572(4): Hyle Hunt. Septon Meribald. A Woman. Brienne. 
+573(4): Hyle Hunt. Gendry. Brienne. Jack-Be-Lucky. 
+574(4): Hyle Hunt. Randyll Tarly. A Woman. Brienne. 
+575(4): Cersei Lannister. Septa Unella. Septa Scolera. Septa Moelle. 
+576(4): Cersei Lannister. Sansa Stark. Meryn Trant. Arya Stark. 
+577(4): Cersei Lannister. Sansa Stark. Tywin Lannister. Osfryd Kettleblack. 
+578(4): Cersei Lannister. Bran Stark. Ned Stark. Arya Stark. 
+579(4): Cersei Lannister. A Man. A Woman. Septa Scolera. 
+580(4): Cersei Lannister. A Man. A Woman. Brienne. 
+581(4): Cersei Lannister. A Guard. Arya Stark. Qyburn. 
+582(4): Cersei Lannister. A Guard. A Woman. Septa Scolera. 
+583(4): Cersei Lannister. A Guard. A Woman. Brienne. 
+584(4): Cersei Lannister. Septa Scolera. Septa Moelle. High Sparrow. 
+585(4): Leo Tyrell. Pate. Mollander. An Alchemist. 
+586(4): Maester Cressen. Patchface. Selyse Baratheon. Shireen Baratheon. 
+587(4): Maester Cressen. Patchface. Shireen Baratheon. A White Raven. 
+588(4): Hullen. Harwin. Ned Stark. Arya Stark. 
+589(4): Hullen. Ned Stark. Arya Stark. Jon Snow. 
+590(4): Belwas. Rakharo. Aggo. Dany Targaryen. 
+591(4): Belwas. Skahaz mo Kandaq. Barristan Selmy. Dany Targaryen. 
+592(4): Janos Slynt. Joffrey Lannister. Ned Stark. Jon Snow. 
+593(4): Patchface. Jon Snow. Selyse Baratheon. Shireen Baratheon. 
+594(4): Patchface. Jon Snow. Selyse Baratheon. Ser Malegorn. 
+595(4): Joffrey Lannister. Sandor Clegane. A Knight. Arya Stark. 
+596(4): Joffrey Lannister. Yoren. A Knight. Arya Stark. 
+597(4): Joffrey Lannister. Ned Stark. Jon Snow. Robert Baratheon. 
+598(4): Mully. Clydas. Jon Snow. Donal Noye. 
+599(4): Mully. Tycho Nestoris. Mormont's Raven. Jon Snow. 
+600(4): Mully. Mormont's Raven. Jon Snow. Dolorous Edd. 
+601(4): Mully. Jon Snow. Donal Noye. Satin. 
+602(4): Toad. Grenn. A Raper. Jon Snow. 
+603(4): Sandor Clegane. Sansa Stark. Lothor Brune. Littlefinger. 
+604(4): Sandor Clegane. A Squire. Polliver. Arya Stark. 
+605(4): Qotho. Jorah Mormont. Mirri Maz Duur. Dany Targaryen. 
+606(4): Qotho. Haggo. Mirri Maz Duur. Dany Targaryen. 
+607(4): Qotho. Cohollo. Mirri Maz Duur. Dany Targaryen. 
+608(4): Victarion Greyjoy. Rodrik Harlaw. Euron Greyjoy. Nute. 
+609(4): Victarion Greyjoy. Aeron Greyjoy. Euron Greyjoy. Aeron Damphair. 
+610(4): Victarion Greyjoy. Aeron Greyjoy. Merlyn. Aeron Damphair. 
+611(4): Chett. Small Paul. Sam. A Black Brother. 
+612(4): A Septon. Ser Illifer. Brienne. Creighton Longbough. 
+613(4): A Septon. Brienne. An Innkeep. Creighton Longbough. 
+614(4): Clydas. Aemon Targaryen. Jon Snow. Donal Noye. 
+615(4): Clydas. Three-Finger Hobb. Jon Snow. A Raven. 
+616(4): Clydas. Three-Finger Hobb. Jon Snow. Alys Karstark. 
+617(4): Dontos. Sansa Stark. Oswell Kettleblack. Littlefinger. 
+618(4): Sansa Stark. Maester Colemon. Robert Arryn. Littlefinger. 
+619(4): Sansa Stark. Mya Stone. Robert Arryn. Myranda Royce. 
+620(4): Sansa Stark. Mya Stone. Myranda Royce. Robert Baratheon. 
+621(4): Sansa Stark. Septa Mordane. Ned Stark. Arya Stark. 
+622(4): Sansa Stark. Ned Stark. Arya Stark. Gregor Clegane. 
+623(4): Sansa Stark. Lothor Brune. Littlefinger. Marillion. 
+624(4): Sansa Stark. Littlefinger. Lysa Arryn. Robert Baratheon. 
+625(4): Sansa Stark. Littlefinger. Gilwood Hunter. Anya Waynwood. 
+626(4): Sansa Stark. Littlefinger. Anya Waynwood. Bronze Yohn Royce. 
+627(4): Daario Naharis. Jorah Mormont. Barristan Selmy. Dany Targaryen. 
+628(4): Daario Naharis. Hugh Hungerford. Quentyn Martell. Gerris Drinkwater. 
+629(4): Axell Florent. Ser Patrek. Jon Snow. Selyse Baratheon. 
+630(4): Areo Hotah. Ricasso. Arianne Martell. Doran Martell. 
+631(4): Small Paul. Sam. Grenn. A Black Brother. 
+632(4): Jaqen H'ghar. Rorge. Robett Glover. Arya Stark. 
+633(4): Jaqen H'ghar. Rorge. A Guard. Arya Stark. 
+634(4): Jaqen H'ghar. Rorge. Arya Stark. Gendry. 
+635(4): Jaqen H'ghar. Rorge. Arya Stark. The Chief Cook. 
+636(4): Matthar. Grenn. Jon Snow. Halder. 
+637(4): Marq Piper. Ned Stark. Raymun Darry. Joss. 
+638(4): Wendel Manderly. Roose Bolton. Catelyn Stark. Brienne. 
+639(4): Wendel Manderly. Catelyn Stark. Brienne. Colen. 
+640(4): Rhaegar Targaryen. Harry Strickland. Aegon Targaryen. Jon Connington. 
+641(4): Tobho Mott. Beric Dondarrion. Ned Stark. Gendry. 
+642(4): Kraznys. Missandei. Barristan Selmy. Dany Targaryen. 
+643(4): Kraznys. Missandei. A Grazdan. Dany Targaryen. 
+644(4): A Spearwife. Rattleshirt. Qhorin Halfhand. Jon Snow. 
+645(4): Morgan Liddle. Robin Peasebury. Richard Horpe. Big Bucket Wull. 
+646(4): Vargo Hoat. Roose Bolton. Brienne. Aenys Frey. 
+647(4): Yoren. Rorge. Arya Stark. Gendry. 
+648(4): Yoren. Rorge. Arya Stark. A Black Brother. 
+649(4): Yoren. Ned Stark. Arya Stark. Gendry. 
+650(4): Leobald Tallhart. Bran Stark. Maester Luwin. Rodrik Cassel. 
+651(4): Maester Colemon. Robert Arryn. Littlefinger. Catelyn Stark. 
+652(4): Mya Stone. Brynden Tully. Catelyn Stark. Nestor Royce. 
+653(4): Aeron Greyjoy. Steffarion Sparr. Gormond Goodbrother. Aeron Damphair. 
+654(4): Aeron Greyjoy. Aeron Damphair. Gorold Goodbrother. Maester Murenmure. 
+655(4): Bedwyck. Jeor Mormont. Mormont's Raven. Mallador Locke. 
+656(4): Hibald. A Man. Brienne. Creighton Longbough. 
+657(4): Hibald. Brienne. An Innkeep. Creighton Longbough. 
+658(4): Varys. Ned Stark. Raymun Darry. Joss. 
+659(4): Jory. Ned Stark. Littlefinger. Robert Baratheon. 
+660(4): Jory. Ned Stark. Jon Snow. Robert Baratheon. 
+661(4): Skahaz mo Kandaq. Barristan Selmy. Quentyn Martell. A Brazen Beast. 
+662(4): Gilly. Sam. Randyll Tarly. Jon Snow. 
+663(4): Gilly. Sam. Mormont's Raven. A Craster Wife. 
+664(4): Gilly. Sam. Jon Snow. Dareon. 
+665(4): Gilly. Mormont's Raven. Jon Snow. Hairy Hal. 
+666(4): Sam. Bran Stark. Arya Stark. Jon Snow. 
+667(4): Sam. Jeor Mormont. Jon Snow. Black Brothers. 
+668(4): Sam. A Sailor. Arya Stark. Dareon. 
+669(4): Sam. Arya Stark. A Black Brother. Jon Snow. 
+670(4): Sam. Arya Stark. A Captain. Dareon. 
+671(4): Sam. Arya Stark. Jon Snow. Dareon. 
+672(4): Sam. Randyll Tarly. Aemon Targaryen. Jon Snow. 
+673(4): Sam. Aemon Targaryen. Jon Snow. Dareon. 
+674(4): Sam. Mormont's Raven. A Craster Wife. Craster. 
+675(4): Sam. Jon Snow. Halder. Dareon. 
+676(4): Jorah Mormont. Barristan Selmy. Captain Groleo. Dany Targaryen. 
+677(4): Jorah Mormont. Pyat Pree. Xaro Xhoan Daxos. Dany Targaryen. 
+678(4): Jorah Mormont. Captain Groleo. Dany Targaryen. Viserys. 
+679(4): Rorge. Arya Stark. Gendry. Shagwell. 
+680(4): Rorge. Gendry. Brienne. Shagwell. 
+681(4): Meera Reed. Bran Stark. Ned Stark. Leaf. 
+682(4): Meera Reed. Bran Stark. Ned Stark. Rodrik Cassel. 
+683(4): Meera Reed. Bran Stark. Ned Stark. Hodor. 
+684(4): Meera Reed. Bran Stark. Leaf. Jojen Reed. 
+685(4): Meera Reed. Bran Stark. Rodrik Cassel. Jojen Reed. 
+686(4): Meera Reed. Bran Stark. Liddle. Jojen Reed. 
+687(4): Stiv. Bran Stark. Hali. Osha. 
+688(4): Mord. Robert Arryn. Littlefinger. Marwyn Belmore. 
+689(4): Thoros. Arya Stark. Gendry. An Old Man. 
+690(4): Thoros. Arya Stark. Gendry. Edric Dayne. 
+691(4): Thoros. Gendry. Brienne. An Old Man. 
+692(4): Bran Stark. Wallen. Hali. Osha. 
+693(4): Bran Stark. Leaf. Jojen Reed. Bloodraven. 
+694(4): Bran Stark. Hodor. Jojen Reed. Bloodraven. 
+695(4): Dick Straw. Denzo D'han. The Tattered Prince. Archibald Yronwood. 
+696(4): A Man. Arya Stark. A Woman. An Old Man. 
+697(4): A Man. Arya Stark. A Townsman. An Old Man. 
+698(4): Beans. Quentyn Martell. Gerris Drinkwater. Archibald Yronwood. 
+699(4): Ronnel Harclay. Jeor Mormont. Clubfoot Karl. Craster. 
+700(4): Stonesnake. Qhorin Halfhand. Jon Snow. Ygritte. 
+701(4): Jeor Mormont. Clubfoot Karl. Mormont's Raven. Craster. 
+702(4): Jeor Mormont. Clubfoot Karl. Craster. Garth of Greenaway. 
+703(4): Ned Stark. Styr. Jon Snow. Ygritte. 
+704(4): Ned Stark. Jon Snow. Ygritte. Satin. 
+705(4): Ned Stark. Jon Snow. Donal Noye. Satin. 
+706(4): Roose Bolton. A Guard. Arya Stark. Qyburn. 
+707(4): Roose Bolton. Roger Ryswell. Barbrey Dustin. Aenys Frey. 
+708(4): Barristan Selmy. Irri. Grey Worm. Dany Targaryen. 
+709(4): Albar Royce. Littlefinger. Nestor Royce. Marwyn Belmore. 
+710(4): Albar Royce. Littlefinger. Nestor Royce. Lyn Corbray. 
+711(4): A Guard. Arya Stark. A Woman. Jon Snow. 
+712(4): Desmond Grell. Catelyn Stark. Brienne. Edmure Tully. 
+713(4): Rodrik Cassel. Eon Hunter. Catelyn Stark. Lysa Arryn. 
+714(4): Rodrik Cassel. Catelyn Stark. Lharys. Willis Wode. 
+715(4): Grenn. Jon Snow. Jon's Friends. Alliser Thorne. 
+716(4): Devan Seaworth. Jon Snow. Dolorous Edd. Stannis Baratheon. 
+717(4): Arya Stark. A Woman. Jon Snow. An Old Man. 
+718(4): Arya Stark. A Kindly Man. The Waif. Brusco. 
+719(4): A Girl. A Woman. Jon Snow. An Old Man. 
+720(4): Rattleshirt. Weeper. Ygritte. Longspear Ryk. 
+721(4): Rattleshirt. Weeper. Ygritte. Ragwyle. 
+722(4): Artos Flint. Corliss Penny. Godry Farring. Justin Massey. 
+723(4): Robert Arryn. Eon Hunter. Catelyn Stark. Lysa Arryn. 
+724(4): Tyene Sand. Doran Martell. Maester Caleotte. Obara Sand. 
+725(4): Benedar Belmore. Littlefinger. Anya Waynwood. Bronze Yohn Royce. 
+726(4): Quentyn Martell. The Tattered Prince. Archibald Yronwood. Pretty Meris. 
+727(4): Podrick Payne. A Captain. Brienne. An Old Man. 
+728(4): Brynden Tully. Catelyn Stark. Hoster Tully. Brandon Stark. 
+729(4): Littlefinger. Catelyn Stark. Nestor Royce. Lyn Corbray. 
+730(4): Littlefinger. Nestor Royce. Symond Templeton. Lyn Corbray. 
+731(4): Littlefinger. Nestor Royce. Lyn Corbray. Bronze Yohn Royce. 
+732(4): Littlefinger. Lyn Corbray. Anya Waynwood. Bronze Yohn Royce. 
+733(4): Aemon Targaryen. Jon Snow. Bowen Marsh. Septon Cellador. 
+734(4): Robin Peasebury. Godry Farring. Richard Horpe. Justin Massey. 
+735(4): Catelyn Stark. A Captain. Brienne. Stannis Baratheon. 
+736(4): A Captain. Gerris Drinkwater. Doran Martell. Cletus Yronwood. 
+737(4): Styr. Jon Snow. A Thenn. Ygritte. 
+738(4): Jon Snow. Godry Farring. Richard Horpe. Queen's Men. 
+739(4): Jon Snow. Harwood Fell. Justin Massey. Stannis Baratheon. 
+740(4): Jon Snow. Bowen Marsh. Othell Yarwyck. Stannis Baratheon. 
+741(4): Corliss Penny. Godry Farring. Richard Horpe. Justin Massey. 
+742(4): A Whore. An Oarsman. An Old Fellow. A Riverman. 
+743(4): A Whore. An Oarsman. An Old Fellow. A Proprietor. 
+744(3): Benjen Stark. Tyrion Lannister. Sansa Stark. 
+745(3): Benjen Stark. Bran Stark. Jojen Reed. 
+746(3): Val. Jon Snow. Leathers. 
+747(3): White Ravens. Leo Tyrell. Pate. 
+748(3): Farlen. Theon Greyjoy. Rodrik Cassel. 
+749(3): Beth Cassel. Sansa Stark. Jeyne Poole. 
+750(3): Holly. Theon Greyjoy. Rowan. 
+751(3): Holly. Theon Greyjoy. Myrtle. 
+752(3): Holly. Theon Greyjoy. Sour Alyn. 
+753(3): Holly. Theon Greyjoy. Frenya. 
+754(3): Holly. Theon Greyjoy. A Serjeant. 
+755(3): Holly. Rowan. Willow Heddle. 
+756(3): Lark. Bedwyck. Jon Snow. 
+757(3): Osmund Kettleblack. A Runner. Tyrion Lannister. 
+758(3): Osmund Kettleblack. Jaime Lannister. Arthur Dayne. 
+759(3): Snatch. Tyrion Lannister. Kem. 
+760(3): Renfred Rykker. Cersei Lannister. Tommen. 
+761(3): A Woods Witch. Varamyr. Thistle. 
+762(3): Jhiqui. Rakharo. Dany Targaryen. 
+763(3): Someone. Mance Rayder. Roose Bolton. 
+764(3): Asha Greyjoy. Theon Greyjoy. Skyte. 
+765(3): Asha Greyjoy. Theon Greyjoy. A Captain's Daughter. 
+766(3): Asha Greyjoy. Theon Greyjoy. A Flint. 
+767(3): Asha Greyjoy. Theon Greyjoy. Ramsay Bolton. 
+768(3): Asha Greyjoy. Theon Greyjoy. Tycho Nestoris. 
+769(3): Asha Greyjoy. Theon Greyjoy. Bluetooth. 
+770(3): Asha Greyjoy. Theon Greyjoy. A Stableman. 
+771(3): Asha Greyjoy. Victarion Greyjoy. A Voice. 
+772(3): Asha Greyjoy. Victarion Greyjoy. Victarion's Champions. 
+773(3): Asha Greyjoy. Skyte. A Pink-Cheeked Youth. 
+774(3): Asha Greyjoy. Dagon Greyjoy. Quenton Greyjoy. 
+775(3): Asha Greyjoy. Roggon Rustbeard. Tristifer Botley. 
+776(3): Asha Greyjoy. Qarl the Maid. Euron Greyjoy. 
+777(3): Asha Greyjoy. Qarl the Maid. Grimtongue. 
+778(3): Asha Greyjoy. Qarl the Maid. Lorren Longaxe. 
+779(3): Asha Greyjoy. Balon Greyjoy. Justin Massey. 
+780(3): Asha Greyjoy. Tycho Nestoris. Clayton Suggs. 
+781(3): Asha Greyjoy. Sybelle Glover. A Maester. 
+782(3): Asha Greyjoy. Clayton Suggs. Tristifer Botley. 
+783(3): Asha Greyjoy. Rolfe the Dwarf. Lorren Longaxe. 
+784(3): Asha Greyjoy. Aeron Damphair. Erik Ironmaker. 
+785(3): Asha Greyjoy. Tristifer Botley. Cromm. 
+786(3): Theon Greyjoy. Benfred Tallheart. Aeron Damphair. 
+787(3): Theon Greyjoy. Robb. Robin Ryger. 
+788(3): Theon Greyjoy. Tyrion Lannister. A Boy. 
+789(3): Theon Greyjoy. A Potboy. A Guard. 
+790(3): Theon Greyjoy. A Captain's Daughter. A Captain. 
+791(3): Theon Greyjoy. Rowan. A Sentry. 
+792(3): Theon Greyjoy. Rowan. Jeyne Poole. 
+793(3): Theon Greyjoy. Rowan. A Guard. 
+794(3): Theon Greyjoy. Rowan. An Archer. 
+795(3): Theon Greyjoy. Joseth. Maester Luwin. 
+796(3): Theon Greyjoy. Black Lorren. Urzen. 
+797(3): Theon Greyjoy. Wyman Manderly. Sour Alyn. 
+798(3): Theon Greyjoy. A Flint. A Sentry. 
+799(3): Theon Greyjoy. Aeron Greyjoy. Helya. 
+800(3): Theon Greyjoy. Aeron Greyjoy. Aeron Damphair. 
+801(3): Theon Greyjoy. Tycho Nestoris. Jon Snow. 
+802(3): Theon Greyjoy. Bran Stark. Jeyne Poole. 
+803(3): Theon Greyjoy. Bran Stark. Mikken. 
+804(3): Theon Greyjoy. Maester Luwin. Kromm. 
+805(3): Theon Greyjoy. Mance Rayder. Jon Snow. 
+806(3): Theon Greyjoy. Jeyne Poole. Sour Alyn. 
+807(3): Theon Greyjoy. Young Cerwyn. Rodrik Cassel. 
+808(3): Theon Greyjoy. Kyra. Wex. 
+809(3): Theon Greyjoy. Kyra. Big Walder. 
+810(3): Theon Greyjoy. A Guard. Adrack Humble. 
+811(3): Theon Greyjoy. Patrek Mallister. Aeron Damphair. 
+812(3): Theon Greyjoy. A Captain. An Inkeeper. 
+813(3): Theon Greyjoy. An Inkeeper. Aeron Damphair. 
+814(3): Theon Greyjoy. A Ryswell. Adrack Humble. 
+815(3): Theon Greyjoy. Adrack Humble. Dagon Codd. 
+816(3): Theon Greyjoy. Steelshanks Walton. An Archer. 
+817(3): A Merchant. Jorah Mormont. Dany Targaryen. 
+818(3): Horas Redwyne. Tyrion Lannister. Boros Blount. 
+819(3): A Dwarf. Podrick Payne. Brienne. 
+820(3): Anguy. Lem Lemoncloak. A Village Woman. 
+821(3): Red Ralf Stonehouse. Euron Greyjoy. Nute. 
+822(3): Red Ralf Stonehouse. Euron Greyjoy. Euron's Bastard. 
+823(3): Robert's Ghost. Cersei Lannister. Ned Stark. 
+824(3): Godric Borrell. Davos Seaworth. A Captain. 
+825(3): Godric Borrell. Davos Seaworth. Salladhor Saan. 
+826(3): A Tyroshi. Tyrion Lannister. Cersei Lannister. 
+827(3): A Tyroshi. Tyrion Lannister. A Stripling. 
+828(3): Alerie Tyrell. Sansa Stark. High Septon. 
+829(3): Dick Crabb. Ser Goodwin. Brienne. 
+830(3): Dick Crabb. Randyll Tarly. Brienne. 
+831(3): Dick Crabb. The Waves. Brienne. 
+832(3): Dick Crabb. Brienne. Septa Roelle. 
+833(3): A Bedmaid. Dontos. Sansa Stark. 
+834(3): A Highborn Voice. A Man. Voices. 
+835(3): Varamyr. Haggon. Thistle. 
+836(3): Franklyn Flowers. Varys. Jon Connington. 
+837(3): Franklyn Flowers. Myles Toyne. Jon Connington. 
+838(3): Melisandre. Sigorn. Jon Snow. 
+839(3): Melisandre. Alester Florent. Cortnay Penrose. 
+840(3): Melisandre. Wedding Guests. Alys Karstark. 
+841(3): Melisandre. Believers. Selyse Baratheon. 
+842(3): Melisandre. Cortnay Penrose. Stannis Baratheon. 
+843(3): Margaery Tyrell. Cersei Lannister. Megga Tyrell. 
+844(3): Margaery Tyrell. Cersei Lannister. High Sparrow. 
+845(3): Jeren. Toad. Grenn. 
+846(3): Taena Merryweather. Cersei Lannister. Dorcas. 
+847(3): Taena Merryweather. Cersei Lannister. Robert Arryn. 
+848(3): Tyrion's Men. Tyrion Lannister. Jaime Lannister. 
+849(3): Yezzan. Tyrion Lannister. Brown Ben Plumm. 
+850(3): Yezzan. Tyrion Lannister. An Auctioneer. 
+851(3): Renly Baratheon. Mathis Rowan. Lord Estermont. 
+852(3): Renly Baratheon. Janos Slynt. Stannis Baratheon. 
+853(3): Renly Baratheon. Sansa Stark. A Man. 
+854(3): Renly Baratheon. Jeyne Heddle. Brienne. 
+855(3): Renly Baratheon. A Drunken Archer. Catelyn Stark. 
+856(3): Renly Baratheon. Renly's Steward. A Fool. 
+857(3): Renly Baratheon. Randyll Tarly. Grand Maester Pycelle. 
+858(3): Renly Baratheon. Randyll Tarly. Arwyn Oakheart. 
+859(3): Soldiers. Robb. Catelyn Stark. 
+860(3): Old Nan. Bran Stark. Arya Stark. 
+861(3): Old Nan. Arya Stark. Denyo. 
+862(3): Courtier. Cersei Lannister. Joffrey Lannister. 
+863(3): Reznak mo Reznak. Hizdahr zo Loraq. Harghaz. 
+864(3): Reznak mo Reznak. Hizdahr zo Loraq. Voices. 
+865(3): Reznak mo Reznak. Skahaz mo Kandaq. Mollono Yos Dob. 
+866(3): Reznak mo Reznak. A Ghiscari. Dany Targaryen. 
+867(3): Reznak mo Reznak. A Father. Dany Targaryen. 
+868(3): Tormund Giantsbane. Horse. Jon Snow. 
+869(3): Tormund Giantsbane. Borroq. Jon Snow. 
+870(3): Tormund Giantsbane. Jon Snow. Big Liddle. 
+871(3): Khal Drogo. Jorah Mormont. Drogo's Khalasar. 
+872(3): Sigorn. Mormont's Raven. Jon Snow. 
+873(3): Rast. Jon Snow. Alliser Thorne. 
+874(3): Nurse. Tyrion Lannister. A Soldier. 
+875(3): Nurse. Tyrion Lannister. A Guard. 
+876(3): Robb. Sandor Clegane. Walder Frey. 
+877(3): Robb. Maege Mormont. Marq Piper. 
+878(3): Robb. Marq Piper. Ned Stark. 
+879(3): Robb. Marq Piper. Edmure Tully. 
+880(3): Robb. Marq Piper. Alyx Frey. 
+881(3): Robb. Wendel Manderly. Edwyn Frey. 
+882(3): Robb. Bran's Assassin. Catelyn Stark. 
+883(3): Robb. Rollam Westerling. Raynald Westerling. 
+884(3): Robb. Rollam Westerling. Sybell Spicer. 
+885(3): Robb. Raynald Westerling. Catelyn Stark. 
+886(3): Robb. Walder Frey. Freys. 
+887(3): Robb. Walder Frey. Lady Frey. 
+888(3): Robb. Roose Bolton. Arya Stark. 
+889(3): Robb. Arya Stark. A Captain. 
+890(3): Robb. Ryman Frey. Petyr Pimple. 
+891(3): Robb. Edwyn Frey. Black Walder. 
+892(3): Robb. Catelyn Stark. Black Walder. 
+893(3): Robb. Jon Snow. Halder. 
+894(3): Robb. Edmure Tully. Olyvar. 
+895(3): Burton Humble. Longwater Pyke. Wulfe One-Ear. 
+896(3): Tyrion Lannister. Ellaria Sand. Oberyn Martell. 
+897(3): Tyrion Lannister. Slave Girls. Jorah Mormont. 
+898(3): Tyrion Lannister. Jaime Lannister. Maester Ottomore. 
+899(3): Tyrion Lannister. Brown Ben Plumm. A Girl. 
+900(3): Tyrion Lannister. Brown Ben Plumm. Inkpots. 
+901(3): Tyrion Lannister. Kasporio. Jorah Mormont. 
+902(3): Tyrion Lannister. Kasporio. Inkpots. 
+903(3): Tyrion Lannister. Cersei Lannister. A Few Voices. 
+904(3): Tyrion Lannister. A Herald. Galyeon. 
+905(3): Tyrion Lannister. Joffrey Lannister. Revelers. 
+906(3): Tyrion Lannister. Joffrey Lannister. A Mob. 
+907(3): Tyrion Lannister. Sandor Clegane. A Sellsword. 
+908(3): Tyrion Lannister. An Ibbenese Man. Symon Silvertongue. 
+909(3): Tyrion Lannister. A Serving Girl. Jorah Mormont. 
+910(3): Tyrion Lannister. A Serving Girl. Catelyn Stark. 
+911(3): Tyrion Lannister. A Boy. Penny. 
+912(3): Tyrion Lannister. Sansa Stark. Hamish the Harper. 
+913(3): Tyrion Lannister. A Frey Captain. Catelyn Stark. 
+914(3): Tyrion Lannister. Preston Greenfield. Alliser Thorne. 
+915(3): Tyrion Lannister. Tobho Mott. Tywin Lannister. 
+916(3): Tyrion Lannister. Masha Heddle. A Freerider. 
+917(3): Tyrion Lannister. A Soldier. Scar. 
+918(3): Tyrion Lannister. Yoren. A Black Brother. 
+919(3): Tyrion Lannister. Yoren. Marillion. 
+920(3): Tyrion Lannister. Symon Silver Tongue. Symon Silvertongue. 
+921(3): Tyrion Lannister. Varys. Alayaya. 
+922(3): Tyrion Lannister. Varys. Jon Connington. 
+923(3): Tyrion Lannister. Meryn Trant. A Red Cloak. 
+924(3): Tyrion Lannister. Jorah Mormont. A Captain. 
+925(3): Tyrion Lannister. Jorah Mormont. Illyrio. 
+926(3): Tyrion Lannister. Harys Swyft. Addam Marbrand. 
+927(3): Tyrion Lannister. Leonette Fossoway. Garlan Tyrell. 
+928(3): Tyrion Lannister. Lum. Shae. 
+929(3): Tyrion Lannister. Kem. Nail. 
+930(3): Tyrion Lannister. Ironbelly. A Smith. 
+931(3): Tyrion Lannister. Musicians. Galyeon. 
+932(3): Tyrion Lannister. Tywin Lannister. Penny. 
+933(3): Tyrion Lannister. Tywin Lannister. A Blond Girl. 
+934(3): Tyrion Lannister. Some Drunken Slattern. Catelyn Stark. 
+935(3): Tyrion Lannister. Oberyn Martell. Gerion Lannister. 
+936(3): Tyrion Lannister. Addam Marbrand. Leo Lefford. 
+937(3): Tyrion Lannister. Addam Marbrand. Bronn. 
+938(3): Tyrion Lannister. Mandon Moore. Bronn. 
+939(3): Tyrion Lannister. Chiggen. Bronn. 
+940(3): Tyrion Lannister. A Girl. A Smith. 
+941(3): Tyrion Lannister. Kevan Lannister. Gregor Clegane. 
+942(3): Tyrion Lannister. Maester Frenken. Chella. 
+943(3): Tyrion Lannister. Chataya. Alayaya. 
+944(3): Tyrion Lannister. Chataya. Bronn. 
+945(3): Tyrion Lannister. Tysha. Maester Ballabar. 
+946(3): Tyrion Lannister. Aemon Targaryen. A Braavosi. 
+947(3): Tyrion Lannister. Alayaya. Dancy. 
+948(3): Tyrion Lannister. Catelyn Stark. A Man-at-Arms. 
+949(3): Tyrion Lannister. Bronn. Boros Blount. 
+950(3): Tyrion Lannister. Moqorro. Penny. 
+951(3): Tyrion Lannister. Haldon Halfmaester. Qavo Nogarys. 
+952(3): Tyrion Lannister. Penny. An Old Man. 
+953(3): Tyrion Lannister. Penny. A Lord. 
+954(3): Tyrion Lannister. Illyrio. Tygett Lannister. 
+955(3): Tyrion Lannister. Garlan Tyrell. Galyeon. 
+956(3): Tyrion Lannister. A Sellsword. A Serjeant. 
+957(3): Tyrion Lannister. Stannis Baratheon. A Serjeant. 
+958(3): Tyrion Lannister. Gregor Clegane. An Old Man. 
+959(3): Merrett Frey. Walder Frey. Lothar Frey. 
+960(3): Jhogo. Aggo and Rakharo. Dany Targaryen. 
+961(3): Dobber. Hot Pie. Yoren. 
+962(3): Dobber. Reysen. Yoren. 
+963(3): Sweets. A Healer. Penny. 
+964(3): Sweets. Penny. A Goat Boy. 
+965(3): Lyanna. Ned Stark. Littlefinger. 
+966(3): Lyanna. Ned Stark. Barra's Mother. 
+967(3): Lem Lemoncloak. A Septon. Brienne. 
+968(3): Lem Lemoncloak. A Septon. The Lady of the Leaves. 
+969(3): Lem Lemoncloak. A Septon. Greenbeard. 
+970(3): Lem Lemoncloak. Arya Stark. A Woman. 
+971(3): Lem Lemoncloak. A Woman. Brienne. 
+972(3): Lem Lemoncloak. Brienne. A Sallow Man. 
+973(3): Lem Lemoncloak. Brienne. A Maester. 
+974(3): Lem Lemoncloak. A Maester. Greenbeard. 
+975(3): Aerys Targaryen. Jaime Lannister. A Miller. 
+976(3): Aerys Targaryen. Jaime Lannister. Rhaegar Targaryen. 
+977(3): Aerys Targaryen. Jaime Lannister. Qyburn. 
+978(3): Caggo. Lucifer Long. The Tattered Prince. 
+979(3): Caggo. Quentyn Martell. A Brazen Beast. 
+980(3): A Fat Man. An Old Woman. A Whore. 
+981(3): A Fat Man. An Old Woman. An Old Man. 
+982(3): A Fat Man. An Old Woman. Dany Targaryen. 
+983(3): A Fat Man. A Bidder. Zahrina. 
+984(3): A Fat Man. Arya Stark. A False Guard. 
+985(3): Mero. Prendahl Na Ghezn. Dany Targaryen. 
+986(3): Mero. Barristan Selmy. Dany Targaryen. 
+987(3): Jaime Lannister. Emmon Cuy. Genna Lannister. 
+988(3): Jaime Lannister. Forley Prester. Walder Rivers. 
+989(3): Jaime Lannister. Forley Prester. Strongboar. 
+990(3): Jaime Lannister. Cersei Lannister. Rhaella. 
+991(3): Jaime Lannister. Cersei Lannister. Strongboar. 
+992(3): Jaime Lannister. Bertram Beesbury. Brienne. 
+993(3): Jaime Lannister. A Miller. Steelshanks Walton. 
+994(3): Jaime Lannister. Vargo. Vargo Hoat. 
+995(3): Jaime Lannister. Rhaegar Targaryen. Jon Darry. 
+996(3): Jaime Lannister. Vargo Hoat. A Bloody Mummer. 
+997(3): Jaime Lannister. Lancel Lannister. A Sparrow. 
+998(3): Jaime Lannister. A Gold Cloak. Varys. 
+999(3): Jaime Lannister. A Gold Cloak. Steelshanks Walton. 
+1000(3): Jaime Lannister. Shitmouth. Bonifer Hasty. 
+1001(3): Jaime Lannister. Tom Sevenstrings. A Man. 
+1002(3): Jaime Lannister. Tom Sevenstrings. A Captain. 
+1003(3): Jaime Lannister. Tom Sevenstrings. Edmure Tully. 
+1004(3): Jaime Lannister. Tom Sevenstrings. A Sallow Man. 
+1005(3): Jaime Lannister. Bran Stark. Jeyne Poole. 
+1006(3): Jaime Lannister. A Man. Ser Kennos. 
+1007(3): Jaime Lannister. A Man. Maester Ottomore. 
+1008(3): Jaime Lannister. A Man. Josmyn Peckledon. 
+1009(3): Jaime Lannister. Jeyne Poole. Littlefinger. 
+1010(3): Jaime Lannister. Tywin Lannister. Genna Lannister. 
+1011(3): Jaime Lannister. Emmon Frey. Genna Lannister. 
+1012(3): Jaime Lannister. Ryman Frey. A Slattern. 
+1013(3): Jaime Lannister. Brynden Tully. Daven Lannister. 
+1014(3): Jaime Lannister. Grand Maester Pycelle. Rennifer Longwaters. 
+1015(3): Jaime Lannister. Ser Dermot. Tommen. 
+1016(3): Jaime Lannister. Hoster Blackwood. Tytos Blackwood. 
+1017(3): Jaime Lannister. Hoster Blackwood. Josmyn Peckledon. 
+1018(3): Jaime Lannister. Catelyn Stark. A Scout. 
+1019(3): Jaime Lannister. Hildy. Jonos Bracken. 
+1020(3): Jaime Lannister. Tytos Blackwood. Jonos Bracken. 
+1021(3): Jaime Lannister. Qyburn. Pia. 
+1022(3): Jaime Lannister. Brienne. Arthur Dayne. 
+1023(3): Mors Umber. Maester Luwin. Rodrik Cassel. 
+1024(3): Mors Umber. Maester Luwin. Osha. 
+1025(3): Mors Umber. Rodrik Cassel. Hother. 
+1026(3): Wun Wun. Jon Snow. Shireen Baratheon. 
+1027(3): Hot Pie. A Voice. Arya Stark. 
+1028(3): Hot Pie. A Guard. Arya Stark. 
+1029(3): Hot Pie. Arya Stark. Woth. 
+1030(3): Kojja. Xhondo. Sam. 
+1031(3): Jared Frey. Wyman Manderly. Roose Bolton. 
+1032(3): Jared Frey. Walder Frey. Roose Bolton. 
+1033(3): Jared Frey. A Frey. Davos Seaworth. 
+1034(3): The Black Gate. Sam. Hodor. 
+1035(3): Dick Follard. Jon Snow. Satin. 
+1036(3): Hyle Hunt. Willow Heddle. Ben Big Mouth. 
+1037(3): Hyle Hunt. Randyll Tarly. A Thief. 
+1038(3): Hyle Hunt. Girls. Brienne. 
+1039(3): Hyle Hunt. Brienne. An Innkeep. 
+1040(3): Hyle Hunt. Brienne. A Serjeant. 
+1041(3): Hyle Hunt. A Farmer. A Serjeant. 
+1042(3): Cersei Lannister. Shortear. Qyburn. 
+1043(3): Cersei Lannister. Shortear. Puckens. 
+1044(3): Cersei Lannister. Joffrey Lannister. The Herald. 
+1045(3): Cersei Lannister. Joffrey Lannister. A Mother. 
+1046(3): Cersei Lannister. An Old Woman. Sansa Stark. 
+1047(3): Cersei Lannister. An Old Woman. Brienne. 
+1048(3): Cersei Lannister. Bystanders. Mace Tyrell. 
+1049(3): Cersei Lannister. A Novice. Kevan Lannister. 
+1050(3): Cersei Lannister. A Squire. Sumner Crakehall. 
+1051(3): Cersei Lannister. Osney Kettleblack. High Sparrow. 
+1052(3): Cersei Lannister. Dorcas. Boros Blount. 
+1053(3): Cersei Lannister. A Man. Maggy. 
+1054(3): Cersei Lannister. Balman Byrch. Falyse Stokeworth. 
+1055(3): Cersei Lannister. Theodan Wells. High Sparrow. 
+1056(3): Cersei Lannister. Tanda Stokeworth. Falyse Stokeworth. 
+1057(3): Cersei Lannister. Osfryd Kettleblack. A Royal Steward. 
+1058(3): Cersei Lannister. Podrick Payne. Brienne. 
+1059(3): Cersei Lannister. Melara. Maggy. 
+1060(3): Cersei Lannister. Orton Merryweather. Septa Moelle. 
+1061(3): Cersei Lannister. Aurane Waters. Loras Tyrell. 
+1062(3): Cersei Lannister. Qyburn. The Blue Bard. 
+1063(3): Syrio Forel. A Gold Cloak. Arya Stark. 
+1064(3): Syrio Forel. Meryn Trant. A Red Cloak. 
+1065(3): Syrio Forel. Meryn Trant. Arya Stark. 
+1066(3): Leo Tyrell. Armen. Archmaester Ryam. 
+1067(3): Leo Tyrell. Sam. Alleras. 
+1068(3): Lord Sweet. Godry Farring. Stannis Baratheon. 
+1069(3): The Alchemist. Archmaester Marwyn. Sam. 
+1070(3): Northmen. Ramsay Bolton. Damon Dance-for-Me. 
+1071(3): Hullen. A Man. Arya Stark. 
+1072(3): A Herald. Hizdahr zo Loraq. Dany Targaryen. 
+1073(3): A Herald. Marlon Manderly. Maester Theomore. 
+1074(3): A Herald. Gerris Drinkwater. Dany Targaryen. 
+1075(3): Mathis Rowan. Jon Fossoway. Lord Estermont. 
+1076(3): Mathis Rowan. Randyll Tarly. Mace Tyrell. 
+1077(3): Belwas. Prendahl Na Ghezn. Dany Targaryen. 
+1078(3): Belwas. Dany's Courtiers. Dany Targaryen. 
+1079(3): Janos Slynt. Rattleshirt. Jon Snow. 
+1080(3): Janos Slynt. Jon Snow. Owen the Oaf. 
+1081(3): Maester Brenett. Catelyn Stark. Lothar Frey. 
+1082(3): Dale. Allard Seaworth. Davos Seaworth. 
+1083(3): Joffrey Lannister. Dontos. Master of Revels. 
+1084(3): Joffrey Lannister. Sansa Stark. Mycah. 
+1085(3): Joffrey Lannister. Sansa Stark. A Person. 
+1086(3): Joffrey Lannister. Sansa Stark. Lollys Stokeworth. 
+1087(3): Joffrey Lannister. Ned Stark. The High Septon. 
+1088(3): Joffrey Lannister. A Florent. Littlefinger. 
+1089(3): Mully. Jon Snow. Owen the Oaf. 
+1090(3): Mully. Jon Snow. Fulk the Flea. 
+1091(3): Mully. Owen the Oaf. Alf of Runnymudd. 
+1092(3): Archmaester Marwyn. Sam. Alleras. 
+1093(3): Sandor Clegane. Polliver. Tickler. 
+1094(3): Sandor Clegane. A Ferryman. Arya Stark. 
+1095(3): Sandor Clegane. A Man. A Crossbowman. 
+1096(3): Sandor Clegane. Arya Stark. An Elder. 
+1097(3): Drowned Men. Aeron Greyjoy. Aeron Damphair. 
+1098(3): Rakharo. Symon Stripeback. Dany Targaryen. 
+1099(3): An Old Woman. Sansa Stark. Brella. 
+1100(3): An Old Woman. Sansa Stark. Gregor Clegane. 
+1101(3): An Old Woman. Brienne. Jack-Be-Lucky. 
+1102(3): An Old Woman. Brienne. A Sallow Man. 
+1103(3): An Old Woman. Brienne. An Old Man. 
+1104(3): An Old Woman. Jack-Be-Lucky. Greenbeard. 
+1105(3): An Old Woman. An Inkeeper. A Sallow Man. 
+1106(3): An Old Woman. Gregor Clegane. An Old Man. 
+1107(3): A Serving Girl. Catelyn Stark. Brienne. 
+1108(3): Maege Mormont. Dacey Mormont. Catelyn Stark. 
+1109(3): Jon Lynderly. Eon Hunter. Lysa Arryn. 
+1110(3): Victarion Greyjoy. Rodrik Harlaw. Baelor Blacktyde. 
+1111(3): Victarion Greyjoy. Rodrik Harlaw. Drumm. 
+1112(3): Victarion Greyjoy. A Voice. Other Men. 
+1113(3): Victarion Greyjoy. Aeron Greyjoy. Baelor Blacktyde. 
+1114(3): Victarion Greyjoy. A Man. Nute. 
+1115(3): Victarion Greyjoy. Longwater Pyke. Wulfe One-Ear. 
+1116(3): Victarion Greyjoy. Euron Greyjoy. Hotho Harlaw. 
+1117(3): Victarion Greyjoy. Wulfe One-Ear. Moqorro. 
+1118(3): Victarion Greyjoy. Ralf the Limper. Hotho Harlaw. 
+1119(3): Victarion Greyjoy. Moqorro. An Oarsman. 
+1120(3): Dacey Mormont. Catelyn Stark. Edmure Tully. 
+1121(3): A Septon. Ser Illifer. A Big Man. 
+1122(3): Clydas. Jon Snow. Norrey. 
+1123(3): Clydas. Jon Snow. Iron Emmett. 
+1124(3): Clydas. Jon Snow. Leathers. 
+1125(3): Ser Goodwin. Humfrey Wagstaff. Brienne. 
+1126(3): Grazhar. Barristan Selmy. Azzak. 
+1127(3): Sansa Stark. Gretchel. Robert Baratheon. 
+1128(3): Sansa Stark. Maester Colemon. Gyles Grafton. 
+1129(3): Sansa Stark. Mya Stone. Lothor Brune. 
+1130(3): Sansa Stark. Someone Else. A Woman. 
+1131(3): Sansa Stark. Jeyne Poole. Littlefinger. 
+1132(3): Sansa Stark. Grisel. Littlefinger. 
+1133(3): Sansa Stark. Tanda Stokeworth. Lollys Stokeworth. 
+1134(3): Sansa Stark. A Guard. Myranda Royce. 
+1135(3): Sansa Stark. Littlefinger. Lysa Tully. 
+1136(3): Sansa Stark. Brella. Shae. 
+1137(3): Axell Florent. Porridge. Alester Florent. 
+1138(3): Axell Florent. Davos Seaworth. An Oarsman. 
+1139(3): Bryce Caron. Matthos Seaworth. Davos Seaworth. 
+1140(3): Bryce Caron. Jon Fossoway. Guyard Morrigen. 
+1141(3): Bryce Caron. Guyard Morrigen. Cortnay Penrose. 
+1142(3): Bryce Caron. Davos Seaworth. Alester Florent. 
+1143(3): Bryce Caron. Davos Seaworth. Stannis Baratheon. 
+1144(3): Bryce Caron. Alester Florent. Cortnay Penrose. 
+1145(3): Bryce Caron. Cortnay Penrose. Stannis Baratheon. 
+1146(3): Gared. Will. Waymar Royce. 
+1147(3): A Squire. Vargo Hoat. Roose Bolton. 
+1148(3): A Squire. Vargo Hoat. Shagwell. 
+1149(3): A Squire. Roose Bolton. Arya Stark. 
+1150(3): A Squire. Roose Bolton. Catelyn Stark. 
+1151(3): A Squire. Desmond Grell. Catelyn Stark. 
+1152(3): A Squire. Arya Stark. Shagwell. 
+1153(3): Tagganaro. Arya Stark. Joss the Gloom. 
+1154(3): Vayon Poole. Ned Stark. Littlefinger. 
+1155(3): A Gaoler. Ned Stark. Catelyn Stark. 
+1156(3): A Gaoler. Catelyn Stark. Brienne. 
+1157(3): Areo Hotah. Drey. Arianne Martell. 
+1158(3): Areo Hotah. Oberyn Martell. Arianne Martell. 
+1159(3): Areo Hotah. Arianne Martell. Ser Manfrey. 
+1160(3): Jaqen H'ghar. Rorge. A Guard Captain. 
+1161(3): Rowan. Jeyne Poole. Willow Heddle. 
+1162(3): Ser Narbert. Jon Snow. Selyse Baratheon. 
+1163(3): Reysen. Yoren. A Gold Cloak. 
+1164(3): Reysen. Yoren. A Knight. 
+1165(3): Reysen. Yoren. Koss. 
+1166(3): Marq Piper. Ned Stark. Robar Royce. 
+1167(3): Hizdahr zo Loraq. Quaithe. Dany Targaryen. 
+1168(3): Hizdahr zo Loraq. Barristan Selmy. Miklaz. 
+1169(3): Pyp. A Guard. Jon Snow. 
+1170(3): Pyp. Ravens. Jon Snow. 
+1171(3): Pyp. Jon Snow. Owen the Oaf. 
+1172(3): A Young Squire. Ned Stark. Robert Baratheon. 
+1173(3): Osney Kettleblack. Ser Dermot. Tommen. 
+1174(3): Wendel Manderly. Catelyn Stark. Wylis Manderly. 
+1175(3): Wendel Manderly. Catelyn Stark. Shadd. 
+1176(3): Tansy. Arya Stark. Bella. 
+1177(3): Kraznys. An Unsullied. Dany Targaryen. 
+1178(3): Ser Oswell. Gerold Hightower. Ned Stark. 
+1179(3): Tomard. Ned Stark. Arya Stark. 
+1180(3): Tomard. Ned Stark. Littlefinger. 
+1181(3): Tomard. Ned Stark. Robert's Steward. 
+1182(3): Lucan. Arya Stark. Gendry. 
+1183(3): A Windblown. Quentyn Martell. Gerris Drinkwater. 
+1184(3): Matthos Seaworth. A Crewman. Davos Seaworth. 
+1185(3): Missandei. A Man. Dany Targaryen. 
+1186(3): Missandei. People. Dany Targaryen. 
+1187(3): Missandei. Ghael. Dany Targaryen. 
+1188(3): Vargo Hoat. Rorge. Robett Glover. 
+1189(3): Vargo Hoat. Robett Glover. Amory Lorch. 
+1190(3): Wyman Manderly. Robett Glover. Davos Seaworth. 
+1191(3): Wyman Manderly. Rhaegar Frey. Wylla Manderly. 
+1192(3): Craster's Wife. Mormont's Raven. Craster. 
+1193(3): Sellswords. Black Balaq. Jon Connington. 
+1194(3): Xhondo. Gilly. Sam. 
+1195(3): Xhondo. Sam. Aemon Targaryen. 
+1196(3): Ezzara. Galazza Galare. Dany Targaryen. 
+1197(3): Ezzara. Grey Worm. Dany Targaryen. 
+1198(3): Andrew Estermont. Davos Seaworth. Selyse Baratheon. 
+1199(3): Andrew Estermont. Davos Seaworth. Edric Storm. 
+1200(3): Ternesio Terys. Arya Stark. Denyo. 
+1201(3): Yoren. A Fieldhand. Koss. 
+1202(3): Yoren. Amory Lorch. Gendry. 
+1203(3): Yoren. Arya Stark. Koss. 
+1204(3): Yoren. Arya Stark. Yoren's Charge. 
+1205(3): Yoren. An Inkeeper. A Blonde Man. 
+1206(3): Yoren. An Inkeeper. A Sallow Man. 
+1207(3): A Voice. A Sailor. Arya Stark. 
+1208(3): A Voice. Clarence Crabb. Brienne. 
+1209(3): Jarman Buckwell. Mormont's Raven. Mallador Locke. 
+1210(3): Moreo Turnitis. Rodrik Cassel. Catelyn Stark. 
+1211(3): Mya Stone. Robert Arryn. Catelyn Stark. 
+1212(3): Gerold Hightower. Arthur Dayne. Lewyn Martell. 
+1213(3): A Gold Cloak. Varys. Arya Stark. 
+1214(3): Pate. A Raven. An Alchemist. 
+1215(3): Oarsman. Arya Stark. A Captain. 
+1216(3): Daeron Targaryen. Arianne Martell. Garin. 
+1217(3): A Serving Man. Ned Stark. Barristan Selmy. 
+1218(3): Red Oarsman. Euron Greyjoy. Voices. 
+1219(3): Alan of Rosby. Sam. Grenn. 
+1220(3): Tristan Rivers. Harry Strickland. Lysono Maar. 
+1221(3): An Acolyte. Sam. Alleras. 
+1222(3): Hothor Umber. Ramsay Bolton. Arnolf Karstark. 
+1223(3): Tom Sevenstrings. A Person. Greenbeard. 
+1224(3): Skahaz mo Kandaq. A Weaver. A Bricklayer. 
+1225(3): Skahaz mo Kandaq. A Bricklayer. Dany Targaryen. 
+1226(3): Gilly. Sam. Black Jack Bulwer. 
+1227(3): Gilly. Sam. Craster Wives. 
+1228(3): Ser Glendon. Grenn. Jon Snow. 
+1229(3): Sam. A Sailor. Randyll Tarly. 
+1230(3): Sam. Arya Stark. Orbelo. 
+1231(3): Sam. Aemon Targaryen. A Braavosi. 
+1232(3): Sam. Rolley of Sisterton. Dirk. 
+1233(3): Sam. A Captain. Stannis Baratheon. 
+1234(3): Sam. Old Tattersalt. Dareon. 
+1235(3): Jorah Mormont. Dany's Outriders. Dany Targaryen. 
+1236(3): Jorah Mormont. Quhuru Mo. Dany Targaryen. 
+1237(3): Walder Rivers. Edwyn Frey. Clement Frey. 
+1238(3): Rorge. A Dornishman. Urswyck. 
+1239(3): Rorge. Brienne. Men. 
+1240(3): Lucas Blackwood. Catelyn Stark. Robar Royce. 
+1241(3): Thoros. Beric Dondarrion. Watty. 
+1242(3): A Crowd. Maester Vyman. Catelyn Stark. 
+1243(3): A Baker's Boy. A Woman. Septa Scolera. 
+1244(3): Tycho Nestoris. Clayton Suggs. Jon Snow. 
+1245(3): Tycho Nestoris. Jon Snow. Selyse Baratheon. 
+1246(3): Bran Stark. Rodrik Cassel. Men. 
+1247(3): Bran Stark. Rodrik Cassel. Hayhead. 
+1248(3): Bran Stark. Rodrik Cassel. Cley Cerwyn. 
+1249(3): Bran Stark. Rickon. Men. 
+1250(3): Bran Stark. Alebelly. Little Walder. 
+1251(3): Bran Stark. Jojen Reed. Mikken. 
+1252(3): Alyn. Ned Stark. Arya Stark. 
+1253(3): Dick Straw. Beans. Archibald Yronwood. 
+1254(3): Rory. Horse. Jon Snow. 
+1255(3): Rory. Borroq. Jon Snow. 
+1256(3): Rory. Jon Snow. Bowen Marsh. 
+1257(3): A Man. Roose Bolton. Arya Stark. 
+1258(3): A Man. Roose Bolton. Voices. 
+1259(3): A Man. Arya Stark. A Prisoner. 
+1260(3): A Man. Lommy. A Spearman. 
+1261(3): A Man. Septas. A Mob. 
+1262(3): Beans. Archibald Yronwood. Books. 
+1263(3): Jaremy Rykker. Jeor Mormont. A Ranger. 
+1264(3): Jaremy Rykker. Jon Snow. Othell Yarwyck. 
+1265(3): Robett Glover. Davos Seaworth. Ser Bartimus. 
+1266(3): Maester Luwin. Glover's Steward. Rodrik Cassel. 
+1267(3): Kedge Whiteye. Aemon Targaryen. Jon Snow. 
+1268(3): Mance Rayder. Jon Snow. Halleck. 
+1269(3): Mance Rayder. Jon Snow. Dalla. 
+1270(3): Helman Tallhart. Roose Bolton. Catelyn Stark. 
+1271(3): Helman Tallhart. Catelyn Stark. Stevron Frey. 
+1272(3): A Eunuch. Illyrio. Viserys. 
+1273(3): Lorimer the Belly. Podrick Payne. Brienne. 
+1274(3): Astapori. Aggo. Dany Targaryen. 
+1275(3): Astapori. Symon Stripeback. Dany Targaryen. 
+1276(3): Ollo Lophand. Jeor Mormont. Mormont's Raven. 
+1277(3): Ollo Lophand. Jeor Mormont. Garth of Greenaway. 
+1278(3): Ollo Lophand. Jeor Mormont. Dirk. 
+1279(3): Walder Frey. Roose Bolton. Walda Bolton. 
+1280(3): Walder Frey. Walda Bolton. Ryman Frey. 
+1281(3): Walder Frey. Edmure Tully. Roslin. 
+1282(3): Steelskin. Barristan Selmy. A Brazen Beast. 
+1283(3): Jeor Mormont. Black Brothers. Raven. 
+1284(3): Ned Stark. Catelyn Stark. Robar Royce. 
+1285(3): Rolland Storm. Davos Seaworth. Edric Storm. 
+1286(3): Old Bill Bone. Gerris Drinkwater. Archibald Yronwood. 
+1287(3): Oberyn Martell. Balon Swann. Arianne Martell. 
+1288(3): Roose Bolton. Arya Stark. Aenys Frey. 
+1289(3): Martyn Rivers. Catelyn Stark. Brienne. 
+1290(3): Martyn Rivers. Catelyn Stark. A Scout. 
+1291(3): A Sailor. Arya Stark. A Mate. 
+1292(3): A Sailor. Arya Stark. A Kindly Man. 
+1293(3): Barristan Selmy. Khrazz. Dany Targaryen. 
+1294(3): Barristan Selmy. Quentyn Martell. Prince Duncan. 
+1295(3): Barristan Selmy. Rommo. Grey Worm. 
+1296(3): Barristan Selmy. Rommo. Symon Stripeback. 
+1297(3): Barristan Selmy. The Widower. Grey Worm. 
+1298(3): Barristan Selmy. The Widower. Symon Stripeback. 
+1299(3): Barristan Selmy. The Spotted Cat. Symon Stripeback. 
+1300(3): A Goodwife. Brienne. An Older Man. 
+1301(3): River Lords. Brynden Tully. Greatjon. 
+1302(3): Tanda Stokeworth. Falyse Stokeworth. Lollys Stokeworth. 
+1303(3): Euron Greyjoy. Torwold Browntooth. Lucas Codd. 
+1304(3): Euron Greyjoy. Aeron Damphair. Voices. 
+1305(3): Euron Greyjoy. Aeron Damphair. Quellon Humble. 
+1306(3): A Guard. A Crossbowman. Davos Seaworth. 
+1307(3): A Guard. Rattleshirt. Jon Snow. 
+1308(3): A Guard. Jon Snow. Shireen Baratheon. 
+1309(3): A Guard. Brienne. A Serjeant. 
+1310(3): Rodrik Cassel. Catelyn Stark. City Watchman. 
+1311(3): Grenn. Jon Snow. Ygritte. 
+1312(3): A Queen's Man. Jon Snow. Selyse Baratheon. 
+1313(3): Devan Seaworth. Davos Seaworth. Edric Storm. 
+1314(3): Devan Seaworth. Jon Snow. Shireen Baratheon. 
+1315(3): Devan Seaworth. Shireen Baratheon. Edric Storm. 
+1316(3): Arya Stark. Gendry. Bella. 
+1317(3): Arya Stark. Gendry. Goodwife Amabel. 
+1318(3): Arya Stark. Gendry. A Groom. 
+1319(3): Arya Stark. Meralyn. Dareon. 
+1320(3): Arya Stark. Plague Face. A Kindly Man. 
+1321(3): Arya Stark. Myrmello. Joss the Gloom. 
+1322(3): Arya Stark. Lommy. Gregor Clegane. 
+1323(3): Arya Stark. The Chief Cook. Pia. 
+1324(3): Arya Stark. Joss the Gloom. Dareon. 
+1325(3): Arya Stark. A Captain. An Old Man. 
+1326(3): Arya Stark. Qyburn. Pia. 
+1327(3): Arya Stark. Shagwell. Elmar Frey. 
+1328(3): Arya Stark. Shagwell. Pinkeye. 
+1329(3): Arya Stark. Goodwife Harra. Goodwife Amabel. 
+1330(3): Arya Stark. Gregor Clegane. An Old Man. 
+1331(3): A Cole. Harry Strickland. Lysono Maar. 
+1332(3): A Crossbowman. Davos Seaworth. Salladhor Saan. 
+1333(3): Kevan Lannister. Mace Tyrell. Ronnet Connington. 
+1334(3): Artos Flint. Corliss Penny. Big Bucket Wull. 
+1335(3): Robert Arryn. Catelyn Stark. Brandon Stark. 
+1336(3): Randyll Tarly. A Woman. Jon Snow. 
+1337(3): Randyll Tarly. Catelyn Stark. Jon Snow. 
+1338(3): Horse. Jon Snow. Godry Farring. 
+1339(3): A Weaver. A Bricklayer. A Cobbler. 
+1340(3): Gylbert Farwynd. Aeron Damphair. Voices. 
+1341(3): A Woman. A Wildling. Jon Snow. 
+1342(3): A Woman. Jon Snow. Hairy Hal. 
+1343(3): Davos Seaworth. Alester Florent. Lamprey. 
+1344(3): Davos Seaworth. A Captain. Stannis Baratheon. 
+1345(3): Davos Seaworth. Captain Khorane. Salladhor Saan. 
+1346(3): Davos Seaworth. An Apple Seller. A Proprietor. 
+1347(3): Davos Seaworth. An Oarsman. A Proprietor. 
+1348(3): A Black Brother. Jon Snow. Satin. 
+1349(3): Rhaegar Frey. Wylla Manderly. Wynafryd Manderly. 
+1350(3): Rhaegar Frey. Wylla Manderly. A Stocky Man. 
+1351(3): Quentyn Martell. The Corpsekiller. Archibald Yronwood. 
+1352(3): Quentyn Martell. Gerris Drinkwater. Cletus Yronwood. 
+1353(3): Brynden Tully. Catelyn Stark. Wylis Manderly. 
+1354(3): Karyl Vance. Littlefinger. An Old Man. 
+1355(3): Robin Peasebury. Harwood Fell. Justin Massey. 
+1356(3): Robin Peasebury. Ormund Wylde. Justin Massey. 
+1357(3): Grigg. Styr. Jon Snow. 
+1358(3): Grigg. Jon Snow. Errok. 
+1359(3): Catelyn Stark. Brienne. Rymund the Rhymer. 
+1360(3): Mormont's Raven. Jon Snow. Iron Emmett. 
+1361(3): Mormont's Raven. Iron Emmett. Cotter Pyke. 
+1362(3): Three-Finger Hobb. Jon Snow. Owen the Oaf. 
+1363(3): A Captain. Gerris Drinkwater. An Innkeep. 
+1364(3): A Captain. Gerris Drinkwater. Dany Targaryen. 
+1365(3): A Captain. Justin Massey. Stannis Baratheon. 
+1366(3): A Craster Wife. Craster. Bannen. 
+1367(3): Jon Snow. Norrey. Old Flint. 
+1368(3): Jon Snow. Norrey. Septon Cellador. 
+1369(3): Jon Snow. Ygritte. Septon Cellador. 
+1370(3): Jon Snow. Black Brothers. Othell Yarwyck. 
+1371(3): Jon Snow. Black Brothers. Tom Barleycorn. 
+1372(3): Jon Snow. Bowen Marsh. Wick Whittlestick. 
+1373(3): Jon Snow. Old Flint. Othell Yarwyck. 
+1374(3): Jon Snow. Othell Yarwyck. Iron Emmett. 
+1375(3): Jon Snow. Leathers. Septon Cellador. 
+1376(3): Harry Strickland. Gorys Edoryen. Lysono Maar. 
+1377(3): Harry Strickland. Jon Connington. Lysono Maar. 
+1378(3): Vardis Egen. Lysa Arryn. Robert Baratheon. 
+1379(3): Brienne. Stannis Baratheon. A Serjeant. 
+1380(3): Arianne Martell. Sand Snakes. Doran Martell. 
+1381(3): Corliss Penny. Richard Horpe. Big Bucket Wull. 
+1382(3): Penny. A Slave Trader. Bidder. 
+1383(3): Aeron Damphair. Gran. Gorold Goodbrother. 
+1384(3): Richard Horpe. Big Bucket Wull. Queen's Men. 
+1385(3): A Bricklayer. Dany Targaryen. A Cobbler. 
+1386(3): A Blue Grace. Grey Worm. Dany Targaryen. 
+1387(3): Justin Massey. Stannis Baratheon. A Serjeant. 
+1388(3): A Slave Trader. Zahrina. Bidder. 
+1389(3): Othell Yarwyck. Stannis Baratheon. Cotter Pyke. 
+1390(3): Othell Yarwyck. Iron Emmett. Cotter Pyke. 
+1391(3): Zahrina. Bidder. Bidders. 
+1392(3): A Counselor. Symon Stripeback. Dany Targaryen. 
+1393(2): Quaro. Jorah Mormont. 
+1394(2): Quaro. Irri. 
+1395(2): Shadrich. Sansa Stark. 
+1396(2): Shadrich. Ser Morgarth. 
+1397(2): Septon Chayle. Old Nan. 
+1398(2): Septon Chayle. Mikken. 
+1399(2): Septon Chayle. Osha. 
+1400(2): Septon Chayle. Hayhead. 
+1401(2): Ternesio. Arya Stark. 
+1402(2): Farlen. Gage. 
+1403(2): Ralf Stonehouse. Ralf the Limper. 
+1404(2): Ralf Stonehouse. Voices. 
+1405(2): Albett. Alliser Thorne. 
+1406(2): Gwynesse Harlaw. Alannys Harlaw. 
+1407(2): Gwynesse Harlaw. Three-Tooth. 
+1408(2): Gwynesse Harlaw. Euron Greyjoy. 
+1409(2): Someone. Asha Greyjoy. 
+1410(2): Someone. A Guardsman. 
+1411(2): Someone. Thoren Smallwood. 
+1412(2): Someone. Strongboar. 
+1413(2): Someone. Maslyn. 
+1414(2): Asha Greyjoy. Alannys Harlaw. 
+1415(2): Asha Greyjoy. Ironmen. 
+1416(2): Asha Greyjoy. Three-Tooth. 
+1417(2): Asha Greyjoy. Jon Myre. 
+1418(2): Asha Greyjoy. The Faithful. 
+1419(2): Asha Greyjoy. A Weeping Man. 
+1420(2): Asha Greyjoy. Harmund. 
+1421(2): Theon Greyjoy. A Third Voice. 
+1422(2): Theon Greyjoy. Dagmer Cleftjaw. 
+1423(2): Theon Greyjoy. A Stableboy. 
+1424(2): Theon Greyjoy. Luton. 
+1425(2): Theon Greyjoy. A Codd. 
+1426(2): Theon Greyjoy. Guards. 
+1427(2): Theon Greyjoy. Gariss. 
+1428(2): Theon Greyjoy. A Youth. 
+1429(2): Theon Greyjoy. A Drinker. 
+1430(2): A Warrior. A Wizard King. 
+1431(2): A Warrior. A Young Man. 
+1432(2): A Third Voice. A Greybeard. 
+1433(2): Cossomo the Conjurer. Arya Stark. 
+1434(2): A Guardsman. A Slow Boy. 
+1435(2): A Merchant. Yoren. 
+1436(2): A Merchant. A Madwoman. 
+1437(2): A Fisherman. Victarion Greyjoy. 
+1438(2): Kingsguards. Jaime Lannister. 
+1439(2): A Dwarf. Joffrey Lannister. 
+1440(2): A Dwarf. A Cobbler. 
+1441(2): Anguy. A Monk. 
+1442(2): Red Ralf Stonehouse. Ralf Kenning. 
+1443(2): Red Ralf Stonehouse. Alvyn Sharp. 
+1444(2): An Old Woman's Friend. An Old Woman. 
+1445(2): Ronel Rivers. Hosteen Frey. 
+1446(2): Slaves. Dany Targaryen. 
+1447(2): Noho. Cersei Lannister. 
+1448(2): Varamyr. Varamyr's Father. 
+1449(2): Morgo. Tyrion Lannister. 
+1450(2): A Freedman. Reznak mo Reznak. 
+1451(2): A Rector. Sam. 
+1452(2): Franklyn Flowers. Marq Mandrake. 
+1453(2): Hagen. Grimtongue. 
+1454(2): Hagen. Cromm. 
+1455(2): Roland Crakehall. Jaime Lannister. 
+1456(2): Melisandre. Yoren. 
+1457(2): Melisandre. People. 
+1458(2): Melisandre. Serjeants. 
+1459(2): Crones General. An Old Crone. 
+1460(2): A Whent Man. Catelyn Stark. 
+1461(2): Renly Baratheon. Caswell. 
+1462(2): Renly Baratheon. A Rider. 
+1463(2): Utherydes Wayn. A Rider. 
+1464(2): Ulmer. Sweet Donnel. 
+1465(2): Smallfolk. Catelyn Stark. 
+1466(2): A Maid. Cersei Lannister. 
+1467(2): Reznak mo Reznak. A Freedwoman. 
+1468(2): Tormund Giantsbane. A Wildling Girl. 
+1469(2): Tormund Giantsbane. Brogg. 
+1470(2): Tormund Giantsbane. Toregg. 
+1471(2): Sweet Donnel. Kedge. 
+1472(2): Robb. A Captive. 
+1473(2): Tyrion Lannister. A Prophet. 
+1474(2): Tyrion Lannister. A Cook. 
+1475(2): Tyrion Lannister. A Naked Serving Girl. 
+1476(2): Tyrion Lannister. A Pander. 
+1477(2): Tyrion Lannister. A Slave. 
+1478(2): Tyrion Lannister. A Stone Crow. 
+1479(2): Tyrion Lannister. Larra Blackmont. 
+1480(2): Tyrion Lannister. An Ibbenese. 
+1481(2): Tyrion Lannister. A Dead-Eyed Woman. 
+1482(2): Tyrion Lannister. Tyrion's Steward. 
+1483(2): Tyrion Lannister. Septon Barth. 
+1484(2): Tyrion Lannister. Vylarr. 
+1485(2): Tyrion Lannister. An Animal Trainer. 
+1486(2): Tyrion Lannister. A Peddler. 
+1487(2): Tyrion Lannister. Flement Brax. 
+1488(2): Tyrion Lannister. Salloreon. 
+1489(2): A Smiley Old Man. Arya Stark. 
+1490(2): Fralegg the Strong. Alvyn Sharp. 
+1491(2): Fralegg the Strong. Quellon Humble. 
+1492(2): Aerys Targaryen. Willem Darry. 
+1493(2): Laswell Peake. Marq Mandrake. 
+1494(2): Jaime Lannister. Grell. 
+1495(2): Jaime Lannister. Lannister Ghosts. 
+1496(2): Jaime Lannister. A Blonde Woman. 
+1497(2): Jaime Lannister. A Castellan. 
+1498(2): Jaime Lannister. Roger Hogg. 
+1499(2): Jaime Lannister. An Armorer. 
+1500(2): Jaime Lannister. Tregar. 
+1501(2): Jaime Lannister. Wyl. 
+1502(2): Jaime Lannister. Red Ronnet Connington. 
+1503(2): Jaime Lannister. Selwyn Tarth. 
+1504(2): A Stableboy. Arya Stark. 
+1505(2): Hot Pie. Vargo Hoat. 
+1506(2): A Prophet. Other Voices. 
+1507(2): Stout's Cook. Big Walder. 
+1508(2): Stout's Cook. Ben Bones. 
+1509(2): Forley Prester. Norbert Vance. 
+1510(2): Cersei Lannister. A Drunkard. 
+1511(2): Cersei Lannister. Septon Raynard. 
+1512(2): Cersei Lannister. A One-Legged Man. 
+1513(2): Cersei Lannister. Other Voices. 
+1514(2): Cersei Lannister. An Aged Knight. 
+1515(2): Cersei Lannister. A Greybeard. 
+1516(2): Cersei Lannister. Jocelyn Swyft. 
+1517(2): Maester Kerwin. Victarion Greyjoy. 
+1518(2): Ghosts. Viserys's Ghost. 
+1519(2): Eddard Karstark. Bran Stark. 
+1520(2): Patchface. Harbert. 
+1521(2): Septa Unella. Bowen Marsh. 
+1522(2): Septa Unella. Voices. 
+1523(2): Sandor Clegane. Donnel Haigh. 
+1524(2): Sandor Clegane. A Sergeant. 
+1525(2): Sandor Clegane. A Dying Man. 
+1526(2): Sandor Clegane. An Innkeep. 
+1527(2): Septon Meribald. A Brother. 
+1528(2): Maege Mormont. Northern Lords. 
+1529(2): Victarion Greyjoy. Talbert Serry. 
+1530(2): Victarion Greyjoy. A Crewman. 
+1531(2): Victarion Greyjoy. The Vole. 
+1532(2): A Boy. A Whore. 
+1533(2): A Septon. A Tall Woman. 
+1534(2): A Septon. An Archer. 
+1535(2): A Hundred Voices. A Weeping Boy. 
+1536(2): A Hundred Voices. Godry Farring. 
+1537(2): Septon Utt. Beric Dondarrion. 
+1538(2): Septon Utt. A Crossbowman. 
+1539(2): Byan Votyris. Dany Targaryen. 
+1540(2): Stygg. Osha. 
+1541(2): Sansa Stark. A Seamstress. 
+1542(2): Sansa Stark. Grenn. 
+1543(2): Sansa Stark. Maddy. 
+1544(2): Ondrew Locke. A Dreadfort Man. 
+1545(2): Ondrew Locke. An Archer. 
+1546(2): A Squire. Ser Kennos. 
+1547(2): Revelers. Walda Bolton. 
+1548(2): Revelers. Greatjon. 
+1549(2): Oswald Kettleblack. Meryn Trant. 
+1550(2): Oswald Kettleblack. Loras Tyrell. 
+1551(2): Areo Hotah. A Woman. 
+1552(2): Jaqen H'ghar. Tuffleberry. 
+1553(2): Marq Piper. Lyman Darry. 
+1554(2): Marq Piper. Tytos Blackwood. 
+1555(2): Luton. Skinner. 
+1556(2): Hizdahr zo Loraq. A Pitmaster. 
+1557(2): Hizdahr zo Loraq. A Yunkishman. 
+1558(2): Casso Mogat. Davos Seaworth. 
+1559(2): Casso Mogat. Roro. 
+1560(2): Wendel Manderly. Perwyn Frey. 
+1561(2): Skinner. Ramsay Bolton. 
+1562(2): Skinner. A Man. 
+1563(2): Rhaegar Targaryen. Pyat Pree. 
+1564(2): Rhaegar Targaryen. Lewyn Martell. 
+1565(2): Rhaegar Targaryen. Elia Martell. 
+1566(2): Kella. Littlefinger. 
+1567(2): Yna. Arya Stark. 
+1568(2): Yna. The Sailor's Wife. 
+1569(2): A Spearwife. A Man. 
+1570(2): Byron the Beautiful. Littlefinger. 
+1571(2): Byron the Beautiful. Ser Morgarth. 
+1572(2): Toasters. Paxter Redwyne. 
+1573(2): Toasters. Olenna Tyrell. 
+1574(2): Wyman Manderly. Roose Ryswell. 
+1575(2): A Soldier. Arya Stark. 
+1576(2): A Drunkard. A Peddler. 
+1577(2): A Voice. Thoren Smallwood. 
+1578(2): A Voice. Grenn. 
+1579(2): A Voice. Blane. 
+1580(2): A Voice. A Sergeant. 
+1581(2): A Gold Cloak. Myrcella Lannister. 
+1582(2): A Gold Cloak. Tarber. 
+1583(2): A Septa. A Guard. 
+1584(2): A Septa. A Cobbler. 
+1585(2): A Dreadfort Man. A Freerider. 
+1586(2): A Serving Man. Jon Connington. 
+1587(2): Red Oarsman. Germund Botley. 
+1588(2): Hibald. A Local. 
+1589(2): The Moon. Mormont's Raven. 
+1590(2): Arron. Jon Snow. 
+1591(2): Meryn Trant. Men. 
+1592(2): Cutjack. Kurz. 
+1593(2): Cutjack. Tarber. 
+1594(2): A Sentry. A Barrowtown Man. 
+1595(2): A Sentry. A Frey. 
+1596(2): Elinor. A Seamstress. 
+1597(2): Elinor. Megga Tyrell. 
+1598(2): Hothor Umber. Rickard Ryswell. 
+1599(2): Jory. Wyl. 
+1600(2): Jory. Street Vendors. 
+1601(2): Jace. Jon Snow. 
+1602(2): Rickard Ryswell. Barbrey Dustin. 
+1603(2): Sam. Creighton Longbough. 
+1604(2): Jorah Mormont. Viserys's Ghost. 
+1605(2): Ramsay Bolton. A Freerider. 
+1606(2): Ramsay Bolton. A Rider. 
+1607(2): Ramsay Bolton. Ben Bones. 
+1608(2): Yorko Terys. Arya Stark. 
+1609(2): Morton Waynwood. Catelyn Stark. 
+1610(2): Rorge. A Wounded Man. 
+1611(2): A Longshoreman. Arya Stark. 
+1612(2): Alyn Orkwood. Euron Greyjoy. 
+1613(2): Alyn Orkwood. Germund Botley. 
+1614(2): Humfrey Clifton. Ned Woods. 
+1615(2): Humfrey Clifton. Justin Massey. 
+1616(2): Garth. Ser Bartimus. 
+1617(2): A Knight. A Spearman. 
+1618(2): A Knight. Hosteen Frey. 
+1619(2): A Garth. Craster. 
+1620(2): The Smiling Knight. Oberyn Martell. 
+1621(2): The Smiling Knight. Arthur Dayne. 
+1622(2): Bran Stark. A Frey. 
+1623(2): Bran Stark. Three-Eyed Crow. 
+1624(2): Bran Stark. Black-haired Woman. 
+1625(2): A Costermonger. An Innkeep. 
+1626(2): Brendel Byrne. Jon Connington. 
+1627(2): A Wizard King. Pyat Pree. 
+1628(2): A Wizard King. A Woman. 
+1629(2): A Man. Devan Seaworth. 
+1630(2): A Man. Rus. 
+1631(2): Malo. Jon Connington. 
+1632(2): Qezza. Barristan Selmy. 
+1633(2): Grazdan. Dany Targaryen. 
+1634(2): The Mother. Davos Seaworth. 
+1635(2): Galazza Galare. Hugh Hungerford. 
+1636(2): Ralf Kenning. Ralf the Limper. 
+1637(2): People. Satin. 
+1638(2): Robett Glover. Catelyn Stark. 
+1639(2): Beric Dondarrion. Street Vendors. 
+1640(2): Jon's Men. Jon Snow. 
+1641(2): Maester Luwin. Gage. 
+1642(2): Unsullied. Dany Targaryen. 
+1643(2): William Wells. Cletus Yronwood. 
+1644(2): A Red Cloak. An Old Fat Septa. 
+1645(2): A Wife. A Serjeant. 
+1646(2): Mance Rayder. A Scout. 
+1647(2): Harbert. Steffon Baratheon. 
+1648(2): Ser Illifer. A Begging Brother. 
+1649(2): Tal Taraq. Barristan Selmy. 
+1650(2): Lady Tarbeck. An Innkeep. 
+1651(2): Lady Tarbeck. Steelshanks Walton. 
+1652(2): Jacks. Ned Stark. 
+1653(2): Walder Frey. Aemon Rivers's Daughter. 
+1654(2): Walder Frey. A Frey Son. 
+1655(2): Walder Frey. Merry Frey. 
+1656(2): Orson Stone. The Tattered Prince. 
+1657(2): A Karstark. Justin Massey. 
+1658(2): Jeor Mormont. Edmure Tully. 
+1659(2): A Young Man. Arya Stark. 
+1660(2): A Young Man. Dany Targaryen. 
+1661(2): Ned Stark. Waymar Royce. 
+1662(2): Roose Bolton. A Hornwood. 
+1663(2): Martyn Rivers. Perwyn Frey. 
+1664(2): Kurz. Koss. 
+1665(2): A Sailor. Davos Seaworth. 
+1666(2): Barristan Selmy. Draqaz. 
+1667(2): Trystane. Chataya. 
+1668(2): Trystane. Dancy. 
+1669(2): Euron Greyjoy. Captains. 
+1670(2): An Auctioneer. A Matron. 
+1671(2): Eroeh. Dany Targaryen. 
+1672(2): Albar Royce. Eon Hunter. 
+1673(2): A Guard. Rufus Leek. 
+1674(2): Guyard Morrigen. Randyll Tarly. 
+1675(2): Walda Bolton. Patrek Mallister. 
+1676(2): Amory Lorch. A Spearman. 
+1677(2): Danwell Frey. A Frey. 
+1678(2): Danwell Frey. Aenys Frey. 
+1679(2): A Pushcart Man. Arya Stark. 
+1680(2): Rufus Leek. A Maester. 
+1681(2): Steffon Baratheon. Shireen Baratheon. 
+1682(2): Grenn. Zei. 
+1683(2): Sallor. Dany Targaryen. 
+1684(2): Arya Stark. A Slow Boy. 
+1685(2): Arya Stark. A Lannister Bowman. 
+1686(2): Arya Stark. Worshipers. 
+1687(2): Arya Stark. Pynto. 
+1688(2): Arya Stark. An Archer. 
+1689(2): A Girl. Raymun Darry. 
+1690(2): A Girl. A Scarred Man. 
+1691(2): A Crossbowman. A Monk. 
+1692(2): A Crossbowman. Goodwife Amabel. 
+1693(2): Pyat Pree. Willem Darry. 
+1694(2): Septon Barth. An Old Slave. 
+1695(2): An Old Fat Septa. Tommen. 
+1696(2): A Smith. A Farmer. 
+1697(2): A Sausage Seller. Dany Targaryen. 
+1698(2): Clayton Suggs. A Weeping Boy. 
+1699(2): Clayton Suggs. Men. 
+1700(2): Zei. Spare Boot. 
+1701(2): A Frey. Shagwell. 
+1702(2): Randyll Tarly. A Bowman. 
+1703(2): Brogg. Soren Shieldbreaker. 
+1704(2): A Woman. An Old Slave. 
+1705(2): Davos Seaworth. Triston of Tally Hill. 
+1706(2): Davos Seaworth. Lewys Piper. 
+1707(2): Davos Seaworth. Borrell. 
+1708(2): Davos Seaworth. Imry Florent. 
+1709(2): Others. Mallador Locke. 
+1710(2): Others. Black Brothers. 
+1711(2): Cleos Frey. A Rider. 
+1712(2): Quort. Grigg. 
+1713(2): Quort. Del. 
+1714(2): Clubfoot Karl. Garth of Oldtown. 
+1715(2): Edwyn Frey. Clement Piper. 
+1716(2): A Black Brother. Blane. 
+1717(2): Ralf the Limper. Asha's Crew. 
+1718(2): Ralf the Limper. Quellon Humble. 
+1719(2): Khrazz. Spotted Cat. 
+1720(2): Quentyn Martell. Zahrina. 
+1721(2): Tysha. A Maester. 
+1722(2): Lyman Darry. Greatjon. 
+1723(2): Littlefinger. Bryen. 
+1724(2): Spotted Cat. Goghor. 
+1725(2): A Big Man. The Sailor's Wife. 
+1726(2): A Big Man. Voices. 
+1727(2): Robin Peasebury. Ned Woods. 
+1728(2): A One-Legged Man. Men. 
+1729(2): Rus. Aeron Damphair. 
+1730(2): Spare Boot. Jon Snow. 
+1731(2): A Sergeant. Jon Snow. 
+1732(2): Three-Finger Hobb. Black Jack Bulwer. 
+1733(2): Patrek Mallister. Alyx Frey. 
+1734(2): Barsena. Dany Targaryen. 
+1735(2): Dancers. Dareon. 
+1736(2): Haldon Halfmaester. Two Someones. 
+1737(2): Rickard Karstark. Jonos Bracken. 
+1738(2): Jon Snow. Knights. 
+1739(2): Jon Snow. Gerrick Kingsblood. 
+1740(2): Jon Snow. Garse. 
+1741(2): Jon Snow. Cregan Karstark. 
+1742(2): Jon Snow. An Eagle. 
+1743(2): Greydon Goodbrother. Aeron Damphair. 
+1744(2): Septas. A Peddler. 
+1745(2): Septas. A Whore. 
+1746(2): Roger Ryswell. A Serjeant. 
+1747(2): Serjeants. Corliss Penny. 
+1748(2): Clement Piper. Norbert Vance. 
+1749(2): Brienne. A Captain's Sister. 
+1750(2): Brienne. Vegetation. 
+1751(2): A Begging Brother. A Tall Woman. 
+1752(2): The Tattered Prince. Lewis Lanster. 
+1753(2): Dolorous Edd. Del. 
+1754(2): Jack-Be-Lucky. Selwyn Tarth. 
+1755(2): Arianne Martell. Cedra. 
+1756(2): Arianne Martell. Voices. 
+1757(2): A Pitmaster. An Animal Trainer. 
+1758(2): A Pitmaster. Penny. 
+1759(2): A Rider. A Hornwood. 
+1760(2): A Rider. A Serjeant. 
+1761(2): A Rider. An Archer. 
+1762(2): Knights. Lord Fell. 
+1763(2): Harys Haigh. Hosteen Frey. 
+1764(2): Edmure Tully. Perwyn Frey. 
+1765(2): Edmure Tully. Hoster's Steward. 
+1766(2): Arnolf Karstark. Justin Massey. 
+1767(2): A Brown-Skinned Man. Dany Targaryen. 
+1768(2): The Sailor's Wife. A Kindly Man. 
+1769(2): The Sailor's Wife. Dareon. 
+1770(2): Roose Ryswell. Harwood Stout. 
+1771(2): Asha's Crew. Baelor Blacktyde. 
+1772(2): Brella. A Maester. 
+1773(2): Lewyn Martell. Oswell Whent. 
+1774(2): A Servant. Olenna Tyrell. 
+1775(2): An Old Crone. Dany Targaryen. 
+1776(2): Garth of Oldtown. Dirk. 
+1777(2): Arthor Karstark. Justin Massey. 
+1778(2): A Raven. Raven. 
+1779(2): A Farmer. Joss. 
+1780(2): Goghor. Dany Targaryen. 
+1781(2): Emmond. Aeron Damphair. 
+1782(2): Lord Fell. Justin Massey. 
+1783(2): Maslyn. Raven. 
+1784(2): Grazdan zo Galare. Dany Targaryen. 
+1785(2): A Drinker. A Greybeard. 
+1786(2): Big Bucket Wull. Men. 
+1787(2): Harwood Stout. Hosteen Frey. 
+1788(2): Cortnay Penrose. Lord Estermont. 
+1789(2): A Weeping Man. A Serjeant. 
+1790(2): Doran Martell. Mellario. 
+1791(2): Justin Massey. Will Foxglove. 
+1792(2): A Connington. Jon Connington. 
+1793(2): Lewys Piper. Daven Lannister. 
+1794(2): Jon Darry. Oswell Whent. 
+1795(2): A Matron. A Yunkishman. 
+1796(2): A Kindly Man. Voices. 
+1797(2): Gerrick Kingsblood. Soren Shieldbreaker. 
+1798(2): A Maester. A Senile Knight. 
+1799(2): Mother Mole. Thistle. 
+1800(2): Halleck. A Scarred Man. 
+1801(2): Zahrina. A Yunkishman. 
+1802(2): Brusco. Talea. 
+1803(2): A Cerwyn Knight. Cley Cerwyn. 
+1804(2): Voices. Drumm. 
+1805(2): Dany Targaryen. A Qartheen. 
+1806(2): Dany Targaryen. Riders. 
+1807(2): Slave Girl. Viserys. 
