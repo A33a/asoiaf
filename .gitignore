@@ -1,2 +1,7 @@
 run
 test.in
+ASOIAF
+*.exe
+*.ilk
+*.pdb
+.gitattributes

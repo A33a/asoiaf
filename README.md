@@ -4,7 +4,7 @@ Statistics of "A Song Of Ice And Fire" based on graph theory. The graph of chara
 ###BFS
 The breadth-first search algorithm is used to calculate the diameter of the graph and farthest path for all vertices and the average of it. 
 ###DFS
-The depth-first search algorithms is used to calculate the amount of connected components in the graph.
+The depth-first search algorithm is used to calculate the amount of connected components in the graph.
 ###Bron-Kerbosch algorithm
 Used for calculating the maximal cliques in the graph.
 ###Kruskal’s algorithm
