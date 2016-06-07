@@ -4,6 +4,7 @@
 #include "bridges_articulations.h"
 #include "cliques.h"
 #include "spanning.h"
+#include "cut.h"
 
 int main() {
     read_data();
@@ -14,4 +15,5 @@ int main() {
 //    find_cliques();
 //    get_spanning_tree();
     find_bridges_and_articulations();
+    find_cut();
 }
