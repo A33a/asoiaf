@@ -8,10 +8,16 @@ struct edge_s{
 };
 
 vector< pair<int, int> > top_degree;
+vector< pair<int, int> > top_flow;
 vector<int> dis;
 vector<int> ptr;
 vector<edge_s> edgelist;
 vector< vector<int> > edges_dup;
+
+bool compare_pairs_by_second(const pair<int, int> &i, const pair<int, int> &j)
+{
+    return (i.second > j.second);
+}
 
 bool bfs_dinic(int s, int t) {
     queue<int> q;
@@ -65,13 +71,9 @@ int dfs_dinic(int v, int t, int flow) {
     return 0;
 }
 
-long long dinic_flow(int n, int s, int t) {
+long long dinic_flow(int s, int t) {
     long long flow = 0;
-    
-    dis.resize(V, 0);
-    ptr.resize(V, 0);
-    edges_dup.resize(V, vector<int>());
-    
+     
     while (true) {
         fill(dis.begin(), dis.end(), -1);
         
@@ -98,6 +100,14 @@ void dinic_addedge(int a, int b, int c) {
 void find_cut() {
     freopen("cut_min.txt", "w", stdout); // output file
     
+    dis.resize(2 * V, 0);
+    ptr.resize(2 * V, 0);
+    edges_dup.resize(2 * V, vector<int>(0));
+    const int top = min(100, V);
+
+    for (int i = 0; i < V; i++)
+        top_flow.push_back(make_pair(0, i));
+
     for (int i = 0; i < V; i++) {
         top_degree.push_back(make_pair(edge[i].size(), i));
         for (int j = 0; j < edge[i].size(); j++) {
@@ -109,17 +119,30 @@ void find_cut() {
     
     stable_sort(top_degree.rbegin(), top_degree.rend());
     
-    for (int i = 0; i < 5; i++) {
-        for (int j = i + 1; j < 5; j++) {
+    cout << "Minimum cut between characters:" << endl;
+    for (int i = 0; i < top; i++) {
+        for (int j = i + 1; j < top; j++) {
             vector<int>::iterator p = find(edge[top_degree[i].second].begin(), edge[top_degree[i].second].end(), top_degree[j].second);
             
-            if (p == edge[top_degree[i].second].end()) {
+            if (p != edge[top_degree[i].second].end())
                 continue;
-            } else {
-                cout << name[top_degree[i].second] << " -> " << name[top_degree[j].second] << endl;
-            }
             
+            int flow = dinic_flow(top_degree[i].second, top_degree[j].second + V);
+            cout << name[top_degree[i].second] << " -> " << name[top_degree[j].second] << " = " << flow << endl;     
+
+            for (int k = 0; k < edgelist.size(); k++) {
+                if ((edgelist[k].a == (edgelist[k].b + V)) && (edgelist[k].flow == 1)) {
+                    top_flow[edgelist[k].b].first++;
+                }
+                edgelist[k].flow = 0;
+            }
         }
     }
-    cout << "lala";
+    
+    stable_sort(top_flow.rbegin(), top_flow.rend());
+
+    cout << endl << "Top involved characters in the flows:" << endl;
+    for (int i = 0; i < top; i++) {
+        cout << name[top_flow[i].second] << " (" << top_flow[i].first << ")" << endl;
+    }
 }

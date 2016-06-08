@@ -9,3 +9,7 @@ The depth-first search algorithm is used to calculate the amount of connected co
 Used for calculating the maximal cliques in the graph.
 ###Kruskal’s algorithm
 Used for building the spanning tree of the graph. 
+###Bridges & Articulation points
+Used DFS with time and additional out function for determining bridges and articulation points
+###Dinic's algorithm
+Used Dinic's algorithm for calculating maximal flow of extended graph to determine cut vertices instead of edges. 

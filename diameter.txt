@@ -1,27 +1,128 @@
 Diameter: 8
-Average path: 3.52896
-Average farthest path: 5.84116
+Average path: 3.60519
+Average farthest path: 6.16018
 Farthest paths:
-1: Mother Mole. Thistle. Varamyr. Jon Snow. Tyrion Lannister. Jorah Mormont. Dany Targaryen. An Old Crone. Crones General. 
-2: Mother Mole. Thistle. Varamyr. Jon Snow. Ned Stark. Barristan Selmy. Quentyn Martell. The Tattered Prince. Orson Stone. 
-3: Mother Mole. Thistle. Varamyr. Jon Snow. Ned Stark. Barristan Selmy. Quentyn Martell. Caggo. Lucifer Long. 
-4: Mother Mole. Thistle. Varamyr. Jon Snow. Theon Greyjoy. Aeron Damphair. Quellon Humble. Fralegg the Strong. Alvyn Sharp. 
-5: Crones General. An Old Crone. Dany Targaryen. People. Melisandre. Mance Rayder. Varamyr. Thistle. Mother Mole. 
-6: Orson Stone. The Tattered Prince. Gerris Drinkwater. A Captain. Theon Greyjoy. Mance Rayder. Varamyr. Thistle. Mother Mole. 
-7: Lucifer Long. The Tattered Prince. Gerris Drinkwater. A Captain. Theon Greyjoy. Mance Rayder. Varamyr. Thistle. Mother Mole. 
-8: Alvyn Sharp. Red Ralf Stonehouse. Euron Greyjoy. Asha Greyjoy. Theon Greyjoy. Mance Rayder. Varamyr. Thistle. Mother Mole. 
-9: Lewis Lanster. The Tattered Prince. Gerris Drinkwater. A Captain. Theon Greyjoy. Mance Rayder. Varamyr. Thistle. Mother Mole. 
-10: Mother Mole. Thistle. Varamyr. Jon Snow. Ned Stark. Barristan Selmy. Quentyn Martell. The Tattered Prince. Lewis Lanster. 
+1: Crones General. An Old Crone. Dany Targaryen. Barristan Selmy. Ned Stark. Theon Greyjoy. Asha Greyjoy. Cromm. Hagen. 
+2: William Wells. Cletus Yronwood. Gerris Drinkwater. Barristan Selmy. Ned Stark. Theon Greyjoy. Asha Greyjoy. Cromm. Hagen. 
+3: Orson Stone. The Tattered Prince. Gerris Drinkwater. Barristan Selmy. Ned Stark. Theon Greyjoy. Asha Greyjoy. Cromm. Hagen. 
+4: Lucifer Long. The Tattered Prince. Gerris Drinkwater. Barristan Selmy. Ned Stark. Theon Greyjoy. Asha Greyjoy. Cromm. Hagen. 
+5: Lewis Lanster. The Tattered Prince. Gerris Drinkwater. Barristan Selmy. Ned Stark. Theon Greyjoy. Asha Greyjoy. Cromm. Hagen. 
+6: Hagen. Grimtongue. Asha Greyjoy. A Voice. Tyrion Lannister. Jorah Mormont. Dany Targaryen. An Old Crone. Crones General. 
+7: Ned Woods. Robin Peasebury. Godry Farring. Jon Snow. Tyrion Lannister. Jorah Mormont. Dany Targaryen. An Old Crone. Crones General. 
+8: Mother Mole. Thistle. Varamyr. Jon Snow. Tyrion Lannister. Jorah Mormont. Dany Targaryen. An Old Crone. Crones General. 
+9: Alvyn Sharp. Red Ralf Stonehouse. Euron Greyjoy. Voices. Hizdahr zo Loraq. Dany Targaryen. Jorah Mormont. Viserys's Ghost. Ghosts. 
+10: Alvyn Sharp. Red Ralf Stonehouse. Euron Greyjoy. Aeron Damphair. An Inkeeper. Yoren. Koss. Kurz. Cutjack. 
+11: Hagen. Grimtongue. Asha Greyjoy. Theon Greyjoy. Ned Stark. Barristan Selmy. Quentyn Martell. Cletus Yronwood. William Wells. 
+12: Ned Woods. Robin Peasebury. Godry Farring. Jon Snow. Ned Stark. Barristan Selmy. Quentyn Martell. Cletus Yronwood. William Wells. 
+13: Mother Mole. Thistle. Varamyr. Jon Snow. Ned Stark. Barristan Selmy. Quentyn Martell. Cletus Yronwood. William Wells. 
+14: Hagen. Grimtongue. Asha Greyjoy. Theon Greyjoy. Ned Stark. Barristan Selmy. Quentyn Martell. The Tattered Prince. Orson Stone. 
+15: Ned Woods. Robin Peasebury. Godry Farring. Jon Snow. Ned Stark. Barristan Selmy. Quentyn Martell. The Tattered Prince. Orson Stone. 
+16: Mother Mole. Thistle. Varamyr. Jon Snow. Ned Stark. Barristan Selmy. Quentyn Martell. The Tattered Prince. Orson Stone. 
+17: Hagen. Grimtongue. Asha Greyjoy. Theon Greyjoy. Ned Stark. Barristan Selmy. Quentyn Martell. Caggo. Lucifer Long. 
+18: Ned Woods. Robin Peasebury. Godry Farring. Jon Snow. Ned Stark. Barristan Selmy. Quentyn Martell. Caggo. Lucifer Long. 
+19: Mother Mole. Thistle. Varamyr. Jon Snow. Ned Stark. Barristan Selmy. Quentyn Martell. Caggo. Lucifer Long. 
+20: Ghosts. Viserys's Ghost. Jorah Mormont. Tyrion Lannister. Theon Greyjoy. Aeron Damphair. Quellon Humble. Fralegg the Strong. Alvyn Sharp. 
+21: Cutjack. Tarber. A Gold Cloak. Steelshanks Walton. Theon Greyjoy. Aeron Damphair. Quellon Humble. Fralegg the Strong. Alvyn Sharp. 
+22: Mother Mole. Thistle. Varamyr. Jon Snow. Theon Greyjoy. Aeron Damphair. Quellon Humble. Fralegg the Strong. Alvyn Sharp. 
+23: Crones General. An Old Crone. Dany Targaryen. People. Melisandre. Stannis Baratheon. Justin Massey. Robin Peasebury. Ned Woods. 
+24: William Wells. Cletus Yronwood. Gerris Drinkwater. Barristan Selmy. Renly Baratheon. Stannis Baratheon. Justin Massey. Robin Peasebury. Ned Woods. 
+25: Orson Stone. The Tattered Prince. Gerris Drinkwater. Barristan Selmy. Renly Baratheon. Stannis Baratheon. Justin Massey. Robin Peasebury. Ned Woods. 
+26: Lucifer Long. The Tattered Prince. Gerris Drinkwater. Barristan Selmy. Renly Baratheon. Stannis Baratheon. Justin Massey. Robin Peasebury. Ned Woods. 
+27: Lewis Lanster. The Tattered Prince. Gerris Drinkwater. Barristan Selmy. Renly Baratheon. Stannis Baratheon. Justin Massey. Robin Peasebury. Ned Woods. 
+28: Crones General. An Old Crone. Dany Targaryen. People. Melisandre. Mance Rayder. Varamyr. Thistle. Mother Mole. 
+29: William Wells. Cletus Yronwood. Doran Martell. Ellaria Sand. Tyrion Lannister. Jon Snow. Varamyr. Thistle. Mother Mole. 
+30: Orson Stone. The Tattered Prince. Gerris Drinkwater. A Herald. Tyrion Lannister. Jon Snow. Varamyr. Thistle. Mother Mole. 
+31: Lucifer Long. The Tattered Prince. Gerris Drinkwater. A Herald. Tyrion Lannister. Jon Snow. Varamyr. Thistle. Mother Mole. 
+32: Alvyn Sharp. Red Ralf Stonehouse. Euron Greyjoy. Asha Greyjoy. Theon Greyjoy. Mance Rayder. Varamyr. Thistle. Mother Mole. 
+33: Lewis Lanster. The Tattered Prince. Gerris Drinkwater. A Herald. Tyrion Lannister. Jon Snow. Varamyr. Thistle. Mother Mole. 
+34: Hagen. Grimtongue. Asha Greyjoy. Theon Greyjoy. Ned Stark. Barristan Selmy. Quentyn Martell. The Tattered Prince. Lewis Lanster. 
+35: Ned Woods. Robin Peasebury. Godry Farring. Jon Snow. Ned Stark. Barristan Selmy. Quentyn Martell. The Tattered Prince. Lewis Lanster. 
+36: Mother Mole. Thistle. Varamyr. Jon Snow. Ned Stark. Barristan Selmy. Quentyn Martell. The Tattered Prince. Lewis Lanster. 
 Farthest paths distribution:
 0: 0
 1: 0
 2: 0
 3: 0
-4: 2
-5: 311
-6: 662
-7: 127
-8: 6
+4: 0
+5: 77
+6: 785
+7: 232
+8: 11
 Characters with minimum farthest path:
+Denys Mallister
+Someone
 Theon Greyjoy
+Arys Oakheart
+Melisandre
+Renly Baratheon
+Robb
+Tyrion Lannister
+Lem Lemoncloak
+Jaime Lannister
+Brown Ben Plumm
+Cersei Lannister
+Maester Cressen
+Hullen
+A Herald
+Janos Slynt
+Joffrey Lannister
+Septa Unella
+Sandor Clegane
+An Old Woman
+A Boy
+A Squire
+Wendel Manderly
+Vargo Hoat
+Wyman Manderly
+Yoren
+A Voice
+Jory
+Sam
+Bran Stark
+A Freerider
+Maester Luwin
+Jeyne Poole
+Walder Frey
+Ned Stark
+Oberyn Martell
+Roose Bolton
+A Sailor
+Barristan Selmy
+Rodrik Cassel
+Grenn
+Arya Stark
+Strongboar
+Davos Seaworth
+Balon Swann
+Brynden Tully
+Tysha
+Aemon Targaryen
 Catelyn Stark
+A Sergeant
+Mormont's Raven
+Moqorro
+Qyburn
+Jon Snow
+Brienne
+Dolorous Edd
+Yandry
+Hodor
+Penny
+An Inkeeper
+Vogarro's Whore
+Myrcella Lannister
+Aeron Damphair
+Bowen Marsh
+A Sallow Man
+Men
+A Kindly Man
+Othell Yarwyck
+Stannis Baratheon
+Voices
+Aenys Frey
+A Serjeant
+Jon Connington
+Cotter Pyke
+Satin
+An Archer
+Greenbeard

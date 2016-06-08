@@ -9,11 +9,11 @@
 int main() {
     read_data();
 
-//    degree();
-//    count_components();
-//    calculate_diameter();
-//    find_cliques();
-//    get_spanning_tree();
+    degree();
+    count_components();
+    calculate_diameter();
+    find_cliques();
+    get_spanning_tree();
     find_bridges_and_articulations();
     find_cut();
 }
