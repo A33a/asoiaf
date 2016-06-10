@@ -1,6 +1,9 @@
 #include "definitions.h"
 
+namespace
+{
 vector<int> p;
+}
 
 int dsu_get(int v) {
     return (v == p[v]) ? v : (p[v] = dsu_get(p[v]));
@@ -21,11 +24,11 @@ void dsu_unite(int u, int v) {
 void get_spanning_tree() {
     freopen("spanning.txt", "w", stdout); // output file
 
-    vector < pair < int, pair<int, int> > > edges_weights, result;
+    vector < pair < int, pair<int, int> > > edges_weights, results;
 
     vector < vector<bool> > used;
     for (int i = 0; i < V; i++) {
-        used.push_back(vector<bool>(V, false));
+        used.emplace_back(V, false);
     }
 
     for (int i = 0; i < V; i++) {
@@ -49,14 +52,15 @@ void get_spanning_tree() {
         int u = edges_weights[i].second.first;
         int v = edges_weights[i].second.second;
         int w = edges_weights[i].first;
+        (void)w;
 
         if (dsu_get(u) != dsu_get(v)) {
-            result.push_back(edges_weights[i]);
+            results.push_back(edges_weights[i]);
             dsu_unite(u, v);
         }
     }
 
-    for (vector < pair < int, pair<int, int> > >::iterator i = result.begin(); i != result.end(); i++) {
-        cout << id[(i->second).first] << " " << id[(i->second).second] << " " << i->first << endl;
+    for (const auto& result : results) {
+        cout << id[result.second.first] << " " << id[result.second.second] << " " << result.first << endl;
     }
 }

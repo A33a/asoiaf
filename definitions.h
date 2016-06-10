@@ -14,7 +14,6 @@
 
 using namespace std;
 
-extern int reverseID[];
 extern vector<int> id;
 extern vector< vector<int> > weight, edge;
 extern map<int, string> name;

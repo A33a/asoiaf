@@ -1,37 +1,39 @@
 #include "definitions.h"
 
-vector < vector<int> > cliques;
+namespace
+{
+
+vector<vector<int>> cliques;
 
 bool compare_vectors_by_size(const vector<int> &i, const vector<int> &j)
 {
     return (i.size() > j.size());
 }
 
+}
+
 void bron_kerbosch(set <int> R, set <int> P, set <int> X) { // where R is probable clique, P - possible vertices in clique, X - exluded vertices
-    if (P.size() == 0 && X.size() == 0) { // R is maximal clique
-        cliques.push_back(vector<int>(0));
-        for (set<int>::iterator i = R.begin(); i != R.end(); i++) {
-            cliques.back().push_back(*i);
-        }
+    if (P.empty() && X.empty()) { // R is maximal clique
+        cliques.emplace_back(R.begin(), R.end());
     }
     else {
         set <int> foriterate = P;
-        for (set<int>::iterator i = foriterate.begin(); i != foriterate.end(); i++) {
+        for (auto i : foriterate) {
             set <int> newR;
             set <int> newP;
             set <int> newX;
 
             newR = R;
-            newR.insert(*i);
+            newR.insert(i);
 
-            set_intersection(P.begin(), P.end(), edge[*i].begin(), edge[*i].end(), inserter(newP, newP.begin()));
+            set_intersection(P.begin(), P.end(), edge[i].begin(), edge[i].end(), inserter(newP, newP.begin()));
 
-            set_intersection(X.begin(), X.end(), edge[*i].begin(), edge[*i].end(), inserter(newX, newX.begin()));
+            set_intersection(X.begin(), X.end(), edge[i].begin(), edge[i].end(), inserter(newX, newX.begin()));
 
             bron_kerbosch(newR, newP, newX);
 
-            P.erase(*i);
-            X.insert(*i);
+            P.erase(i);
+            X.insert(i);
         }
     }
 }
