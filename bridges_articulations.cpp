@@ -28,7 +28,7 @@ int count_from(int v, int skip, bool clean = true){
     if (clean) {
         fill(usedcnt.begin(), usedcnt.end(), false);
     }
-         
+
     return count_rec(v, skip);
 }
 

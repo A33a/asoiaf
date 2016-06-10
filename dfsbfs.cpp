@@ -1,14 +1,17 @@
 #include "definitions.h"
 
+namespace
+{
 vector<bool> useddfs, usedbfs;
 vector<int> comp;
+}
 
 void dfs(int u) {
     useddfs[u] = true;
     comp.push_back(u);
-    for (vector<int>::iterator i = edge[u].begin(); i != edge[u].end(); i++)
-        if (!useddfs[*i])
-            dfs(*i);
+    for (int i : edge[u])
+        if (!useddfs[i])
+            dfs(i);
 }
 
 void bfs(int u, vector<int> &distance, vector<int> &path) {
@@ -19,8 +22,7 @@ void bfs(int u, vector<int> &distance, vector<int> &path) {
     while (!q.empty()) {
         int u = q.front();
         q.pop();
-        for (vector<int>::iterator i = edge[u].begin(); i != edge[u].end(); i++) {
-            int to = *i;
+        for (int to : edge[u]) {
             if (!usedbfs[to]) {
                 usedbfs[to] = true;
                 q.push(to);
@@ -90,7 +92,7 @@ void calculate_diameter() {
     cout << "Average path: " << average_average << endl;
     cout << "Average farthest path: " << average_max << endl;
 
-    vector < vector<int> > farthest_path;    
+    vector < vector<int> > farthest_path;
 
     for (int i = 0; i < farthest_node.size(); i++) {
         farthest_path.push_back(vector<int>());
