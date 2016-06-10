@@ -1,17 +1,18 @@
 #include "definitions.h"
 
+namespace
+{
 vector<bool> used, usedcnt;
 int timer = 0;
 vector<int> tin, fout, articulations;
 vector < pair<int,int> > bridges;
+}
 
 int count_rec(int v, int skip) {
     int cnt = 1;
     usedcnt[v] = true;
 
-    for (int i = 0; i < edge[v].size(); i++) {
-        int to = edge[v][i];
-
+    for (int to : edge[v]) {
         if(to == skip || usedcnt[to]) 
             continue;
 
@@ -25,8 +26,7 @@ int count_from(int v, int skip, bool clean = true){
     usedcnt.resize(V, false);
 
     if (clean) {
-        for (int i = 0; i < usedcnt.size(); i++)
-            usedcnt[i] = false;
+        fill(usedcnt.begin(), usedcnt.end(), false);
     }
          
     return count_rec(v, skip);
@@ -38,10 +38,9 @@ void dfs(int v, int prev = -1) {
 
     int root_calls = 0;
     bool in_ar_list = false;
-    for (int i = 0; i < edge[v].size(); i++) {
-        int to = edge[v][i];
-
-        if (to == prev)  continue;
+    for (int to : edge[v]) {
+        if (to == prev) 
+            continue;
 
         if (used[to])
             fout[v] = min(fout[v], tin[to]);
@@ -57,13 +56,13 @@ void dfs(int v, int prev = -1) {
                 articulations.push_back(v);
                 in_ar_list = true;
             }
-            
+
             root_calls++;
         }
     }
     
-	if (prev == -1 && root_calls > 1)
-		articulations.push_back(v);
+    if (prev == -1 && root_calls > 1)
+        articulations.push_back(v);
 }
 
 void find_bridges_and_articulations() {
@@ -78,18 +77,20 @@ void find_bridges_and_articulations() {
             dfs(i);
     
     cout << "Bridges:" << endl;
-    for (int i = 0; i < bridges.size(); i++) {
-        cout << name[bridges[i].first] << " (" << count_from(bridges[i].first, bridges[i].second) << ") - " << name[bridges[i].second] << " (" << count_from(bridges[i].second, bridges[i].first) <<")" << endl;
+    for (const auto& bridge : bridges) {
+        cout << name[bridge.first]
+             << " (" << count_from(bridge.first, bridge.second)
+             << ") - " << name[bridge.second]
+             << " (" << count_from(bridge.second, bridge.first)
+             << ")\n";
     }
     
     
     cout << endl << "Articulation points:" << endl;  
-    for (int i = 0; i < articulations.size(); i++) {
-        int cur = articulations[i];
+    for (int cur : articulations) {
         cout << name[cur];
         
-        for (int i = 0; i < usedcnt.size(); i++)
-            usedcnt[i] = false;
+        fill(usedcnt.begin(), usedcnt.end(), false);
             
         for (int j = 0; j < edge[cur].size(); j++) {
             if (!usedcnt[edge[cur][j]]) {

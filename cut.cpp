@@ -1,5 +1,7 @@
 #include "definitions.h"
 
+namespace 
+{
 const int INF = 1000000000;
 
 struct edge_s{
@@ -13,10 +15,6 @@ vector<int> dis;
 vector<int> ptr;
 vector<edge_s> edgelist;
 vector< vector<int> > edges_dup;
-
-bool compare_pairs_by_second(const pair<int, int> &i, const pair<int, int> &j)
-{
-    return (i.second > j.second);
 }
 
 bool bfs_dinic(int s, int t) {
