@@ -13,3 +13,11 @@ Used for building the spanning tree of the graph.
 Used DFS with time and additional out function for determining bridges and articulation points
 ###Dinic's algorithm
 Used Dinic's algorithm for calculating maximal flow of extended graph to determine cut vertices instead of edges. 
+###How to build
+Now it is possible to use CMake to generate a build config, for example:
+
+```
+$ mkdir build && cd build
+$ cmake ..
+$ make
+```
