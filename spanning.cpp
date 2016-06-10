@@ -49,6 +49,7 @@ void get_spanning_tree() {
         int u = edges_weights[i].second.first;
         int v = edges_weights[i].second.second;
         int w = edges_weights[i].first;
+        (void)w;
 
         if (dsu_get(u) != dsu_get(v)) {
             result.push_back(edges_weights[i]);
