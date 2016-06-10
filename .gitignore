@@ -5,3 +5,7 @@ ASOIAF
 *.ilk
 *.pdb
 .gitattributes
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.cmake
