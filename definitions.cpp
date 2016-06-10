@@ -1,6 +1,5 @@
 #include "definitions.h"
 
-int reverseID[3000];
 vector<int> id; // origin ID of characters
 vector< vector<int> > weight; // weights of edges
 vector< vector<int> > edge; // the graph's edges
@@ -15,6 +14,7 @@ void read_data() {
     id.resize(V);
     weight.resize(V);
     edge.resize(V);
+    vector<int> reverseID(E);
 
     int u;
     char s[100];

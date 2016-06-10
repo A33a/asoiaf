@@ -26,9 +26,8 @@ bool bfs_dinic(int s, int t) {
         int v = q.front();
         q.pop();
         
-        for (int i = 0; i < edges_dup[v].size(); i++) {
-            int ind = edges_dup[v][i],
-            next = edgelist[ind].b;
+        for (int ind : edges_dup[v]) {
+            int next = edgelist[ind].b;
             
             if (dis[next] == -1 && edgelist[ind].flow < edgelist[ind].c) {
                 q.push(next);

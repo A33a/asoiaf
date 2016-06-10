@@ -1,6 +1,9 @@
 #include "definitions.h"
 
+namespace
+{
 vector<int> p;
+}
 
 int dsu_get(int v) {
     return (v == p[v]) ? v : (p[v] = dsu_get(p[v]));
@@ -25,7 +28,7 @@ void get_spanning_tree() {
 
     vector < vector<bool> > used;
     for (int i = 0; i < V; i++) {
-        used.push_back(vector<bool>(V, false));
+        used.emplace_back(V, false);
     }
 
     for (int i = 0; i < V; i++) {
